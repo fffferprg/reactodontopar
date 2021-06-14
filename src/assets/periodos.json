@@ -1,0 +1,482 @@
+[
+  {
+    "codigo": 1,
+    "periodoAnho": "2018",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 2,
+    "periodoAnho": "2018",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 3,
+    "periodoAnho": "2018",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 4,
+    "periodoAnho": "2018",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 5,
+    "periodoAnho": "2018",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 6,
+    "periodoAnho": "2018",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 7,
+    "periodoAnho": "2018",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 8,
+    "periodoAnho": "2018",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 9,
+    "periodoAnho": "2018",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 10,
+    "periodoAnho": "2018",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 11,
+    "periodoAnho": "2018",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 12,
+    "periodoAnho": "2018",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 13,
+    "periodoAnho": "2019",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 14,
+    "periodoAnho": "2019",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 15,
+    "periodoAnho": "2019",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 16,
+    "periodoAnho": "2019",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 17,
+    "periodoAnho": "2019",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 18,
+    "periodoAnho": "2019",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 19,
+    "periodoAnho": "2019",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 20,
+    "periodoAnho": "2019",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 21,
+    "periodoAnho": "2019",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 22,
+    "periodoAnho": "2019",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 23,
+    "periodoAnho": "2019",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 24,
+    "periodoAnho": "2019",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 25,
+    "periodoAnho": "2020",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 26,
+    "periodoAnho": "2020",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 27,
+    "periodoAnho": "2020",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 28,
+    "periodoAnho": "2020",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 29,
+    "periodoAnho": "2020",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 30,
+    "periodoAnho": "2020",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 31,
+    "periodoAnho": "2020",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 32,
+    "periodoAnho": "2020",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 33,
+    "periodoAnho": "2020",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 34,
+    "periodoAnho": "2020",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 35,
+    "periodoAnho": "2020",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 36,
+    "periodoAnho": "2020",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 37,
+    "periodoAnho": "2021",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 38,
+    "periodoAnho": "2021",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 39,
+    "periodoAnho": "2021",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 40,
+    "periodoAnho": "2021",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 41,
+    "periodoAnho": "2021",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 42,
+    "periodoAnho": "2021",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 43,
+    "periodoAnho": "2021",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 44,
+    "periodoAnho": "2021",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 45,
+    "periodoAnho": "2021",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 46,
+    "periodoAnho": "2021",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 47,
+    "periodoAnho": "2021",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 48,
+    "periodoAnho": "2021",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 49,
+    "periodoAnho": "2022",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 50,
+    "periodoAnho": "2022",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 51,
+    "periodoAnho": "2022",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 52,
+    "periodoAnho": "2022",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 53,
+    "periodoAnho": "2022",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 54,
+    "periodoAnho": "2022",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 55,
+    "periodoAnho": "2022",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 56,
+    "periodoAnho": "2022",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 57,
+    "periodoAnho": "2022",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 58,
+    "periodoAnho": "2022",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 59,
+    "periodoAnho": "2022",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 60,
+    "periodoAnho": "2022",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 61,
+    "periodoAnho": "2023",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 62,
+    "periodoAnho": "2023",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 63,
+    "periodoAnho": "2023",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 64,
+    "periodoAnho": "2023",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 65,
+    "periodoAnho": "2023",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 66,
+    "periodoAnho": "2023",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 67,
+    "periodoAnho": "2023",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 68,
+    "periodoAnho": "2023",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 69,
+    "periodoAnho": "2023",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 70,
+    "periodoAnho": "2023",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 71,
+    "periodoAnho": "2023",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 72,
+    "periodoAnho": "2023",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 73,
+    "periodoAnho": "2024",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 74,
+    "periodoAnho": "2024",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 75,
+    "periodoAnho": "2024",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 76,
+    "periodoAnho": "2024",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 77,
+    "periodoAnho": "2024",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 78,
+    "periodoAnho": "2024",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 79,
+    "periodoAnho": "2024",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 80,
+    "periodoAnho": "2024",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 81,
+    "periodoAnho": "2024",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 82,
+    "periodoAnho": "2024",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 83,
+    "periodoAnho": "2024",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 84,
+    "periodoAnho": "2024",
+    "periodoMes": "Diciembre"
+  },
+  {
+    "codigo": 85,
+    "periodoAnho": "2025",
+    "periodoMes": "Enero"
+  },
+  {
+    "codigo": 86,
+    "periodoAnho": "2025",
+    "periodoMes": "Febrero"
+  },
+  {
+    "codigo": 87,
+    "periodoAnho": "2025",
+    "periodoMes": "Marzo"
+  },
+  {
+    "codigo": 88,
+    "periodoAnho": "2025",
+    "periodoMes": "Abril"
+  },
+  {
+    "codigo": 89,
+    "periodoAnho": "2025",
+    "periodoMes": "Mayo"
+  },
+  {
+    "codigo": 90,
+    "periodoAnho": "2025",
+    "periodoMes": "Junio"
+  },
+  {
+    "codigo": 91,
+    "periodoAnho": "2025",
+    "periodoMes": "Julio"
+  },
+  {
+    "codigo": 92,
+    "periodoAnho": "2025",
+    "periodoMes": "Agosto"
+  },
+  {
+    "codigo": 93,
+    "periodoAnho": "2025",
+    "periodoMes": "Setiembre"
+  },
+  {
+    "codigo": 94,
+    "periodoAnho": "2025",
+    "periodoMes": "Octubre"
+  },
+  {
+    "codigo": 95,
+    "periodoAnho": "2025",
+    "periodoMes": "Noviembre"
+  },
+  {
+    "codigo": 96,
+    "periodoAnho": "2025",
+    "periodoMes": "Diciembre"
+  }
+]

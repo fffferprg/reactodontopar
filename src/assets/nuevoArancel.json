@@ -1,0 +1,2102 @@
+[
+    {
+      "codigo": "70010001",
+      "productoNombre": "Consultas odontologicas en consultorio",
+      "precioVenta": 82698,
+      "productoGarantia": 90,
+      "productoTipo": "cantidad"
+    },
+    {
+      "codigo": "70010002",
+      "productoNombre": "Consultas odontologicas de urgencia (sabados, domingos, feriados)",
+      "precioVenta": 132317,
+      "productoGarantia": 1,
+      "productoTipo": "cantidad"
+    },
+    {
+      "codigo": "70020001",
+      "productoNombre": "Alveolectomia por zona",
+      "precioVenta": 270648,
+      "productoGarantia": 1,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70020002",
+      "productoNombre": "Cirugia de bridas musculares",
+      "precioVenta": 186071,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020003",
+      "productoNombre": "Cirugia para biopsia",
+      "precioVenta": 578886,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020004",
+      "productoNombre": "Exodoncia de restos radiculares por osteotomia",
+      "precioVenta": 526260,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020005",
+      "productoNombre": "Exodoncia de terceros molares en erupcion normal",
+      "precioVenta": 451080,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020006",
+      "productoNombre": "Exodoncia en dientes retenidos",
+      "precioVenta": 676620,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020007",
+      "productoNombre": "Exodoncias de casos normales",
+      "precioVenta": 180432,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020007",
+      "productoNombre": "Incision de abscesos (via extraoral)",
+      "precioVenta": 297713,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020009",
+      "productoNombre": "Incision de abscesos (via intraoral)",
+      "precioVenta": 297713,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020010",
+      "productoNombre": "Tto. De las complicaciones de la exodoncia ( Hasta 3 sesiones)",
+      "precioVenta": 150360,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020011",
+      "productoNombre": "Profundizacion de surcos por zona",
+      "precioVenta": 297713,
+      "productoGarantia": 1,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70020012",
+      "productoNombre": "Tumores Benignos de las encias y de los maxilares",
+      "precioVenta": 413490,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020013",
+      "productoNombre": "Frenectomia labial",
+      "precioVenta": 206745,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020014",
+      "productoNombre": "Cirugia de Torus palatino",
+      "precioVenta": 484610,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020015",
+      "productoNombre": "Cirugia de Torus Mandibular Unilateral",
+      "precioVenta": 484610,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020016",
+      "productoNombre": "Cirugia de Torus Mandibular Bilateral",
+      "precioVenta": 809388,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020017",
+      "productoNombre": "Frenectomia lingual",
+      "precioVenta": 402063,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020018",
+      "productoNombre": "Bridectomia (por arcada)",
+      "precioVenta": 242230,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020019",
+      "productoNombre": "Exerecis o escision de quiste odontologico (constatado por rx. Inicial y final)",
+      "precioVenta": 402063,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020020",
+      "productoNombre": "Exerecis o Escision de ranula",
+      "precioVenta": 283579,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020021",
+      "productoNombre": "Exerecis o Escision de calculo salival (constatado por rx. Inicial y final)",
+      "precioVenta": 402063,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70020022",
+      "productoNombre": "Exerecis o Escision de mucocele",
+      "precioVenta": 281023,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70030001",
+      "productoNombre": "Apiceptomia",
+      "precioVenta": 451080,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70030002",
+      "productoNombre": "Curetaje Apical",
+      "precioVenta": 451080,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70030003",
+      "productoNombre": "Tratamiento endodontico a retro",
+      "precioVenta": 826980,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70030004",
+      "productoNombre": "Odontoseccion y/o radectomia",
+      "precioVenta": 526260,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70030005",
+      "productoNombre": "Premolarizacion",
+      "precioVenta": 526260,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040001",
+      "productoNombre": "Descubierta de canino",
+      "precioVenta": 270648,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040002",
+      "productoNombre": "Dientes descubiertos (Hematoma de erupcion)",
+      "precioVenta": 300720,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040003",
+      "productoNombre": "Dientes Incluidos",
+      "precioVenta": 451080,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040004",
+      "productoNombre": "Extraccion de dientes supernumerarios",
+      "precioVenta": 270648,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040005",
+      "productoNombre": "Germenectomia",
+      "precioVenta": 526260,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040006",
+      "productoNombre": "Extraccion de dientes supernumerario retenido (comprobado radiologicamente)",
+      "precioVenta": 560843,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70040007",
+      "productoNombre": "Traccionamiento quirurgico con finalidad ortodoncica ( constatable por rx inicial y final",
+      "precioVenta": 491978,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050001",
+      "productoNombre": "Fracturas nasales y naso etmoidales",
+      "precioVenta": 2232846,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050002",
+      "productoNombre": "Fracturas orbito-malar y arco zigomatico reduccion cerrada",
+      "precioVenta": 2232846,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050003",
+      "productoNombre": "Fracturas orbito-malar y arco zigomatico reduccion abierta",
+      "precioVenta": 3721410,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050004",
+      "productoNombre": "Fracturas faciales del tercio medio tipo lefort I",
+      "precioVenta": 8931384,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050005",
+      "productoNombre": "Fracturas Faciales del tercio medio tipo lefort II",
+      "precioVenta": 11908512,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050006",
+      "productoNombre": "Fracturas Faciales del tercio medio tipo lefort III",
+      "precioVenta": 14885640,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050007",
+      "productoNombre": "Fracturas Mandibulares reduccion cerrada",
+      "precioVenta": 4465692,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050008",
+      "productoNombre": "Fracturas Mandibulares reduccion abierta",
+      "precioVenta": 7442820,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70050009",
+      "productoNombre": "Extraccion de medio de fijacion bucomaxilofacial (en consultorio) con rx inicial y final",
+      "precioVenta": 335152,
+      "productoGarantia": "",
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060001",
+      "productoNombre": "Profilaxis Buco dentaria adulto",
+      "precioVenta": 225540,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060002",
+      "productoNombre": "Raspaje y curetaje sub gingival (por zona) nivel I (ausencia de bolsa)",
+      "precioVenta": 255612,
+      "productoGarantia": 180,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70060003",
+      "productoNombre": "Tto. Quirurgico de la enfermedad periodontal (por zona)",
+      "precioVenta": 601440,
+      "productoGarantia": 180,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70060004",
+      "productoNombre": "Equilibrio oculsal por desgaste selectivo (por seccion)",
+      "precioVenta": 120288,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060005",
+      "productoNombre": "Ferulizacion Temporaria por zona",
+      "precioVenta": 297713,
+      "productoGarantia": 365,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70060006",
+      "productoNombre": "Cirugia regenerativa periodontal",
+      "precioVenta": 1278060,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060007",
+      "productoNombre": "Cirugia mucogingival",
+      "precioVenta": 909678,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060008",
+      "productoNombre": "Tratamiento de la perimplantitis por zona",
+      "precioVenta": 601440,
+      "productoGarantia": 365,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70060009",
+      "productoNombre": "Incision de abceso periodontal",
+      "precioVenta": 240576,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060010",
+      "productoNombre": "Gingivectomia o gingivoplastia por segmento",
+      "precioVenta": 255612,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060011",
+      "productoNombre": "Cu�a distal por diente",
+      "precioVenta": 255612,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060012",
+      "productoNombre": "Aumento de corona clinica (solo por especialista)",
+      "precioVenta": 601440,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060013",
+      "productoNombre": "Raspaje y curetaje sub gingival (por zona) nivel II (Bolsa periodontal hasta 5MM)",
+      "precioVenta": 601440,
+      "productoGarantia": 180,
+      "productoTipo": "zona"
+    },
+    {
+      "codigo": "70060014",
+      "productoNombre": "Injerto pediculado ( solo por especialista y por unica vez)",
+      "precioVenta": 1104545,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70060015",
+      "productoNombre": "Injerto Gingival libre ( solo por especialista y por unica vez)",
+      "precioVenta": 1104545,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070001",
+      "productoNombre": "Carilla de porcelana",
+      "precioVenta": 751800,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070002",
+      "productoNombre": "Collage",
+      "precioVenta": 300720,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070003",
+      "productoNombre": "Incrustacion composite (resina) Inlay",
+      "precioVenta": 375900,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070004",
+      "productoNombre": "Incrustacion composite (resina) Onlay",
+      "precioVenta": 421008,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070005",
+      "productoNombre": "Incrustacion metalica",
+      "precioVenta": 255612,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070006",
+      "productoNombre": "Incrustaciones en ceromero",
+      "precioVenta": 496188,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070007",
+      "productoNombre": "Obturacion con ionomero de vidrio clase I y V (por elemento)",
+      "precioVenta": 120288,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070008",
+      "productoNombre": "Perno en fibra de vidrio ( constatable radiograficamente )",
+      "precioVenta": 270648,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070009",
+      "productoNombre": "Perno provisorio",
+      "precioVenta": 75180,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070011",
+      "productoNombre": "Pernos seccionados",
+      "precioVenta": 300720,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070012",
+      "productoNombre": "Recementado de incrustaciones coronas puentes ( pilares)",
+      "precioVenta": 105252,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070013",
+      "productoNombre": "Reconstruccion con amalgama PINS pernos",
+      "precioVenta": 215015,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070014",
+      "productoNombre": "Reconstruccion de angulo c/ composite (resina)",
+      "precioVenta": 270648,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070015",
+      "productoNombre": "Remocion de perno",
+      "precioVenta": 180432,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070016",
+      "productoNombre": "Restauracion compleja con amalgama",
+      "precioVenta": 150360,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070017",
+      "productoNombre": "Restauracion completa con amalgrama",
+      "precioVenta": 127806,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070018",
+      "productoNombre": "Restauracion con composite ( resina ) anterior clase I y clase V",
+      "precioVenta": 225540,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070019",
+      "productoNombre": "Restauracion con composite (resina) posterior compuesta y compleja",
+      "precioVenta": 285684,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070020",
+      "productoNombre": "Restauracion simple clase I con amalgama",
+      "precioVenta": 105252,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070021",
+      "productoNombre": "Retratamiento: retiro de coronas, puentes o incrustaciones por pilar",
+      "precioVenta": 120288,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070022",
+      "productoNombre": "Descensinilizacion dentaria completa ( limitado a 3 sesiones al a�o )",
+      "precioVenta": 105252,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070023",
+      "productoNombre": "Inmovilizacion dentaria con resina fotopolimerizable por segmento",
+      "precioVenta": 206745,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070024",
+      "productoNombre": "Reconstruccion c/ piu roscate y composite",
+      "precioVenta": 270648,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070025",
+      "productoNombre": "Carilla de ceromero",
+      "precioVenta": 601440,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070026",
+      "productoNombre": "Carilla de composite",
+      "precioVenta": 345828,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070027",
+      "productoNombre": "Carilla de porcelana feldespaticas",
+      "precioVenta": 1127700,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070028",
+      "productoNombre": "Incrustacion de porcelana",
+      "precioVenta": 1041995,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070029",
+      "productoNombre": "Incrustacion de porcelana colada y otros",
+      "precioVenta": 1041995,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070030",
+      "productoNombre": "Incrustacion de porcelana feldespatica",
+      "precioVenta": 1082592,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070033",
+      "productoNombre": "Amalgama A dientes temporarios",
+      "precioVenta": 120288,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070034",
+      "productoNombre": "Amalgama B dientes permanentes",
+      "precioVenta": 165396,
+      "productoGarantia": 300,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070035",
+      "productoNombre": "Composite A dientes temporarios",
+      "precioVenta": 195468,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070036",
+      "productoNombre": "Composite B dientes permanentes",
+      "precioVenta": 225540,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070037",
+      "productoNombre": "Composite C ionomeros",
+      "precioVenta": 150360,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070038",
+      "productoNombre": "Composite D dientes permanentes cavidad compuesta",
+      "precioVenta": 208399,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070039",
+      "productoNombre": "Reconstruccion de angulo en dientes permanentes anteriores",
+      "precioVenta": 210504,
+      "productoGarantia": 540,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070040",
+      "productoNombre": "Coronas metalicas",
+      "precioVenta": 240576,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070041",
+      "productoNombre": "Coronas plasticas",
+      "precioVenta": 240576,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070042",
+      "productoNombre": "Corona con pernos en temporarios",
+      "precioVenta": 240576,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070043",
+      "productoNombre": "Perno colado articulado",
+      "precioVenta": 297713,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070044",
+      "productoNombre": "Perno colado simple",
+      "precioVenta": 223285,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70070045",
+      "productoNombre": "Perno preformado",
+      "precioVenta": 105252,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080001",
+      "productoNombre": "Blanqueamiento de dientes no vital",
+      "precioVenta": 451080,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080002",
+      "productoNombre": "Estudio clinico radiografico p/ diagnostico",
+      "precioVenta": 375900,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080003",
+      "productoNombre": "Fracturas alveolo dentarias reduccion cruenta",
+      "precioVenta": 520997,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080004",
+      "productoNombre": "Fracturas alveolo dentarias reduccion incruenta",
+      "precioVenta": 520997,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080006",
+      "productoNombre": "Pulpotomia",
+      "precioVenta": 330792,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080007",
+      "productoNombre": "Reimplante de diente por elemento",
+      "precioVenta": 225540,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080008",
+      "productoNombre": "Remocion de pernos por diente",
+      "precioVenta": 223285,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080009",
+      "productoNombre": "Retratamiento endodontico anterior",
+      "precioVenta": 826980,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080010",
+      "productoNombre": "Retratamiento endodontico premolar y molar",
+      "precioVenta": 1127700,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080011",
+      "productoNombre": "Traccion radicular ( por seccion)",
+      "precioVenta": 120288,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080012",
+      "productoNombre": "Tratamiento de perforaciones radiculares o falsa via",
+      "precioVenta": 451080,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080013",
+      "productoNombre": "Tratamiento endodontico anterior",
+      "precioVenta": 526260,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080014",
+      "productoNombre": "Tratamiento endodontico molar",
+      "precioVenta": 676620,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080015",
+      "productoNombre": "Tratamiento endodontico premolar",
+      "precioVenta": 601440,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080016",
+      "productoNombre": "Tratamiento p/ neoformacion apical ( por seccion )",
+      "precioVenta": 135324,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70080017",
+      "productoNombre": "Tratamiento endodontico de urgencia",
+      "precioVenta": 150360,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090001",
+      "productoNombre": "Diagnostico cefalometrico",
+      "precioVenta": 225540,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090003",
+      "productoNombre": "Ortodoncia correctiva cuota mensual ( sin material de reposicion )",
+      "precioVenta": 233058,
+      "productoGarantia": 30,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090004",
+      "productoNombre": "Ortodoncia correctiva entrega inicial",
+      "precioVenta": 2330580,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090005",
+      "productoNombre": "Ortodoncia interceptiva entrega inicial",
+      "precioVenta": 676620,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090006",
+      "productoNombre": "Ortodoncia interceptiva cuota mensual",
+      "precioVenta": 150360,
+      "productoGarantia": 30,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090007",
+      "productoNombre": "Ortodoncia preventiva",
+      "precioVenta": 601440,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090008",
+      "productoNombre": "Ortopedia funcional de los maxilares entrega inicial",
+      "precioVenta": 2405760,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090009",
+      "productoNombre": "Ortopedia funcional de los maxilares cuota mensual",
+      "precioVenta": 240576,
+      "productoGarantia": 30,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090010",
+      "productoNombre": "Aparato extra bucal ( incluye mentonera )",
+      "precioVenta": 688047,
+      "productoGarantia": 9.999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090011",
+      "productoNombre": "Barra palatina",
+      "precioVenta": 492880,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090012",
+      "productoNombre": "Placa labial activa",
+      "precioVenta": 492880,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090013",
+      "productoNombre": "Disyuntor palatino movil",
+      "precioVenta": 871787,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090014",
+      "productoNombre": "Quadri helice",
+      "precioVenta": 721728,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090015",
+      "productoNombre": "Parrilla palatina fija",
+      "precioVenta": 601440,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090016",
+      "productoNombre": "Parrilla palatina movil",
+      "precioVenta": 300720,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090017",
+      "productoNombre": "Placa Hawley",
+      "precioVenta": 417700,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090018",
+      "productoNombre": "Plano inclinado",
+      "precioVenta": 285684,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090019",
+      "productoNombre": "Ortodoncia correctiva parcial entrega inicial",
+      "precioVenta": 1528710,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090020",
+      "productoNombre": "Cuota mensual correctiva parcial ( sin material de reposicion)",
+      "precioVenta": 152766,
+      "productoGarantia": 30,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090021",
+      "productoNombre": "Disyuntor palatino fijo (HAAS)",
+      "precioVenta": 975836,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090022",
+      "productoNombre": "Mantenimiento de aparatos moviles controles mensuales",
+      "precioVenta": 225540,
+      "productoGarantia": 30,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090023",
+      "productoNombre": "Arco lingual",
+      "precioVenta": 511224,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090024",
+      "productoNombre": "Boton de NANCE",
+      "precioVenta": 511224,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090025",
+      "productoNombre": "Placa Hawley con finalidad de expansion",
+      "precioVenta": 724284,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090026",
+      "productoNombre": "Disyuntor palatino fijo (MCNAMARA)",
+      "precioVenta": 1012073,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70090027",
+      "productoNombre": "Disyuntor palatino fijo (HYRAX)",
+      "precioVenta": 1012073,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100001",
+      "productoNombre": "Radiografia intraoral con placa",
+      "precioVenta": 75180,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100002",
+      "productoNombre": "Radiografia seriada ( maxilar sup. E inferior)",
+      "precioVenta": 451080,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100003",
+      "productoNombre": "Radiologia ortopantografica o panoramica",
+      "precioVenta": 225540,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100004",
+      "productoNombre": "Radiografia Lateral del craneo o teleradiografia",
+      "precioVenta": 225540,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100005",
+      "productoNombre": "Radiografia frontal",
+      "precioVenta": 225540,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100006",
+      "productoNombre": "Documentacion ortodoncica",
+      "precioVenta": 526260,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100007",
+      "productoNombre": "Radiografia oclusal",
+      "precioVenta": 150360,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100008",
+      "productoNombre": "Radiografia interproximal ( BITE / WING)",
+      "precioVenta": 109161,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100009",
+      "productoNombre": "Radiografia para atm (3 incidencias por lado)",
+      "precioVenta": 290796,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100010",
+      "productoNombre": "Radiografia panoramica ( ortopantomografia ) con trazado cefalometrico p/ implantes",
+      "precioVenta": 179379,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100011",
+      "productoNombre": "Teleradiografia con trazado cefalometrico",
+      "precioVenta": 194867,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100012",
+      "productoNombre": "Radiografia mano y pu�o carpal ( con informe tecnico de identificacion de edad osea)",
+      "precioVenta": 154720,
+      "productoGarantia": 0,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100013",
+      "productoNombre": "Tomografia odontologica cone beam para atm volumetrica ( con informe tecnico)",
+      "precioVenta": 992376,
+      "productoGarantia": 182,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100014",
+      "productoNombre": "Tomografia odontologica cone beam region equivalente a una hemiarcada vol (informe)",
+      "precioVenta": 596929,
+      "productoGarantia": 182,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100015",
+      "productoNombre": "Tomografia odontologica cone beam un arco dental volumetrico ( con informe )",
+      "precioVenta": 807283,
+      "productoGarantia": 182,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70100016",
+      "productoNombre": "Tomografia odontologica cone beam dos arcos dentarios volumetrico ( con informe)",
+      "precioVenta": 1614566,
+      "productoGarantia": 182,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110002",
+      "productoNombre": "Implante osteointegrado por elemento fase quirurgica",
+      "precioVenta": 3307920,
+      "productoGarantia": 90000,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110003",
+      "productoNombre": "Injerto oseo ( con hueso liolizado) por elemento exepcionalmente en perdida osea",
+      "precioVenta": 2232846,
+      "productoGarantia": 90000,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110004",
+      "productoNombre": "Membrana biologica de regeneracion guiada excepcionalmente en perdida osea",
+      "precioVenta": 1488564,
+      "productoGarantia": 90000,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110005",
+      "productoNombre": "Protesis metaloceramica sobre implantes por elemento",
+      "precioVenta": 1804320,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110006",
+      "productoNombre": "Restauracion en protesis sobre implantes con resina (2 al a�o conjuntamente con mto)",
+      "precioVenta": 225540,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110007",
+      "productoNombre": "Mini implantes para ortodoncia por elemento limitado a dos elementos por pcte",
+      "precioVenta": 586404,
+      "productoGarantia": 90000,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110008",
+      "productoNombre": "Levantamiento de piso de seno maxilar",
+      "precioVenta": 1563744,
+      "productoGarantia": 9999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110009",
+      "productoNombre": "Abutmen o mu�on o mini pilar + tornillo ( por elemento)",
+      "precioVenta": 703685,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110010",
+      "productoNombre": "Atachment bola por elemento limitado a los cuatro implantes pagados por arcada",
+      "precioVenta": 601440,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110011",
+      "productoNombre": "O ring para protesis total ( por elemento por unica vez uno cada 36 meses)",
+      "precioVenta": 451080,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110012",
+      "productoNombre": "Barra/clip para apoyo de protesis total ( incluye la barra y los clips una para cada impl.",
+      "precioVenta": 1052520,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110013",
+      "productoNombre": "Protesis fija en ceromero por elemento limitado a 4 impl. (uno por arcada cada 36 meses)",
+      "precioVenta": 1202880,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110014",
+      "productoNombre": "Corona provisoria sobre implante limitado a 4 impl (uno por arcada cada 36 meses)",
+      "precioVenta": 508217,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110015",
+      "productoNombre": "Protesis total sobre implante (overderenture) elemento de union al implante",
+      "precioVenta": 2105040,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110016",
+      "productoNombre": "Mantenimiento de implante : 4 superiores y 4 inferiores ( cada 6 meses )",
+      "precioVenta": 375900,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110017",
+      "productoNombre": "Corona metal acrilico sobre implante por elemento ( 4 sup y 4 inf)",
+      "precioVenta": 1260919,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110018",
+      "productoNombre": "Plasma rico en plaquetas solo para implantes excluyente con membrana biologica",
+      "precioVenta": 1396243,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110019",
+      "productoNombre": "Protocolo Branemark para 4 implantes",
+      "precioVenta": 6714777,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70110020",
+      "productoNombre": "Mantenimiento periodontal de protocolo branemark ( cada 12 meses )",
+      "precioVenta": 403867,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120001",
+      "productoNombre": "Agregado de dientes en protesis parcial removible por diente",
+      "precioVenta": 180432,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120002",
+      "productoNombre": "Agregado de subsiguientes",
+      "precioVenta": 180432,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120003",
+      "productoNombre": "Compostura c/ impresi�n",
+      "precioVenta": 225540,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120004",
+      "productoNombre": "Compostura de base de acrilico",
+      "precioVenta": 225540,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120005",
+      "productoNombre": "Compostura simple",
+      "precioVenta": 225540,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120006",
+      "productoNombre": "Corona colada en otro metal",
+      "precioVenta": 300720,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120007",
+      "productoNombre": "Corona de acrilico",
+      "precioVenta": 270648,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120008",
+      "productoNombre": "Corona de ceromero",
+      "precioVenta": 751800,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120009",
+      "productoNombre": "Corona de composite (ISOSIT)",
+      "precioVenta": 451080,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120010",
+      "productoNombre": "Corona de composite (Resina) y metal",
+      "precioVenta": 826980,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120011",
+      "productoNombre": "Corona de porcelana",
+      "precioVenta": 1052520,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120012",
+      "productoNombre": "Corona de porcelana y metal",
+      "precioVenta": 826980,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120013",
+      "productoNombre": "Corona provisoria",
+      "precioVenta": 105252,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120014",
+      "productoNombre": "Encaje hembra o macho cada uno",
+      "precioVenta": 676620,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120015",
+      "productoNombre": "Incrustacion y perno en otro metal",
+      "precioVenta": 300720,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120017",
+      "productoNombre": "Placa miorelajante cada 12 meses ( material rigido )",
+      "precioVenta": 526260,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120018",
+      "productoNombre": "Protesis completa inferior",
+      "precioVenta": 1202880,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120019",
+      "productoNombre": "Protesis completa inmediata",
+      "precioVenta": 616476,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120020",
+      "productoNombre": "Protesis completa superior",
+      "precioVenta": 1202880,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120021",
+      "productoNombre": "Protesis flexible hasta 4 piezas",
+      "precioVenta": 962304,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120022",
+      "productoNombre": "Protesis flexible hasta 4 piezas (diente subsiguiente)",
+      "precioVenta": 90216,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120023",
+      "productoNombre": "Protesis parcial inmediata",
+      "precioVenta": 300720,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120025",
+      "productoNombre": "Puente de metal acrilico por pieza",
+      "precioVenta": 270648,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120026",
+      "productoNombre": "Puente de metal y composite por pieza",
+      "precioVenta": 451080,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120027",
+      "productoNombre": "Puente de metal y porcelana por pieza",
+      "precioVenta": 826980,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120028",
+      "productoNombre": "Puente de porcelana libre de metal por pieza",
+      "precioVenta": 1052520,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120029",
+      "productoNombre": "Puente fijo adhesivo metaloceramico tres piezas ( Maryland solo para sector anterior)",
+      "precioVenta": 2255400,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120030",
+      "productoNombre": "Puente dijo adhesivo metaloplastico tres piezas (Maryland solo para sector anterior)",
+      "precioVenta": 2180220,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120031",
+      "productoNombre": "Puente provisorio",
+      "precioVenta": 225540,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120032",
+      "productoNombre": "Puente de ceromero por pieza",
+      "precioVenta": 751800,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120033",
+      "productoNombre": "Rebasado",
+      "precioVenta": 225540,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120034",
+      "productoNombre": "Removible con Attachments de laboratorio por pieza",
+      "precioVenta": 451080,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120035",
+      "productoNombre": "Removible con Attachments pre fabriado por pieza",
+      "precioVenta": 601440,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120036",
+      "productoNombre": "Removible con encaje",
+      "precioVenta": 2105040,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120037",
+      "productoNombre": "Removible con acrilico hasta 4 piezas",
+      "precioVenta": 751800,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120038",
+      "productoNombre": "Removible con acrilico mas de 1 pieza ( diente subsiguiente)",
+      "precioVenta": 75180,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120039",
+      "productoNombre": "Removible de cromo cobalto hasta 4 piezas",
+      "precioVenta": 1353240,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120041",
+      "productoNombre": "Removible de cromo cobalto mas de 4 piezas",
+      "precioVenta": 2180220,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120042",
+      "productoNombre": "Removible de cromo cobalto mas de 4 piezas ( diente subsiguiente )",
+      "precioVenta": 210504,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120043",
+      "productoNombre": "Removible provisorio",
+      "precioVenta": 300720,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120046",
+      "productoNombre": "Removible de acrilico mas de 4 piezas",
+      "precioVenta": 1014178,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70120047",
+      "productoNombre": "Protesis flexible mas de 4 piezas",
+      "precioVenta": 1557429,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130101",
+      "productoNombre": "Dientes temporarios A pulpotomia",
+      "precioVenta": 186071,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130102",
+      "productoNombre": "Dientes temporarios B pulpectomia",
+      "precioVenta": 223285,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130201",
+      "productoNombre": "Temporario movil",
+      "precioVenta": 105252,
+      "productoGarantia": 9.999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130202",
+      "productoNombre": "Temporario s/ reabsorcion",
+      "precioVenta": 120288,
+      "productoGarantia": 9.999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130301",
+      "productoNombre": "Control de placa bacteriana por sesion - Limitado a tres sesiones por a�o",
+      "precioVenta": 225540,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130302",
+      "productoNombre": "Fluorizacion - una aplicaci�n cada seis meses",
+      "precioVenta": 180432,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130304",
+      "productoNombre": "Mantenedores de espacio fijo y removibles",
+      "precioVenta": 451080,
+      "productoGarantia": 1080,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130305",
+      "productoNombre": "Profilaxis buco dentaria ni�os",
+      "precioVenta": 180432,
+      "productoGarantia": 180,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130306",
+      "productoNombre": "Sellados : A- c/ profundizacion solamente para dientes permanentes en erupcion",
+      "precioVenta": 135324,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70130307",
+      "productoNombre": "Sellados: B- s/ profundizacion solamente para dientes permanenres en erupcion",
+      "precioVenta": 120288,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70140100",
+      "productoNombre": "Disfuncion de ATM entrega inicial",
+      "precioVenta": 2706480,
+      "productoGarantia": 9.999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70140101",
+      "productoNombre": "Tto. De disfuncion de ATM incluye ajuste de placa, fisioterapia de ATM y/o ajustes oclusales",
+      "precioVenta": 270648,
+      "productoGarantia": 30,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70140102",
+      "productoNombre": "Reduccion simple de luxacion de articulacion temporo maxilar (ATM) en consultorio",
+      "precioVenta": 161637,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70150001",
+      "productoNombre": "Cirugia ortognatica - osteotomia y osteoplastia - con actuacion unicamente de mandibula",
+      "precioVenta": 3759000,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70150002",
+      "productoNombre": "Cirugia ortognatica - osteotomia y osteoplastia - con actuacion unicamente de maxilar",
+      "precioVenta": 3759000,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70150003",
+      "productoNombre": "Cirugia ortognatica - osteotomia y osteoplastia - con actuacion combinada en maxilar",
+      "precioVenta": 6444430,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70150004",
+      "productoNombre": "Expansion rapida de palato (maxilar)",
+      "precioVenta": 1611859,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70150005",
+      "productoNombre": "Osteotomia segmentaria de maxilar y/o mandibula",
+      "precioVenta": 3222215,
+      "productoGarantia": 1,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160001",
+      "productoNombre": "Abutmen o mu�on o mini pilar cada uno",
+      "precioVenta": 360864,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160002",
+      "productoNombre": "Agregado de diente o retenedor",
+      "precioVenta": 64655,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160003",
+      "productoNombre": "Agregado de subsiguientes",
+      "precioVenta": 51874,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160004",
+      "productoNombre": "Arco lingual",
+      "precioVenta": 170659,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160005",
+      "productoNombre": "Attachment bola por elemento para implantes",
+      "precioVenta": 451080,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160006",
+      "productoNombre": "Attachment para protesis parciales",
+      "precioVenta": 451080,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160007",
+      "productoNombre": "Carilla de ceromero",
+      "precioVenta": 309742,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160008",
+      "productoNombre": "Carilla de isosit",
+      "precioVenta": 154871,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160009",
+      "productoNombre": "Carilla de porcelana",
+      "precioVenta": 645044,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160010",
+      "productoNombre": "Carilla de porcelana feldespatica",
+      "precioVenta": 773602,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160011",
+      "productoNombre": "Compostura base de acrilico",
+      "precioVenta": 96681,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160012",
+      "productoNombre": "Compostura con impresi�n",
+      "precioVenta": 96681,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160013",
+      "productoNombre": "Compostura simple",
+      "precioVenta": 71421,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160014",
+      "productoNombre": "Corona colada",
+      "precioVenta": 193964,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160015",
+      "productoNombre": "Corona de acrilico",
+      "precioVenta": 123295,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160016",
+      "productoNombre": "Corona de ceromero",
+      "precioVenta": 335303,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160017",
+      "productoNombre": "Corona de composite y metal",
+      "precioVenta": 193964,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160018",
+      "productoNombre": "Corona de isosit",
+      "precioVenta": 180432,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160019",
+      "productoNombre": "Corona de porcelana",
+      "precioVenta": 696167,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160020",
+      "productoNombre": "Corona de porcelana y metal",
+      "precioVenta": 387177,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160021",
+      "productoNombre": "Corona de metal-acrilico sobre implante por elemento",
+      "precioVenta": 258619,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160022",
+      "productoNombre": "Corona de porcelana de zirconio",
+      "precioVenta": 857052,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160023",
+      "productoNombre": "Corona provisoria",
+      "precioVenta": 64655,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160024",
+      "productoNombre": "Corona provisoria sobre implantes",
+      "precioVenta": 141789,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160025",
+      "productoNombre": "Encaje macho y hembra cada uno",
+      "precioVenta": 354549,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160026",
+      "productoNombre": "Incrustacion a perno",
+      "precioVenta": 193964,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160027",
+      "productoNombre": "Inscrustacion ceromero",
+      "precioVenta": 296961,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160028",
+      "productoNombre": "Incrustacion composite inlay - onlay",
+      "precioVenta": 167651,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160029",
+      "productoNombre": "Incrustacion de porcelana",
+      "precioVenta": 645044,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160030",
+      "productoNombre": "Incrustacion metalica",
+      "precioVenta": 154871,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160031",
+      "productoNombre": "Perno articulado",
+      "precioVenta": 180432,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160032",
+      "productoNombre": "Perno de fibra de vidrio",
+      "precioVenta": 219526,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160033",
+      "productoNombre": "Perno simple",
+      "precioVenta": 103748,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160034",
+      "productoNombre": "Placa hawley",
+      "precioVenta": 193964,
+      "productoGarantia": 99999999,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160035",
+      "productoNombre": "Placa miorelajante de acrilico",
+      "precioVenta": 321770,
+      "productoGarantia": 365,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160036",
+      "productoNombre": "Protesis adhesiva por pieza",
+      "precioVenta": 284180,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160037",
+      "productoNombre": "Protesis completa inferior",
+      "precioVenta": 354850,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160038",
+      "productoNombre": "Protesis completa inmediata",
+      "precioVenta": 193964,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160039",
+      "productoNombre": "Protesis completa superior",
+      "precioVenta": 354850,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160040",
+      "productoNombre": "Protesis fija en ceromero sobre implantes",
+      "precioVenta": 387177,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160041",
+      "productoNombre": "Protesis metaloceramica sobre implantes",
+      "precioVenta": 451080,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160042",
+      "productoNombre": "Protesis parcial inmediata",
+      "precioVenta": 154871,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160043",
+      "productoNombre": "Protesis total sobre implante (overderenture)",
+      "precioVenta": 1933630,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160044",
+      "productoNombre": "Protocolo Branemark",
+      "precioVenta": 2835790,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160045",
+      "productoNombre": "Puente de ceromero",
+      "precioVenta": 335303,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160046",
+      "productoNombre": "Puente de metal isosit por pieza",
+      "precioVenta": 180432,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160047",
+      "productoNombre": "Puente de metal y porcelana por pieza",
+      "precioVenta": 387177,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160048",
+      "productoNombre": "Puente de porcelana libre de metal por pieza",
+      "precioVenta": 696167,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160049",
+      "productoNombre": "Puente de metal acrilico por pieza",
+      "precioVenta": 161637,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160050",
+      "productoNombre": "Puente provisorio por pieza",
+      "precioVenta": 64655,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160051",
+      "productoNombre": "Rebasado",
+      "precioVenta": 109763,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160052",
+      "productoNombre": "Removible de acrilico hasta 4 piezas",
+      "precioVenta": 206745,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160053",
+      "productoNombre": "Removible de acrilico mas de 4 piezas",
+      "precioVenta": 277264,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160054",
+      "productoNombre": "Removible de acrilico mas de 4 piezas dientes subsiguientes",
+      "precioVenta": 39094,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160055",
+      "productoNombre": "Removible de cromo cobalto dientes subsiguientes",
+      "precioVenta": 51573,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160056",
+      "productoNombre": "Removible de cromo cobalto hasta 4 piezas",
+      "precioVenta": 490174,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160057",
+      "productoNombre": "Removible de cromo cobalto mas de 4 piezas dientes subsiguientes 1� diente",
+      "precioVenta": 103748,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160058",
+      "productoNombre": "Removible flexible 1� diente",
+      "precioVenta": 257717,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160059",
+      "productoNombre": "Removible flexible dientes subsiguientes",
+      "precioVenta": 77285,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160060",
+      "productoNombre": "Removible flexible hasta 4 piezas",
+      "precioVenta": 619483,
+      "productoGarantia": 1095,
+      "productoTipo": "diente"
+    },
+    {
+      "codigo": "70160061",
+      "productoNombre": "Removible provisorio",
+      "precioVenta": 193964,
+      "productoGarantia": 1065,
+      "productoTipo": "diente"
+    }
+  ]
