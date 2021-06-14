@@ -33,6 +33,7 @@ class App extends Component {
     empresa:'',
     ruc:'',
   }
+  /////////////
 componentDidMount(){
   this.authListener()
 }
