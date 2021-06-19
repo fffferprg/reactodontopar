@@ -11,6 +11,7 @@ import ClienteAbm from './vistas/clientes/ClienteAbm';
 import SubirDatosPacientes from './vistas/producto/subirDatosPacientes';
 import SubirPeriodos from './vistas/producto/SubirPeriodos';
 import SubirDatos from './vistas/producto/SubirDatos'
+import SubirMovimientos from './vistas/producto/SubirMovimientos'
 
 // import Pruebagrid from './Pruebagrid/Pruebagrid';
 // import Welcome from './Welcome';
@@ -24,6 +25,8 @@ ReactDOM.render(
 {/* <SubirDatos /> */}
 {/* <SubirPeriodos /> */}
 {/* <SubirDatosPacientes /> */}
+{/* <SubirMovimientos /> */}
+
 
   </React.StrictMode>,
   document.getElementById('root')

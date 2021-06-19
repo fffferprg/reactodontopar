@@ -55,7 +55,7 @@ class ProcedimientosLiberados extends Component {
                 let mayor = diferenciaDias>Math.abs(garantia)? true : false;
                 // console.log('mayor:',mayor)
                 // console.log('resta:',resta)
-                if(mayor==true && documento.data().moviStatus=='ultima atencion'){
+                if(mayor==true && documento.data().moviStatus!='historico'){
                     let movimientos = {
                         id : documento.id,
                         moviClienteNombre : documento.data().moviClienteNombre,

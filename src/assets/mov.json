@@ -1,0 +1,4282 @@
+[
+  {
+    "moviClienteNombre": "anselma gimenez",
+    "moviNumeroFao": "190495",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alice castillo",
+    "moviNumeroFao": "65947",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "evelyn rojas",
+    "moviNumeroFao": "98950",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "evelyn rojas",
+    "moviNumeroFao": "98950",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "joel pereira",
+    "moviNumeroFao": "99499",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "luisa duarte",
+    "moviNumeroFao": "172569",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "nery ramirez de castillo",
+    "moviNumeroFao": "55144",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nery ramirez de castillo",
+    "moviNumeroFao": "55144",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carlos davalos",
+    "moviNumeroFao": "165492",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carlos davalos",
+    "moviNumeroFao": "165492",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "jose elias pereira",
+    "moviNumeroFao": "65706",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "sady mendoza",
+    "moviNumeroFao": "88726",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "sady mendoza",
+    "moviNumeroFao": "88726",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alberto otazu",
+    "moviNumeroFao": "165493",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "alberto otazu",
+    "moviNumeroFao": "165493",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-05-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "maria de martinez",
+    "moviNumeroFao": "8198",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "maria de martinez",
+    "moviNumeroFao": "8198",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "mathias cristaldo",
+    "moviNumeroFao": "85777",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "mathias cristaldo",
+    "moviNumeroFao": "85777",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alexis martinez",
+    "moviNumeroFao": "66860",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alexis martinez",
+    "moviNumeroFao": "66860",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "susana  mendoza",
+    "moviNumeroFao": "116599",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "ronal barreto",
+    "moviNumeroFao": "184931",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "ronal barreto",
+    "moviNumeroFao": "184931",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "anselma gimenez",
+    "moviNumeroFao": "190495",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "benjamin martinez",
+    "moviNumeroFao": "198182",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "benjamin martinez",
+    "moviNumeroFao": "198782",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "PROFILAXIS",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "francisco morinigo",
+    "moviNumeroFao": "246038",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "francisco morinigo",
+    "moviNumeroFao": "246038",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-03-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "luis zorrilla",
+    "moviNumeroFao": "132335",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "luis zorrilla",
+    "moviNumeroFao": "132335",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "magno castillo",
+    "moviNumeroFao": "163068",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "magno castillo",
+    "moviNumeroFao": "163068",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vanderlan mairoza dos santos",
+    "moviNumeroFao": "140763",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "vanderlan mairoza dos santos",
+    "moviNumeroFao": "140763",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "nestor balbuena",
+    "moviNumeroFao": "123457",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "gianina diana gagliardi villagra",
+    "moviNumeroFao": "85525",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "gianina diana gagliardi villagra",
+    "moviNumeroFao": "85525",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "diana medina alderete",
+    "moviNumeroFao": "193515",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "vilma aponte",
+    "moviNumeroFao": "65952",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "vilma aponte",
+    "moviNumeroFao": "65952",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "adriana alfonzo gauto",
+    "moviNumeroFao": "211230",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juan carlos ruiz dias",
+    "moviNumeroFao": "137717",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juan carlos ruiz dias",
+    "moviNumeroFao": "137717",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "marcos elias mairosa gomez",
+    "moviNumeroFao": "140763",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cynthia biesanovich",
+    "moviNumeroFao": "173023",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cynthia biesanovich",
+    "moviNumeroFao": "173023",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "luana martinez",
+    "moviNumeroFao": "173337",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "luana martinez",
+    "moviNumeroFao": "173337",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "luana martinez",
+    "moviNumeroFao": "173337",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "gabriela castillo",
+    "moviNumeroFao": "195352",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "gabriela castillo",
+    "moviNumeroFao": "195352",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-02-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "dante martinez",
+    "moviNumeroFao": "198139",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-25",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "eder vasquez",
+    "moviNumeroFao": "168960",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "eder vasquez",
+    "moviNumeroFao": "168960",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "eligio martinez",
+    "moviNumeroFao": "71322",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "eligio martinez",
+    "moviNumeroFao": "71322",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "javier bobadilla",
+    "moviNumeroFao": "173345",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "javier bobadilla",
+    "moviNumeroFao": "173345",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "matias martinez",
+    "moviNumeroFao": "97540",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "matias martinez",
+    "moviNumeroFao": "97540",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "edith ocampos",
+    "moviNumeroFao": "137831",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "edith ocampos",
+    "moviNumeroFao": "137831",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "adriana alfonzo gauto",
+    "moviNumeroFao": "211230",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "mauricio sarubbi",
+    "moviNumeroFao": "132529",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mauricio sarubbi",
+    "moviNumeroFao": "132529",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "fiorela ozorio",
+    "moviNumeroFao": "222249",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "mariela sosa",
+    "moviNumeroFao": "229784",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alberto adrian lopez duarte",
+    "moviNumeroFao": "588897",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "alberto adrian lopez duarte",
+    "moviNumeroFao": "588897",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2021-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alice castillo",
+    "moviNumeroFao": "65947",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "luisa duarte",
+    "moviNumeroFao": "172569",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "mario lopez",
+    "moviNumeroFao": "172209",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mario lopez",
+    "moviNumeroFao": "172209",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "vanesa lopez",
+    "moviNumeroFao": "172570",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "vanesa lopez",
+    "moviNumeroFao": "172570",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vanesa lopez",
+    "moviNumeroFao": "172570",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "marley  acosta",
+    "moviNumeroFao": "176279",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "marley  acosta",
+    "moviNumeroFao": "176279",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "marley  acosta",
+    "moviNumeroFao": "176279",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ana maria lopez duarte",
+    "moviNumeroFao": "174830",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "ana maria lopez duarte",
+    "moviNumeroFao": "174830",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ana maria lopez duarte",
+    "moviNumeroFao": "174830",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "salvador rojas sanchez",
+    "moviNumeroFao": "149317",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "salvador rojas sanchez",
+    "moviNumeroFao": "149317",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "salvador rojas sanchez",
+    "moviNumeroFao": "149317",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "donato medina avalos",
+    "moviNumeroFao": "192997",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "donato medina avalos",
+    "moviNumeroFao": "192997",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "aurora alderete de medina",
+    "moviNumeroFao": "192996",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "aurora alderete de medina",
+    "moviNumeroFao": "192996",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "jorge martinez",
+    "moviNumeroFao": "136264",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "jorge martinez",
+    "moviNumeroFao": "136264",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "lucas martinez gomez",
+    "moviNumeroFao": "140246",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "lucas martinez gomez",
+    "moviNumeroFao": "140246",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "erma gomez ortiz",
+    "moviNumeroFao": "138235",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "maria liz barijho",
+    "moviNumeroFao": "184648",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "maria liz barijho",
+    "moviNumeroFao": "184648",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "marcos elias mairosa gomez",
+    "moviNumeroFao": "140763",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "amanda martinez",
+    "moviNumeroFao": "173024",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "cecilia bobadilla",
+    "moviNumeroFao": "224226",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "cecilia bobadilla",
+    "moviNumeroFao": "224226",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-12-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "antonia castillo",
+    "moviNumeroFao": "87906",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "antonia castillo",
+    "moviNumeroFao": "87906",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "julio lobo",
+    "moviNumeroFao": "152682",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nicole lobo",
+    "moviNumeroFao": "165574",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "willian lobo",
+    "moviNumeroFao": "165573",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "willian lobo",
+    "moviNumeroFao": "165573",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "elvis lobo",
+    "moviNumeroFao": "165572",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "elvis lobo",
+    "moviNumeroFao": "165572",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "diana medina alderete",
+    "moviNumeroFao": "193515",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "antonella martinez",
+    "moviNumeroFao": "252908",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "antonella martinez",
+    "moviNumeroFao": "252908",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "sofia lobo",
+    "moviNumeroFao": "178356",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "mariela sosa",
+    "moviNumeroFao": "229784",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "hugo javier medina alderete",
+    "moviNumeroFao": "1",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "osmar sarubbi",
+    "moviNumeroFao": "28490",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-11-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "osmar sarubbi",
+    "moviNumeroFao": "28490",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-11-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "julio lobo",
+    "moviNumeroFao": "152682",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-02-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jose elias pereira",
+    "moviNumeroFao": "65706",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-02-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mariam mora",
+    "moviNumeroFao": "144932",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-02-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "harissa balbuena",
+    "moviNumeroFao": "190048",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-02-20",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "joel pereira",
+    "moviNumeroFao": "99499",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-02-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "sara miranda",
+    "moviNumeroFao": "217",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-01-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "susana  mendoza",
+    "moviNumeroFao": "116599",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-01-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "sara miranda",
+    "moviNumeroFao": "217",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rocio diaz",
+    "moviNumeroFao": "169432",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "matias godoy",
+    "moviNumeroFao": "74091",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-01-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "matias godoy",
+    "moviNumeroFao": "74091",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-01-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "pablo Monzon Ramirez",
+    "moviNumeroFao": "162308",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2020-01-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nahiara balbuena",
+    "moviNumeroFao": "169559",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2020-01-14",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vanessa villalba",
+    "moviNumeroFao": "65665",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-12-19",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "sofia lobo",
+    "moviNumeroFao": "178356",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-12-19",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "nestor balbuena",
+    "moviNumeroFao": "123457",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-12-17",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "luciano miranda",
+    "moviNumeroFao": "8099",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-11-27",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "norma estigarribia",
+    "moviNumeroFao": "239090",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-11-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "erma gomez ortiz",
+    "moviNumeroFao": "13235",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-11-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "luciano miranda",
+    "moviNumeroFao": "8099",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-11-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "norma estigarribia",
+    "moviNumeroFao": "239090",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-11-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "tami machuca",
+    "moviNumeroFao": "40041",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-11-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "hugo javier medina alderete",
+    "moviNumeroFao": "1",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-11-15",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "carlos fleitas",
+    "moviNumeroFao": "159423",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-10-25",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "carlos fleitas",
+    "moviNumeroFao": "159423",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-10-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "luis zorrilla",
+    "moviNumeroFao": "132335",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2019-10-22",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "sara fleitas",
+    "moviNumeroFao": "159422",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-10-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "sara fleitas",
+    "moviNumeroFao": "159422",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-10-09",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cristian aguilera",
+    "moviNumeroFao": "178333",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-09-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "natalia otazu",
+    "moviNumeroFao": "165491",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-09-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "bruno arguello",
+    "moviNumeroFao": "103804",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-09-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "nicole lobo",
+    "moviNumeroFao": "165574",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-09-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "tania morinigo",
+    "moviNumeroFao": "145274",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-09-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "natalia otazu",
+    "moviNumeroFao": "165491",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-09-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "tania morinigo",
+    "moviNumeroFao": "145274",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-09-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rocio diaz",
+    "moviNumeroFao": "169432",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-08-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "fiorela ozorio",
+    "moviNumeroFao": "222249",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-07-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mainumby sarubbi",
+    "moviNumeroFao": "64391",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "siria de martinez",
+    "moviNumeroFao": "56332",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nahiara balbuena",
+    "moviNumeroFao": "169559",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "nahiara balbuena",
+    "moviNumeroFao": "169559",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "juana m gonzalez",
+    "moviNumeroFao": "35010",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "juana m gonzalez",
+    "moviNumeroFao": "35010",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "harissa balbuena",
+    "moviNumeroFao": "190048",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "harissa balbuena",
+    "moviNumeroFao": "190048",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-07-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cristian martinez ",
+    "moviNumeroFao": "64755",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-07-02",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "pablo Monzon Ramirez",
+    "moviNumeroFao": "162308",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-06-19",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cristian aguilera",
+    "moviNumeroFao": "178333",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-06-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "stefany fabiola camacho paredes",
+    "moviNumeroFao": "147251",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-06-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "tania camacho paredes",
+    "moviNumeroFao": "166741",
+    "moviProductoCodigo": "70060001",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-06-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "luis fernando camacho ",
+    "moviNumeroFao": "166740",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-06-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "cristian martinez ",
+    "moviNumeroFao": "64755",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-05-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rumy monzon",
+    "moviNumeroFao": "64121",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-04-27",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "mainumby sarubbi",
+    "moviNumeroFao": "64391",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-04-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carmen gomez",
+    "moviNumeroFao": "127464",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-04-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "marcos mendoza",
+    "moviNumeroFao": "64821",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-04-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "eulogio gonzalez",
+    "moviNumeroFao": "65150",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-04-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "derlis medina alderete",
+    "moviNumeroFao": "192998",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-04-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vanessa villalba",
+    "moviNumeroFao": "65665",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-04-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "marcos mendoza",
+    "moviNumeroFao": "64821",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-04-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "bruno arguello",
+    "moviNumeroFao": "103804",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-03-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ruth castillo",
+    "moviNumeroFao": "64136",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2019-03-19",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "natalia duarte",
+    "moviNumeroFao": "63967",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-02-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "marian mora",
+    "moviNumeroFao": "144932",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2019-01-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "tania camacho paredes",
+    "moviNumeroFao": "166741",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-12-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "marcos nunez",
+    "moviNumeroFao": "69037",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-12-19",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "guido valenzuela",
+    "moviNumeroFao": "64783",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-11-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "natalia duarte",
+    "moviNumeroFao": "63967",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-11-16",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "guido valenzuela",
+    "moviNumeroFao": "64783",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-11-07",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "luis fernando camacho ",
+    "moviNumeroFao": "166740",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-10-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "stefany fabiola camacho paredes",
+    "moviNumeroFao": "147251",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-09-14",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mario sosa",
+    "moviNumeroFao": "163075",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-08-30",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "edineia souza oliveira",
+    "moviNumeroFao": "165447",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-07-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rumy monzon",
+    "moviNumeroFao": "64121",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-07-17",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ruth castillo",
+    "moviNumeroFao": "64136",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-07-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "edineia souza oliveira",
+    "moviNumeroFao": "165447",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-07-04",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "julia duarte ayala",
+    "moviNumeroFao": "161658",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-07-03",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "lucas oviedo",
+    "moviNumeroFao": "266772",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2018-06-21",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "lucas oviedo",
+    "moviNumeroFao": "266772",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-06-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "eunice pujol ahrens",
+    "moviNumeroFao": "188560",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-06-14",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "eunice pujol ahrens",
+    "moviNumeroFao": "188560",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-06-07",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "bruno diaz",
+    "moviNumeroFao": "230820",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-05-02",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "gabriela gonzalez",
+    "moviNumeroFao": "63327",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-04-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "susan amarilla ",
+    "moviNumeroFao": "64407",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-04-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jose miranda",
+    "moviNumeroFao": "118219",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-03-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jose miranda",
+    "moviNumeroFao": "118219",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-03-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "marcial aguilera",
+    "moviNumeroFao": "159545",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-03-08",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "marcial aguilera",
+    "moviNumeroFao": "159545",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-03-08",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nestor balbuena",
+    "moviNumeroFao": "123457",
+    "moviProductoCodigo": "70070014",
+    "moviProductoNombre": "recostruccion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-02-28",
+    "moviProductoTotal": 270648
+  },
+  {
+    "moviClienteNombre": "ramon mercado",
+    "moviNumeroFao": "56029",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-02-16",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "juana m gonzalez",
+    "moviNumeroFao": "35010",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-02-12",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juana m gonzalez",
+    "moviNumeroFao": "35010",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-02-12",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "lourdes emilce paez",
+    "moviNumeroFao": "119298",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-01-23",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "rolando rolon",
+    "moviNumeroFao": "174620",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2018-01-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rolando rolon",
+    "moviNumeroFao": "174620",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-01-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "julia duarte ayala",
+    "moviNumeroFao": "161658",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2018-01-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vilda aponte",
+    "moviNumeroFao": "236772",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-12-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "vivian godoy",
+    "moviNumeroFao": "107855",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-11-14",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "siria de martinez",
+    "moviNumeroFao": "56332",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-11-08",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "teodora ramirez",
+    "moviNumeroFao": "56003",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-11-02",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "teodora ramirez",
+    "moviNumeroFao": "56003",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-11-02",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "dora torres de nunes",
+    "moviNumeroFao": "13705",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-10-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "mary estela nunez",
+    "moviNumeroFao": "170639",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-10-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "susan amarilla ",
+    "moviNumeroFao": "64407",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-10-16",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "marcos nunez",
+    "moviNumeroFao": "69037",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-10-06",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "veronica alfonso ",
+    "moviNumeroFao": "170059",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-10-04",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "meliza duarte",
+    "moviNumeroFao": "170729",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-10-04",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "mia oviedo",
+    "moviNumeroFao": "225905",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-09-30",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "tatiana oviedo",
+    "moviNumeroFao": "174862",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-09-30",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "fany elizabeth Arce",
+    "moviNumeroFao": "149990",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-09-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mia oviedo",
+    "moviNumeroFao": "225905",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-08-30",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "daysi aguayo",
+    "moviNumeroFao": "227108",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-08-29",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "daysi aguayo",
+    "moviNumeroFao": "227108",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-08-29",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "dora torres de nunes",
+    "moviNumeroFao": "13705",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-08-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "lucas oviedo",
+    "moviNumeroFao": "266772",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-08-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "fany elizabeth Arce",
+    "moviNumeroFao": "149990",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-07-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "karen lescano",
+    "moviNumeroFao": "65939",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "maria lescano",
+    "moviNumeroFao": "83683",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "valeria aponte",
+    "moviNumeroFao": "168488",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "valeria aponte",
+    "moviNumeroFao": "168488",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "thais anabell aponte",
+    "moviNumeroFao": "178355",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "thais anabell aponte",
+    "moviNumeroFao": "178355",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "thais anabell aponte",
+    "moviNumeroFao": "178355",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-07-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "lourdes emilce paez",
+    "moviNumeroFao": "119298",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-07-11",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mario sosa",
+    "moviNumeroFao": "163075",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-07-05",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "nelson villalba",
+    "moviNumeroFao": "64724",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-06-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nelson villalba",
+    "moviNumeroFao": "64724",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-06-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "elvis lobo",
+    "moviNumeroFao": "165572",
+    "moviProductoCodigo": "70130306",
+    "moviProductoNombre": "sellado",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 365,
+    "moviFechaFundacion": "2017-06-16",
+    "moviProductoTotal": 135324
+  },
+  {
+    "moviClienteNombre": "meliza duarte",
+    "moviNumeroFao": "170729",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-06-14",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "debora castillo",
+    "moviNumeroFao": "51542",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-06-08",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "debora castillo",
+    "moviNumeroFao": "51542",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-06-08",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "fiorela cardozo",
+    "moviNumeroFao": "90643",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-05-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "fiorela cardozo",
+    "moviNumeroFao": "90643",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-05-26",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "karen lescano",
+    "moviNumeroFao": "65939",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-05-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "mary estela nunez",
+    "moviNumeroFao": "170639",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-05-10",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juan castillo ",
+    "moviNumeroFao": "51379",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2017-05-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "maria lescano",
+    "moviNumeroFao": "83683",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-04-05",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "gabriela gonzalez",
+    "moviNumeroFao": "63327",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-03-07",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vivian godoy",
+    "moviNumeroFao": "107855",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2017-02-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "angel alvarenga",
+    "moviNumeroFao": "163066",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-12-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "angel alvarenga",
+    "moviNumeroFao": "163066",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-12-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "veronica alfonso ",
+    "moviNumeroFao": "170059",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-12-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ramon mercado",
+    "moviNumeroFao": "56029",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-11-15",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "tami machuca",
+    "moviNumeroFao": "40041",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturacion",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-11-09",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carlos R martinez",
+    "moviNumeroFao": "137715",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-11-04",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carlos R martinez",
+    "moviNumeroFao": "137715",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-11-04",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "fatima gomez",
+    "moviNumeroFao": "213955",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-10-24",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "david gonzalez",
+    "moviNumeroFao": "163069",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-10-19",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "cibelle aguirre",
+    "moviNumeroFao": "60133",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-08-11",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "eduardo martinez",
+    "moviNumeroFao": "63109",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-08-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "willian martinez",
+    "moviNumeroFao": "60159",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-08-06",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "cecilia cabrera ",
+    "moviNumeroFao": "234813",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-07-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "dario alvarez",
+    "moviNumeroFao": "33052",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-07-06",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "dario alvarez",
+    "moviNumeroFao": "33052",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-06-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "araceli quiñonez M..",
+    "moviNumeroFao": "185846",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-05-31",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "luis camacho ",
+    "moviNumeroFao": "136288",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-05-06",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "luis camacho ",
+    "moviNumeroFao": "136288",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2016-04-08",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "david villalba cardozo",
+    "moviNumeroFao": "168303",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-03-17",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rufina de villalba",
+    "moviNumeroFao": "135305",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-03-15",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "andres servin candia",
+    "moviNumeroFao": "61762",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-03-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "diana medina alderete",
+    "moviNumeroFao": "193515",
+    "moviProductoCodigo": "70060004",
+    "moviProductoNombre": "equilibrio 11 12 21",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2016-02-19",
+    "moviProductoTotal": 120288
+  },
+  {
+    "moviClienteNombre": "euclides maldonado",
+    "moviNumeroFao": "55230",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-12-28",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juan castillo ",
+    "moviNumeroFao": "51379",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-12-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "miguel liuzzi",
+    "moviNumeroFao": "163070",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-12-04",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "miguel liuzzi",
+    "moviNumeroFao": "163070",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-12-04",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "karen gimenez",
+    "moviNumeroFao": "173923",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-11-19",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "richard cañete",
+    "moviNumeroFao": "163916",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-11-19",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "nery gomez",
+    "moviNumeroFao": "163081",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-11-11",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "nery gomez",
+    "moviNumeroFao": "163081",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-11-11",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "delma godoy",
+    "moviNumeroFao": "59129",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-11-04",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "andres servin candia",
+    "moviNumeroFao": "61762",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-10-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cibelle aguirre",
+    "moviNumeroFao": "60133",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-10-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jessica castillo",
+    "moviNumeroFao": "58581",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-09-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jessica castillo",
+    "moviNumeroFao": "58581",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-09-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "euclides maldonado",
+    "moviNumeroFao": "55230",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-09-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "eduardo martinez",
+    "moviNumeroFao": "63109",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-09-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "david gonzalez",
+    "moviNumeroFao": "163069",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-09-02",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "willian martinez",
+    "moviNumeroFao": "60159",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-08-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "delma godoy",
+    "moviNumeroFao": "59129",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-08-18",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "aurelio brizuela",
+    "moviNumeroFao": "33403",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-07-30",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "aurelio brizuela",
+    "moviNumeroFao": "33403",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-07-30",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "david villalba cardozo",
+    "moviNumeroFao": "168303",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-07-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alejandro tomas fernandez",
+    "moviNumeroFao": "174874",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-07-15",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "cesar quiónez M.",
+    "moviNumeroFao": "185812",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-06-10",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "cesar quiónez M.",
+    "moviNumeroFao": "185812",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-06-10",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "araceli quiñonez M..",
+    "moviNumeroFao": "185846",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-06-10",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "karen gimenez",
+    "moviNumeroFao": "173923",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-04-27",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "richard cañete",
+    "moviNumeroFao": "163916",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-04-27",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "adrian nunez",
+    "moviNumeroFao": "56850",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-04-15",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "monserrat britez",
+    "moviNumeroFao": "94212",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-03-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "monserrat britez",
+    "moviNumeroFao": "94212",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-03-13",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "soledad torres",
+    "moviNumeroFao": "58913",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2015-03-10",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "soledad torres",
+    "moviNumeroFao": "58913",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-03-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "dionisio benitez",
+    "moviNumeroFao": "54814",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2015-01-27",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "valeria vera",
+    "moviNumeroFao": "162613",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-12-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "valeria vera",
+    "moviNumeroFao": "162613",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-12-16",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "albertito vera ",
+    "moviNumeroFao": "168438",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-12-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carmen britez",
+    "moviNumeroFao": "63215",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-12-03",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "derlis britez",
+    "moviNumeroFao": "56465",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-12-03",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "oscar martinez",
+    "moviNumeroFao": "59989",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-11-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "pedro alvarenga",
+    "moviNumeroFao": "86278",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-11-13",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "teresa de brizuela",
+    "moviNumeroFao": "14232",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-10-11",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "teresa de brizuela",
+    "moviNumeroFao": "14232",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-10-11",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "ledis brizuela",
+    "moviNumeroFao": "63200",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-09-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ledis brizuela",
+    "moviNumeroFao": "63200",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-09-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "dionisio benitez",
+    "moviNumeroFao": "54814",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-08-11",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "oscar martinez",
+    "moviNumeroFao": "59989",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-08-08",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rocio nunez",
+    "moviNumeroFao": "61781",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-07-30",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "adrian nunez",
+    "moviNumeroFao": "56850",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-07-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carmen britez",
+    "moviNumeroFao": "63215",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-05-27",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "derlis britez",
+    "moviNumeroFao": "56465",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-05-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "olga bobadilla de duarte",
+    "moviNumeroFao": "186168",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-03-31",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "pedro alvarenga",
+    "moviNumeroFao": "86278",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-03-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": " vanesa villalba cardozo",
+    "moviNumeroFao": "103547",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-02-27",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "vanesa villalba cardozo",
+    "moviNumeroFao": "103547",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2014-02-27",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "roque duarte franco",
+    "moviNumeroFao": "192995",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-02-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rocio nunez",
+    "moviNumeroFao": "61781",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jose sarubbi",
+    "moviNumeroFao": "55047",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2014-01-06",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "daisy brizuela",
+    "moviNumeroFao": "55898",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-12-31",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "pedro r. villanueva",
+    "moviNumeroFao": "159999",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-12-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "pedro r. villanueva",
+    "moviNumeroFao": "159999",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-12-13",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "sady britez",
+    "moviNumeroFao": "60798",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-10-28",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "sady britez",
+    "moviNumeroFao": "60798",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-10-28",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "jose marachi",
+    "moviNumeroFao": "54221",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-10-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "olga bobadilla de duarte",
+    "moviNumeroFao": "186168",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-10-09",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "roque duarte franco",
+    "moviNumeroFao": "192995",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-10-09",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "bruno diaz",
+    "moviNumeroFao": "230820",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-10-04",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "dante martinez",
+    "moviNumeroFao": "198139",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-10-03",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "zenon vera pedrozo",
+    "moviNumeroFao": "182700",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-09-11",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "roberto huber",
+    "moviNumeroFao": "163085",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-08-30",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "roberto huber",
+    "moviNumeroFao": "163085",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-08-13",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "merceder ibarra de nuñez",
+    "moviNumeroFao": "24928",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-08-12",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "carlos davalos rotela",
+    "moviNumeroFao": "139571",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-06-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "carlos davalos rotela",
+    "moviNumeroFao": "139571",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-06-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "manuel alvarenga (tito)",
+    "moviNumeroFao": "86277",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-05-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "manuel alvarenga (tito)",
+    "moviNumeroFao": "86277",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-05-16",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "gladys benitez cuba",
+    "moviNumeroFao": "63694",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-04-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rossana aponte",
+    "moviNumeroFao": "71728",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-04-20",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "rossana aponte",
+    "moviNumeroFao": "71728",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-04-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "santiago samudio",
+    "moviNumeroFao": "136266",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-03-06",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "clara aguilera",
+    "moviNumeroFao": "178334",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-02-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juana miranda",
+    "moviNumeroFao": "49937",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2013-02-11",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "daisy brizuela",
+    "moviNumeroFao": "55898",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-02-04",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "Reinaldo Ayala",
+    "moviNumeroFao": "163099",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "merceder ibarra de nuñez",
+    "moviNumeroFao": "24928",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2013-01-09",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juana miranda",
+    "moviNumeroFao": "49937",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-12-28",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "Reinaldo Ayala",
+    "moviNumeroFao": "163099",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-12-14",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "alcides ramirez",
+    "moviNumeroFao": "74360",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-12-05",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "alcides ramirez",
+    "moviNumeroFao": "74360",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-12-05",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "pablo viveros",
+    "moviNumeroFao": "64665",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-11-06",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "lorenza otazu",
+    "moviNumeroFao": "165490",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-10-01",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "gladys benitez cuba",
+    "moviNumeroFao": "63694",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-09-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jazmin riveros vazquez",
+    "moviNumeroFao": "194763",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-09-24",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "jazmin riveros vazquez",
+    "moviNumeroFao": "194763",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-09-24",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "job uriel cañete zena",
+    "moviNumeroFao": "167815",
+    "moviProductoCodigo": "70130305",
+    "moviProductoNombre": "profilaxis ",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-09-14",
+    "moviProductoTotal": 225540
+  },
+  {
+    "moviClienteNombre": "job uriel cañete zena",
+    "moviNumeroFao": "167815",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-09-14",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ramon barreto",
+    "moviNumeroFao": "89540",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-09-04",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ramon barreto",
+    "moviNumeroFao": "89540",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-09-04",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "diego ruiz",
+    "moviNumeroFao": "46674",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-08-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "diego ruiz",
+    "moviNumeroFao": "46674",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-08-13",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "santiago samudio",
+    "moviNumeroFao": "136266",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-07-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "petrona baez ",
+    "moviNumeroFao": "29179",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-07-25",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "lidia melgarejo garay",
+    "moviNumeroFao": "193516",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-07-13",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "lidia melgarejo garay",
+    "moviNumeroFao": "193516",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-07-13",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "marcelo rodriguez",
+    "moviNumeroFao": "50176",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2012-05-21",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "camila cañete zena",
+    "moviNumeroFao": "155893",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2012-02-07",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "lorenza otazu",
+    "moviNumeroFao": "165490",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-12-12",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ricardo rodriguez",
+    "moviNumeroFao": "55975",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-11-03",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "ricardo rodriguez",
+    "moviNumeroFao": "55975",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-11-03",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "sergio villalba",
+    "moviNumeroFao": "106968",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-10-27",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "elva rodriguez",
+    "moviNumeroFao": "52546",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-10-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "elva rodriguez",
+    "moviNumeroFao": "52546",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-10-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "andrea almada",
+    "moviNumeroFao": "54468",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-10-12",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "leticia espinola",
+    "moviNumeroFao": "113183",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-10-11",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "walter aguilera",
+    "moviNumeroFao": "178332",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-10-11",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "debora fernandez",
+    "moviNumeroFao": "163103",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-10-10",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "dora de riveros",
+    "moviNumeroFao": "59114",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-09-30",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "romina riveros",
+    "moviNumeroFao": "112440",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-09-30",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "zulma beatriz almada",
+    "moviNumeroFao": "111448",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-09-30",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rita martinez",
+    "moviNumeroFao": "53554",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-09-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rita martinez",
+    "moviNumeroFao": "53554",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-09-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "victor manuel almada",
+    "moviNumeroFao": "98664",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-09-15",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "candida almada",
+    "moviNumeroFao": "35551",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-09-02",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "candida almada",
+    "moviNumeroFao": "35551",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-09-02",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "petrona baez ",
+    "moviNumeroFao": "29179",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-08-31",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "walter ever",
+    "moviNumeroFao": "141428",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-07-12",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "walter ever",
+    "moviNumeroFao": "141428",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2011-07-12",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rocio pereira",
+    "moviNumeroFao": "59474",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2011-03-17",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "walter aguilera",
+    "moviNumeroFao": "178332",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-12-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "david riveros",
+    "moviNumeroFao": "123726",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-12-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "dora lopez",
+    "moviNumeroFao": "59114",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-12-16",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "perla rolon ",
+    "moviNumeroFao": "53784",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-08-30",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rocio pereira",
+    "moviNumeroFao": "59474",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-08-27",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alberto ariel gonzalez",
+    "moviNumeroFao": "152689",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-07-29",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rolando rodriguez",
+    "moviNumeroFao": "140225",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-06-23",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rolando rodriguez",
+    "moviNumeroFao": "140225",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-06-23",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "yanin dominguez",
+    "moviNumeroFao": "61225",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-06-10",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "yanin dominguez",
+    "moviNumeroFao": "61225",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-06-10",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "rolando rodriguez",
+    "moviNumeroFao": "43057",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-06-08",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "rolando rodriguez",
+    "moviNumeroFao": "43057",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-06-08",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "julio riquelme",
+    "moviNumeroFao": "56110",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-05-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "julio riquelme",
+    "moviNumeroFao": "56110",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-05-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "teresa de brizuela",
+    "moviNumeroFao": "150293",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-04-20",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "silvia gomez",
+    "moviNumeroFao": "150293",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-04-20",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "alan benitez",
+    "moviNumeroFao": "62121",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-01-26",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "alan benitez",
+    "moviNumeroFao": "62121",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-01-26",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "elvira benitez",
+    "moviNumeroFao": "58943",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2010-01-22",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "elvira benitez",
+    "moviNumeroFao": "58943",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-01-22",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juan benitez",
+    "moviNumeroFao": "114728",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2010-01-21",
+    "moviProductoTotal": 285684
+  },
+  {
+    "moviClienteNombre": "juan britez",
+    "moviNumeroFao": "165299",
+    "moviProductoCodigo": "70060002",
+    "moviProductoNombre": "raspaje",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 180,
+    "moviFechaFundacion": "2009-11-12",
+    "moviProductoTotal": 255612
+  },
+  {
+    "moviClienteNombre": "juan britez",
+    "moviNumeroFao": "165299",
+    "moviProductoCodigo": "70070019",
+    "moviProductoNombre": "obturaciones",
+    "moviProcedimientoDescripcion": "PRIMERA CARGA",
+    "moviProductoGarantia": 540,
+    "moviFechaFundacion": "2009-11-12",
+    "moviProductoTotal": 285684
+  }
+ ]
