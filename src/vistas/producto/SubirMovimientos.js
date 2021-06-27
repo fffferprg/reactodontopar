@@ -14,7 +14,6 @@ function SubirMovimientos() {
                     db.collection('movimientos').add({...documento, 
                         moviPeriodoMes: '',
                         moviPeriodoAnho: '',
-                        moviClienteCodigo: '',
                         moviClienteTelefono: '',
                         moviFecha: '',
                         moviPrecioVenta: '',

@@ -1065,18 +1065,17 @@ renderListaMovimientos = () => {
     }
 
     guardar=()=>{
-        // console.log('LISTAMOVIMIENOTS',this.state.listaMovimientos)
-        // console.log(this.state)
-        // console.log('PRODUCTO TEMPORAL:',productoTemporal)
-        // console.log('ZONAS SELECCIONADAS:',this.state.dientesZonas)
-        // this.calcularEdad()
-        // console.log('MENOR:',this.state.menor)
+                                    // console.log('LISTAMOVIMIENOTS',this.state.listaMovimientos)
+                                    // console.log(this.state)
+                                    // console.log('PRODUCTO TEMPORAL:',productoTemporal)
+                                    // console.log('ZONAS SELECCIONADAS:',this.state.dientesZonas)
+                                    // this.calcularEdad()
+                                    // console.log('MENOR:',this.state.menor)
         let fechaNumero = ''
         this.state.moviFecha= moment().format('YYYY-MM-DD')
         fechaNumero = this.state.moviFecha.replace(/-/g,'')
         console.log('fechaNumero',fechaNumero)
         let datosMovimmientos = {
-            // moviFecha : this.state.moviFecha,
             moviFecha : this.state.moviFecha,
             moviNumeroFao : this.state.moviNumeroFao,
             moviClienteCodigo : this.state.moviClienteCodigo,
@@ -1182,22 +1181,24 @@ renderListaMovimientos = () => {
 manejarHistorial=()=>{
     // console.log('this.state.listaMovimientosTemporal',this.state.listaMovimientosTemporal)
     this.state.listaMovimientosTemporal.forEach(movimiento=>{
-        // console.log('movimiento.moviClienteCodigo:',movimiento.moviClienteCodigo)
-        // console.log('this.state.moviClienteCodigo:',this.state.moviClienteCodigo)
-        // console.log('movimiento.moviProductoCodigo:',movimiento.moviProductoCodigo)
-        // console.log('this.state.moviProductoCodigo:',this.state.moviProductoCodigo)
-        // console.log('movimiento.moviProcedimientoDescripcion:',movimiento.moviProcedimientoDescripcion)
-        // console.log('this.state.moviProcedimientoDescripcion:',this.state.moviProcedimientoDescripcion)
-        // console.log('this.state.idAgregado:',this.state.idAgregado)
-        // console.log('movimiento.id:',movimiento.id)
-        // console.log('movimiento.moviStatus:',movimiento.moviStatus)
+                                                                // console.log('movimiento.moviClienteCodigo:',movimiento.moviClienteCodigo)
+                                                                // console.log('this.state.moviClienteCodigo:',this.state.moviClienteCodigo)
+                                                                // console.log('movimiento.moviProductoCodigo:',movimiento.moviProductoCodigo)
+                                                                // console.log('this.state.moviProductoCodigo:',this.state.moviProductoCodigo)
+                                                                // console.log('movimiento.moviProcedimientoDescripcion:',movimiento.moviProcedimientoDescripcion)
+                                                                // console.log('this.state.moviProcedimientoDescripcion:',this.state.moviProcedimientoDescripcion)
+                                                                // console.log('this.state.idAgregado:',this.state.idAgregado)
+                                                                // console.log('movimiento.id:',movimiento.id)
+                                                                // console.log('movimiento.moviStatus:',movimiento.moviStatus)
 
         if(movimiento.moviClienteCodigo == this.state.moviClienteCodigo
             && movimiento.moviProductoCodigo == this.state.moviProductoCodigo
             // && movimiento.moviProcedimientoDescripcion == this.state.moviProcedimientoDescripcion
             && movimiento.id != this.state.idAgregado
-            && movimiento.moviStatus == 'ultima atencion'){
-                db.collection('movimientos').doc(`${movimiento.id}`).update({moviStatus:'historico'})
+            // && movimiento.moviStatus == 'ultima atencion'){
+            // && movimiento.moviStatus == 'PRIMERA CARGA'){
+            && movimiento.moviStatus != 'historico'){
+                    db.collection('movimientos').doc(`${movimiento.id}`).update({moviStatus:'historico'})
                 .then(()=>{
                     // se ejecuta cuando se inserto con exito
                     alert('HISTORICO PROCESADO')
@@ -1206,7 +1207,22 @@ manejarHistorial=()=>{
                     // se ejecuta cuando sucede un error 
                     alert(error)
                 })
-            }
+        }
+        // if(movimiento.moviStatus == 'PRIMERA CARGA'
+        //     && movimiento.moviNumeroFao == this.state.moviClienteCodigo
+        //     && movimiento.moviProductoCodigo == this.state.moviProductoCodigo
+        //     && movimiento.id != this.state.idAgregado){
+        //     // && movimiento.moviStatus != 'historico'){
+        //             db.collection('movimientos').doc(`${movimiento.id}`).update({moviStatus:'historico'})
+        //         .then(()=>{
+        //             // se ejecuta cuando se inserto con exito
+        //             alert('HISTORICO PROCESADO')
+        //         })
+        //         .catch((error)=>{
+        //             // se ejecuta cuando sucede un error 
+        //             alert(error)
+        //         })
+        // }
     })
 }
     // exportarExcel=()=>{

@@ -7,7 +7,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "190495"
   },
   {
     "moviClienteNombre": "alice castillo",
@@ -17,7 +18,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "65947"
   },
   {
     "moviClienteNombre": "evelyn rojas",
@@ -27,7 +29,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "98950"
   },
   {
     "moviClienteNombre": "evelyn rojas",
@@ -37,7 +40,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "98950"
   },
   {
     "moviClienteNombre": "joel pereira",
@@ -47,7 +51,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "99499"
   },
   {
     "moviClienteNombre": "luisa duarte",
@@ -57,7 +62,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "172569"
   },
   {
     "moviClienteNombre": "nery ramirez de castillo",
@@ -67,7 +73,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "55144"
   },
   {
     "moviClienteNombre": "nery ramirez de castillo",
@@ -77,7 +84,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "55144"
   },
   {
     "moviClienteNombre": "carlos davalos",
@@ -87,7 +95,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165492"
   },
   {
     "moviClienteNombre": "carlos davalos",
@@ -97,7 +106,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "165492"
   },
   {
     "moviClienteNombre": "jose elias pereira",
@@ -107,7 +117,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "65706"
   },
   {
     "moviClienteNombre": "sady mendoza",
@@ -117,7 +128,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "88726"
   },
   {
     "moviClienteNombre": "sady mendoza",
@@ -127,7 +139,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "88726"
   },
   {
     "moviClienteNombre": "alberto otazu",
@@ -137,7 +150,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "165493"
   },
   {
     "moviClienteNombre": "alberto otazu",
@@ -147,7 +161,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-05-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165493"
   },
   {
     "moviClienteNombre": "maria de martinez",
@@ -157,7 +172,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "8198"
   },
   {
     "moviClienteNombre": "maria de martinez",
@@ -167,7 +183,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "8198"
   },
   {
     "moviClienteNombre": "mathias cristaldo",
@@ -177,7 +194,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "85777"
   },
   {
     "moviClienteNombre": "mathias cristaldo",
@@ -187,7 +205,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "85777"
   },
   {
     "moviClienteNombre": "alexis martinez",
@@ -197,7 +216,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "66860"
   },
   {
     "moviClienteNombre": "alexis martinez",
@@ -207,7 +227,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "66860"
   },
   {
     "moviClienteNombre": "susana  mendoza",
@@ -217,7 +238,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "116599"
   },
   {
     "moviClienteNombre": "ronal barreto",
@@ -227,7 +249,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "184931"
   },
   {
     "moviClienteNombre": "ronal barreto",
@@ -237,7 +260,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "184931"
   },
   {
     "moviClienteNombre": "anselma gimenez",
@@ -247,7 +271,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "190495"
   },
   {
     "moviClienteNombre": "benjamin martinez",
@@ -257,7 +282,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "198182"
   },
   {
     "moviClienteNombre": "benjamin martinez",
@@ -267,7 +293,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "198782"
   },
   {
     "moviClienteNombre": "francisco morinigo",
@@ -277,7 +304,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "246038"
   },
   {
     "moviClienteNombre": "francisco morinigo",
@@ -287,7 +315,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-03-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "246038"
   },
   {
     "moviClienteNombre": "luis zorrilla",
@@ -297,7 +326,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "132335"
   },
   {
     "moviClienteNombre": "luis zorrilla",
@@ -307,7 +337,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "132335"
   },
   {
     "moviClienteNombre": "magno castillo",
@@ -317,7 +348,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163068"
   },
   {
     "moviClienteNombre": "magno castillo",
@@ -327,7 +359,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163068"
   },
   {
     "moviClienteNombre": "vanderlan mairoza dos santos",
@@ -337,7 +370,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "140763"
   },
   {
     "moviClienteNombre": "vanderlan mairoza dos santos",
@@ -347,7 +381,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "140763"
   },
   {
     "moviClienteNombre": "nestor balbuena",
@@ -357,7 +392,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "123457"
   },
   {
     "moviClienteNombre": "gianina diana gagliardi villagra",
@@ -367,7 +403,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "85525"
   },
   {
     "moviClienteNombre": "gianina diana gagliardi villagra",
@@ -377,7 +414,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "85525"
   },
   {
     "moviClienteNombre": "diana medina alderete",
@@ -387,7 +425,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "193515"
   },
   {
     "moviClienteNombre": "vilma aponte",
@@ -397,7 +436,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "65952"
   },
   {
     "moviClienteNombre": "vilma aponte",
@@ -407,7 +447,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "65952"
   },
   {
     "moviClienteNombre": "adriana alfonzo gauto",
@@ -417,7 +458,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "211230"
   },
   {
     "moviClienteNombre": "juan carlos ruiz dias",
@@ -427,7 +469,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "137717"
   },
   {
     "moviClienteNombre": "juan carlos ruiz dias",
@@ -437,7 +480,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "137717"
   },
   {
     "moviClienteNombre": "marcos elias mairosa gomez",
@@ -447,7 +491,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "140763"
   },
   {
     "moviClienteNombre": "cynthia biesanovich",
@@ -457,7 +502,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "173023"
   },
   {
     "moviClienteNombre": "cynthia biesanovich",
@@ -467,7 +513,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "173023"
   },
   {
     "moviClienteNombre": "luana martinez",
@@ -477,7 +524,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "173337"
   },
   {
     "moviClienteNombre": "luana martinez",
@@ -487,7 +535,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "173337"
   },
   {
     "moviClienteNombre": "luana martinez",
@@ -497,7 +546,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "173337"
   },
   {
     "moviClienteNombre": "gabriela castillo",
@@ -507,7 +557,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "195352"
   },
   {
     "moviClienteNombre": "gabriela castillo",
@@ -517,7 +568,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-02-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "195352"
   },
   {
     "moviClienteNombre": "dante martinez",
@@ -527,7 +579,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-25",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "198139"
   },
   {
     "moviClienteNombre": "eder vasquez",
@@ -537,7 +590,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "168960"
   },
   {
     "moviClienteNombre": "eder vasquez",
@@ -547,7 +601,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "168960"
   },
   {
     "moviClienteNombre": "eligio martinez",
@@ -557,7 +612,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "71322"
   },
   {
     "moviClienteNombre": "eligio martinez",
@@ -567,7 +623,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "71322"
   },
   {
     "moviClienteNombre": "javier bobadilla",
@@ -577,7 +634,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "173345"
   },
   {
     "moviClienteNombre": "javier bobadilla",
@@ -587,7 +645,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "173345"
   },
   {
     "moviClienteNombre": "matias martinez",
@@ -597,7 +656,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "97540"
   },
   {
     "moviClienteNombre": "matias martinez",
@@ -607,7 +667,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "97540"
   },
   {
     "moviClienteNombre": "edith ocampos",
@@ -617,7 +678,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "137831"
   },
   {
     "moviClienteNombre": "edith ocampos",
@@ -627,7 +689,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "137831"
   },
   {
     "moviClienteNombre": "adriana alfonzo gauto",
@@ -637,7 +700,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "211230"
   },
   {
     "moviClienteNombre": "mauricio sarubbi",
@@ -647,7 +711,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "132529"
   },
   {
     "moviClienteNombre": "mauricio sarubbi",
@@ -657,7 +722,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "132529"
   },
   {
     "moviClienteNombre": "fiorela ozorio",
@@ -667,7 +733,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "222249"
   },
   {
     "moviClienteNombre": "mariela sosa",
@@ -677,7 +744,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "229784"
   },
   {
     "moviClienteNombre": "alberto adrian lopez duarte",
@@ -687,7 +755,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "588897"
   },
   {
     "moviClienteNombre": "alberto adrian lopez duarte",
@@ -697,7 +766,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2021-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "588897"
   },
   {
     "moviClienteNombre": "alice castillo",
@@ -707,7 +777,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "65947"
   },
   {
     "moviClienteNombre": "luisa duarte",
@@ -717,7 +788,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "172569"
   },
   {
     "moviClienteNombre": "mario lopez",
@@ -727,7 +799,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "172209"
   },
   {
     "moviClienteNombre": "mario lopez",
@@ -737,7 +810,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "172209"
   },
   {
     "moviClienteNombre": "vanesa lopez",
@@ -747,7 +821,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "172570"
   },
   {
     "moviClienteNombre": "vanesa lopez",
@@ -757,7 +832,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "172570"
   },
   {
     "moviClienteNombre": "vanesa lopez",
@@ -767,7 +843,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "172570"
   },
   {
     "moviClienteNombre": "marley  acosta",
@@ -777,7 +854,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "176279"
   },
   {
     "moviClienteNombre": "marley  acosta",
@@ -787,7 +865,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "176279"
   },
   {
     "moviClienteNombre": "marley  acosta",
@@ -797,7 +876,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "176279"
   },
   {
     "moviClienteNombre": "ana maria lopez duarte",
@@ -807,7 +887,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "174830"
   },
   {
     "moviClienteNombre": "ana maria lopez duarte",
@@ -817,7 +898,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "174830"
   },
   {
     "moviClienteNombre": "ana maria lopez duarte",
@@ -827,7 +909,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "174830"
   },
   {
     "moviClienteNombre": "salvador rojas sanchez",
@@ -837,7 +920,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "149317"
   },
   {
     "moviClienteNombre": "salvador rojas sanchez",
@@ -847,7 +931,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "149317"
   },
   {
     "moviClienteNombre": "salvador rojas sanchez",
@@ -857,7 +942,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "149317"
   },
   {
     "moviClienteNombre": "donato medina avalos",
@@ -867,7 +953,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "192997"
   },
   {
     "moviClienteNombre": "donato medina avalos",
@@ -877,7 +964,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "192997"
   },
   {
     "moviClienteNombre": "aurora alderete de medina",
@@ -887,7 +975,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "192996"
   },
   {
     "moviClienteNombre": "aurora alderete de medina",
@@ -897,7 +986,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "192996"
   },
   {
     "moviClienteNombre": "jorge martinez",
@@ -907,7 +997,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "136264"
   },
   {
     "moviClienteNombre": "jorge martinez",
@@ -917,7 +1008,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "136264"
   },
   {
     "moviClienteNombre": "lucas martinez gomez",
@@ -927,7 +1019,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "140246"
   },
   {
     "moviClienteNombre": "lucas martinez gomez",
@@ -937,7 +1030,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "140246"
   },
   {
     "moviClienteNombre": "erma gomez ortiz",
@@ -947,7 +1041,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "138235"
   },
   {
     "moviClienteNombre": "maria liz barijho",
@@ -957,7 +1052,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "184648"
   },
   {
     "moviClienteNombre": "maria liz barijho",
@@ -967,7 +1063,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "184648"
   },
   {
     "moviClienteNombre": "marcos elias mairosa gomez",
@@ -977,7 +1074,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "140763"
   },
   {
     "moviClienteNombre": "amanda martinez",
@@ -987,7 +1085,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "173024"
   },
   {
     "moviClienteNombre": "cecilia bobadilla",
@@ -997,7 +1096,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "224226"
   },
   {
     "moviClienteNombre": "cecilia bobadilla",
@@ -1007,7 +1107,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-12-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "224226"
   },
   {
     "moviClienteNombre": "antonia castillo",
@@ -1017,7 +1118,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "87906"
   },
   {
     "moviClienteNombre": "antonia castillo",
@@ -1027,7 +1129,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "87906"
   },
   {
     "moviClienteNombre": "julio lobo",
@@ -1037,7 +1140,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "152682"
   },
   {
     "moviClienteNombre": "nicole lobo",
@@ -1047,7 +1151,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165574"
   },
   {
     "moviClienteNombre": "willian lobo",
@@ -1057,7 +1162,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165573"
   },
   {
     "moviClienteNombre": "willian lobo",
@@ -1067,7 +1173,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "165573"
   },
   {
     "moviClienteNombre": "elvis lobo",
@@ -1077,7 +1184,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "165572"
   },
   {
     "moviClienteNombre": "elvis lobo",
@@ -1087,7 +1195,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165572"
   },
   {
     "moviClienteNombre": "diana medina alderete",
@@ -1097,7 +1206,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "193515"
   },
   {
     "moviClienteNombre": "antonella martinez",
@@ -1107,7 +1217,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "252908"
   },
   {
     "moviClienteNombre": "antonella martinez",
@@ -1117,7 +1228,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "252908"
   },
   {
     "moviClienteNombre": "sofia lobo",
@@ -1127,7 +1239,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "178356"
   },
   {
     "moviClienteNombre": "mariela sosa",
@@ -1137,7 +1250,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "229784"
   },
   {
     "moviClienteNombre": "hugo javier medina alderete",
@@ -1147,7 +1261,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "1"
   },
   {
     "moviClienteNombre": "osmar sarubbi",
@@ -1157,7 +1272,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-11-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "28490"
   },
   {
     "moviClienteNombre": "osmar sarubbi",
@@ -1167,7 +1283,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-11-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "28490"
   },
   {
     "moviClienteNombre": "julio lobo",
@@ -1177,7 +1294,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-02-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "152682"
   },
   {
     "moviClienteNombre": "jose elias pereira",
@@ -1187,7 +1305,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-02-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "65706"
   },
   {
     "moviClienteNombre": "mariam mora",
@@ -1197,7 +1316,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-02-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "144932"
   },
   {
     "moviClienteNombre": "harissa balbuena",
@@ -1207,7 +1327,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-02-20",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "190048"
   },
   {
     "moviClienteNombre": "joel pereira",
@@ -1217,7 +1338,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-02-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "99499"
   },
   {
     "moviClienteNombre": "sara miranda",
@@ -1227,7 +1349,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-01-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "217"
   },
   {
     "moviClienteNombre": "susana  mendoza",
@@ -1237,7 +1360,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-01-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "116599"
   },
   {
     "moviClienteNombre": "sara miranda",
@@ -1247,7 +1371,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "217"
   },
   {
     "moviClienteNombre": "rocio diaz",
@@ -1257,7 +1382,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "169432"
   },
   {
     "moviClienteNombre": "matias godoy",
@@ -1267,7 +1393,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-01-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "74091"
   },
   {
     "moviClienteNombre": "matias godoy",
@@ -1277,7 +1404,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-01-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "74091"
   },
   {
     "moviClienteNombre": "pablo Monzon Ramirez",
@@ -1287,7 +1415,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2020-01-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "162308"
   },
   {
     "moviClienteNombre": "nahiara balbuena",
@@ -1297,7 +1426,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2020-01-14",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "169559"
   },
   {
     "moviClienteNombre": "vanessa villalba",
@@ -1307,7 +1437,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-12-19",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "65665"
   },
   {
     "moviClienteNombre": "sofia lobo",
@@ -1317,7 +1448,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-12-19",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "178356"
   },
   {
     "moviClienteNombre": "nestor balbuena",
@@ -1327,7 +1459,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-12-17",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "123457"
   },
   {
     "moviClienteNombre": "luciano miranda",
@@ -1337,7 +1470,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-11-27",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "8099"
   },
   {
     "moviClienteNombre": "norma estigarribia",
@@ -1347,7 +1481,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-11-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "239090"
   },
   {
     "moviClienteNombre": "erma gomez ortiz",
@@ -1357,7 +1492,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-11-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "13235"
   },
   {
     "moviClienteNombre": "luciano miranda",
@@ -1367,7 +1503,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-11-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "8099"
   },
   {
     "moviClienteNombre": "norma estigarribia",
@@ -1377,7 +1514,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-11-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "239090"
   },
   {
     "moviClienteNombre": "tami machuca",
@@ -1387,7 +1525,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-11-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "40041"
   },
   {
     "moviClienteNombre": "hugo javier medina alderete",
@@ -1397,7 +1536,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-11-15",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "1"
   },
   {
     "moviClienteNombre": "carlos fleitas",
@@ -1407,7 +1547,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-10-25",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "159423"
   },
   {
     "moviClienteNombre": "carlos fleitas",
@@ -1417,7 +1558,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-10-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "159423"
   },
   {
     "moviClienteNombre": "luis zorrilla",
@@ -1427,7 +1569,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2019-10-22",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "132335"
   },
   {
     "moviClienteNombre": "sara fleitas",
@@ -1437,7 +1580,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-10-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "159422"
   },
   {
     "moviClienteNombre": "sara fleitas",
@@ -1447,7 +1591,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-10-09",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "159422"
   },
   {
     "moviClienteNombre": "cristian aguilera",
@@ -1457,7 +1602,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-09-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "178333"
   },
   {
     "moviClienteNombre": "natalia otazu",
@@ -1467,7 +1613,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-09-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165491"
   },
   {
     "moviClienteNombre": "bruno arguello",
@@ -1477,7 +1624,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-09-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "103804"
   },
   {
     "moviClienteNombre": "nicole lobo",
@@ -1487,7 +1635,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-09-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "165574"
   },
   {
     "moviClienteNombre": "tania morinigo",
@@ -1497,7 +1646,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-09-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "145274"
   },
   {
     "moviClienteNombre": "natalia otazu",
@@ -1507,7 +1657,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-09-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "165491"
   },
   {
     "moviClienteNombre": "tania morinigo",
@@ -1517,7 +1668,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-09-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "145274"
   },
   {
     "moviClienteNombre": "rocio diaz",
@@ -1527,7 +1679,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-08-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "169432"
   },
   {
     "moviClienteNombre": "fiorela ozorio",
@@ -1537,7 +1690,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-07-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "222249"
   },
   {
     "moviClienteNombre": "mainumby sarubbi",
@@ -1547,7 +1701,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64391"
   },
   {
     "moviClienteNombre": "siria de martinez",
@@ -1557,7 +1712,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "56332"
   },
   {
     "moviClienteNombre": "nahiara balbuena",
@@ -1567,7 +1723,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "169559"
   },
   {
     "moviClienteNombre": "nahiara balbuena",
@@ -1577,7 +1734,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "169559"
   },
   {
     "moviClienteNombre": "juana m gonzalez",
@@ -1587,7 +1745,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "35010"
   },
   {
     "moviClienteNombre": "juana m gonzalez",
@@ -1597,7 +1756,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "35010"
   },
   {
     "moviClienteNombre": "harissa balbuena",
@@ -1607,7 +1767,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "190048"
   },
   {
     "moviClienteNombre": "harissa balbuena",
@@ -1617,7 +1778,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-07-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "190048"
   },
   {
     "moviClienteNombre": "cristian martinez ",
@@ -1627,7 +1789,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-07-02",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64755"
   },
   {
     "moviClienteNombre": "pablo Monzon Ramirez",
@@ -1637,7 +1800,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-06-19",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "162308"
   },
   {
     "moviClienteNombre": "cristian aguilera",
@@ -1647,7 +1811,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-06-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "178333"
   },
   {
     "moviClienteNombre": "stefany fabiola camacho paredes",
@@ -1657,7 +1822,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-06-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "147251"
   },
   {
     "moviClienteNombre": "tania camacho paredes",
@@ -1667,7 +1833,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-06-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "166741"
   },
   {
     "moviClienteNombre": "luis fernando camacho ",
@@ -1677,7 +1844,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-06-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "166740"
   },
   {
     "moviClienteNombre": "cristian martinez ",
@@ -1687,7 +1855,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-05-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64755"
   },
   {
     "moviClienteNombre": "rumy monzon",
@@ -1697,7 +1866,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-04-27",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64121"
   },
   {
     "moviClienteNombre": "mainumby sarubbi",
@@ -1707,7 +1877,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-04-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64391"
   },
   {
     "moviClienteNombre": "carmen gomez",
@@ -1717,7 +1888,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-04-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "127464"
   },
   {
     "moviClienteNombre": "marcos mendoza",
@@ -1727,7 +1899,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-04-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64821"
   },
   {
     "moviClienteNombre": "eulogio gonzalez",
@@ -1737,7 +1910,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-04-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "65150"
   },
   {
     "moviClienteNombre": "derlis medina alderete",
@@ -1747,7 +1921,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-04-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "192998"
   },
   {
     "moviClienteNombre": "vanessa villalba",
@@ -1757,7 +1932,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-04-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "65665"
   },
   {
     "moviClienteNombre": "marcos mendoza",
@@ -1767,7 +1943,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-04-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64821"
   },
   {
     "moviClienteNombre": "bruno arguello",
@@ -1777,7 +1954,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-03-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "103804"
   },
   {
     "moviClienteNombre": "ruth castillo",
@@ -1787,7 +1965,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2019-03-19",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64136"
   },
   {
     "moviClienteNombre": "natalia duarte",
@@ -1797,7 +1976,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-02-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "63967"
   },
   {
     "moviClienteNombre": "marian mora",
@@ -1807,7 +1987,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2019-01-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "144932"
   },
   {
     "moviClienteNombre": "tania camacho paredes",
@@ -1817,7 +1998,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-12-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "166741"
   },
   {
     "moviClienteNombre": "marcos nunez",
@@ -1827,7 +2009,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-12-19",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "69037"
   },
   {
     "moviClienteNombre": "guido valenzuela",
@@ -1837,7 +2020,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-11-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64783"
   },
   {
     "moviClienteNombre": "natalia duarte",
@@ -1847,7 +2031,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-11-16",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "63967"
   },
   {
     "moviClienteNombre": "guido valenzuela",
@@ -1857,7 +2042,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-11-07",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64783"
   },
   {
     "moviClienteNombre": "luis fernando camacho ",
@@ -1867,7 +2053,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-10-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "166740"
   },
   {
     "moviClienteNombre": "stefany fabiola camacho paredes",
@@ -1877,7 +2064,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-09-14",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "147251"
   },
   {
     "moviClienteNombre": "mario sosa",
@@ -1887,7 +2075,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-08-30",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163075"
   },
   {
     "moviClienteNombre": "edineia souza oliveira",
@@ -1897,7 +2086,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-07-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "165447"
   },
   {
     "moviClienteNombre": "rumy monzon",
@@ -1907,7 +2097,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-07-17",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64121"
   },
   {
     "moviClienteNombre": "ruth castillo",
@@ -1917,7 +2108,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-07-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64136"
   },
   {
     "moviClienteNombre": "edineia souza oliveira",
@@ -1927,7 +2119,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-07-04",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165447"
   },
   {
     "moviClienteNombre": "julia duarte ayala",
@@ -1937,7 +2130,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-07-03",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "161658"
   },
   {
     "moviClienteNombre": "lucas oviedo",
@@ -1947,7 +2141,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2018-06-21",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "266772"
   },
   {
     "moviClienteNombre": "lucas oviedo",
@@ -1957,7 +2152,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-06-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "266772"
   },
   {
     "moviClienteNombre": "eunice pujol ahrens",
@@ -1967,7 +2163,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-06-14",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "188560"
   },
   {
     "moviClienteNombre": "eunice pujol ahrens",
@@ -1977,7 +2174,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-06-07",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "188560"
   },
   {
     "moviClienteNombre": "bruno diaz",
@@ -1987,7 +2185,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-05-02",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "230820"
   },
   {
     "moviClienteNombre": "gabriela gonzalez",
@@ -1997,7 +2196,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-04-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "63327"
   },
   {
     "moviClienteNombre": "susan amarilla ",
@@ -2007,7 +2207,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-04-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64407"
   },
   {
     "moviClienteNombre": "jose miranda",
@@ -2017,7 +2218,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-03-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "118219"
   },
   {
     "moviClienteNombre": "jose miranda",
@@ -2027,7 +2229,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-03-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "118219"
   },
   {
     "moviClienteNombre": "marcial aguilera",
@@ -2037,7 +2240,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-03-08",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "159545"
   },
   {
     "moviClienteNombre": "marcial aguilera",
@@ -2047,7 +2251,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-03-08",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "159545"
   },
   {
     "moviClienteNombre": "nestor balbuena",
@@ -2057,7 +2262,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-02-28",
-    "moviProductoTotal": 270648
+    "moviProductoTotal": 270648,
+    "moviClienteCodigo": "123457"
   },
   {
     "moviClienteNombre": "ramon mercado",
@@ -2067,7 +2273,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-02-16",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "56029"
   },
   {
     "moviClienteNombre": "juana m gonzalez",
@@ -2077,7 +2284,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-02-12",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "35010"
   },
   {
     "moviClienteNombre": "juana m gonzalez",
@@ -2087,7 +2295,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-02-12",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "35010"
   },
   {
     "moviClienteNombre": "lourdes emilce paez",
@@ -2097,7 +2306,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-01-23",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "119298"
   },
   {
     "moviClienteNombre": "rolando rolon",
@@ -2107,7 +2317,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2018-01-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "174620"
   },
   {
     "moviClienteNombre": "rolando rolon",
@@ -2117,7 +2328,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-01-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "174620"
   },
   {
     "moviClienteNombre": "julia duarte ayala",
@@ -2127,7 +2339,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2018-01-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "161658"
   },
   {
     "moviClienteNombre": "vilda aponte",
@@ -2137,7 +2350,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-12-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "236772"
   },
   {
     "moviClienteNombre": "vivian godoy",
@@ -2147,7 +2361,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-11-14",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "107855"
   },
   {
     "moviClienteNombre": "siria de martinez",
@@ -2157,7 +2372,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-11-08",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "56332"
   },
   {
     "moviClienteNombre": "teodora ramirez",
@@ -2167,7 +2383,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-11-02",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "56003"
   },
   {
     "moviClienteNombre": "teodora ramirez",
@@ -2177,7 +2394,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-11-02",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "56003"
   },
   {
     "moviClienteNombre": "dora torres de nunes",
@@ -2187,7 +2405,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-10-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "13705"
   },
   {
     "moviClienteNombre": "mary estela nunez",
@@ -2197,7 +2416,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-10-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "170639"
   },
   {
     "moviClienteNombre": "susan amarilla ",
@@ -2207,7 +2427,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-10-16",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64407"
   },
   {
     "moviClienteNombre": "marcos nunez",
@@ -2217,7 +2438,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-10-06",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "69037"
   },
   {
     "moviClienteNombre": "veronica alfonso ",
@@ -2227,7 +2449,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-10-04",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "170059"
   },
   {
     "moviClienteNombre": "meliza duarte",
@@ -2237,7 +2460,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-10-04",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "170729"
   },
   {
     "moviClienteNombre": "mia oviedo",
@@ -2247,7 +2471,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-09-30",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "225905"
   },
   {
     "moviClienteNombre": "tatiana oviedo",
@@ -2257,7 +2482,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-09-30",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "174862"
   },
   {
     "moviClienteNombre": "fany elizabeth Arce",
@@ -2267,7 +2493,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-09-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "149990"
   },
   {
     "moviClienteNombre": "mia oviedo",
@@ -2277,7 +2504,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-08-30",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "225905"
   },
   {
     "moviClienteNombre": "daysi aguayo",
@@ -2287,7 +2515,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-08-29",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "227108"
   },
   {
     "moviClienteNombre": "daysi aguayo",
@@ -2297,7 +2526,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-08-29",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "227108"
   },
   {
     "moviClienteNombre": "dora torres de nunes",
@@ -2307,7 +2537,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-08-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "13705"
   },
   {
     "moviClienteNombre": "lucas oviedo",
@@ -2317,7 +2548,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-08-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "266772"
   },
   {
     "moviClienteNombre": "fany elizabeth Arce",
@@ -2327,7 +2559,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-07-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "149990"
   },
   {
     "moviClienteNombre": "karen lescano",
@@ -2337,7 +2570,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "65939"
   },
   {
     "moviClienteNombre": "maria lescano",
@@ -2347,7 +2581,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "83683"
   },
   {
     "moviClienteNombre": "valeria aponte",
@@ -2357,7 +2592,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "168488"
   },
   {
     "moviClienteNombre": "valeria aponte",
@@ -2367,7 +2603,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "168488"
   },
   {
     "moviClienteNombre": "thais anabell aponte",
@@ -2377,7 +2614,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "178355"
   },
   {
     "moviClienteNombre": "thais anabell aponte",
@@ -2387,7 +2625,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "178355"
   },
   {
     "moviClienteNombre": "thais anabell aponte",
@@ -2397,7 +2636,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-07-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "178355"
   },
   {
     "moviClienteNombre": "lourdes emilce paez",
@@ -2407,7 +2647,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-07-11",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "119298"
   },
   {
     "moviClienteNombre": "mario sosa",
@@ -2417,7 +2658,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-07-05",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163075"
   },
   {
     "moviClienteNombre": "nelson villalba",
@@ -2427,7 +2669,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-06-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64724"
   },
   {
     "moviClienteNombre": "nelson villalba",
@@ -2437,7 +2680,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-06-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "64724"
   },
   {
     "moviClienteNombre": "elvis lobo",
@@ -2447,7 +2691,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 365,
     "moviFechaFundacion": "2017-06-16",
-    "moviProductoTotal": 135324
+    "moviProductoTotal": 135324,
+    "moviClienteCodigo": "165572"
   },
   {
     "moviClienteNombre": "meliza duarte",
@@ -2457,7 +2702,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-06-14",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "170729"
   },
   {
     "moviClienteNombre": "debora castillo",
@@ -2467,7 +2713,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-06-08",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "51542"
   },
   {
     "moviClienteNombre": "debora castillo",
@@ -2477,7 +2724,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-06-08",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "51542"
   },
   {
     "moviClienteNombre": "fiorela cardozo",
@@ -2487,7 +2735,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-05-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "90643"
   },
   {
     "moviClienteNombre": "fiorela cardozo",
@@ -2497,7 +2746,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-05-26",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "90643"
   },
   {
     "moviClienteNombre": "karen lescano",
@@ -2507,7 +2757,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-05-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "65939"
   },
   {
     "moviClienteNombre": "mary estela nunez",
@@ -2517,7 +2768,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-05-10",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "170639"
   },
   {
     "moviClienteNombre": "juan castillo ",
@@ -2527,7 +2779,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2017-05-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "51379"
   },
   {
     "moviClienteNombre": "maria lescano",
@@ -2537,7 +2790,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-04-05",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "83683"
   },
   {
     "moviClienteNombre": "gabriela gonzalez",
@@ -2547,7 +2801,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-03-07",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "63327"
   },
   {
     "moviClienteNombre": "vivian godoy",
@@ -2557,7 +2812,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2017-02-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "107855"
   },
   {
     "moviClienteNombre": "angel alvarenga",
@@ -2567,7 +2823,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-12-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163066"
   },
   {
     "moviClienteNombre": "angel alvarenga",
@@ -2577,7 +2834,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-12-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163066"
   },
   {
     "moviClienteNombre": "veronica alfonso ",
@@ -2587,7 +2845,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-12-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "170059"
   },
   {
     "moviClienteNombre": "ramon mercado",
@@ -2597,7 +2856,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-11-15",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "56029"
   },
   {
     "moviClienteNombre": "tami machuca",
@@ -2607,7 +2867,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-11-09",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "40041"
   },
   {
     "moviClienteNombre": "carlos R martinez",
@@ -2617,7 +2878,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-11-04",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "137715"
   },
   {
     "moviClienteNombre": "carlos R martinez",
@@ -2627,7 +2889,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-11-04",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "137715"
   },
   {
     "moviClienteNombre": "fatima gomez",
@@ -2637,7 +2900,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-10-24",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "213955"
   },
   {
     "moviClienteNombre": "david gonzalez",
@@ -2647,7 +2911,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-10-19",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163069"
   },
   {
     "moviClienteNombre": "cibelle aguirre",
@@ -2657,7 +2922,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-08-11",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "60133"
   },
   {
     "moviClienteNombre": "eduardo martinez",
@@ -2667,7 +2933,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-08-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "63109"
   },
   {
     "moviClienteNombre": "willian martinez",
@@ -2677,7 +2944,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-08-06",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "60159"
   },
   {
     "moviClienteNombre": "cecilia cabrera ",
@@ -2687,7 +2955,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-07-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "234813"
   },
   {
     "moviClienteNombre": "dario alvarez",
@@ -2697,7 +2966,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-07-06",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "33052"
   },
   {
     "moviClienteNombre": "dario alvarez",
@@ -2707,7 +2977,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-06-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "33052"
   },
   {
     "moviClienteNombre": "araceli quiñonez M..",
@@ -2717,7 +2988,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-05-31",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "185846"
   },
   {
     "moviClienteNombre": "luis camacho ",
@@ -2727,7 +2999,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-05-06",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "136288"
   },
   {
     "moviClienteNombre": "luis camacho ",
@@ -2737,7 +3010,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2016-04-08",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "136288"
   },
   {
     "moviClienteNombre": "david villalba cardozo",
@@ -2747,7 +3021,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-03-17",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "168303"
   },
   {
     "moviClienteNombre": "rufina de villalba",
@@ -2757,7 +3032,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-03-15",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "135305"
   },
   {
     "moviClienteNombre": "andres servin candia",
@@ -2767,7 +3043,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-03-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "61762"
   },
   {
     "moviClienteNombre": "diana medina alderete",
@@ -2777,7 +3054,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2016-02-19",
-    "moviProductoTotal": 120288
+    "moviProductoTotal": 120288,
+    "moviClienteCodigo": "193515"
   },
   {
     "moviClienteNombre": "euclides maldonado",
@@ -2787,7 +3065,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-12-28",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "55230"
   },
   {
     "moviClienteNombre": "juan castillo ",
@@ -2797,7 +3076,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-12-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "51379"
   },
   {
     "moviClienteNombre": "miguel liuzzi",
@@ -2807,7 +3087,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-12-04",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163070"
   },
   {
     "moviClienteNombre": "miguel liuzzi",
@@ -2817,7 +3098,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-12-04",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163070"
   },
   {
     "moviClienteNombre": "karen gimenez",
@@ -2827,7 +3109,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-11-19",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "173923"
   },
   {
     "moviClienteNombre": "richard cañete",
@@ -2837,7 +3120,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-11-19",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163916"
   },
   {
     "moviClienteNombre": "nery gomez",
@@ -2847,7 +3131,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-11-11",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163081"
   },
   {
     "moviClienteNombre": "nery gomez",
@@ -2857,7 +3142,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-11-11",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163081"
   },
   {
     "moviClienteNombre": "delma godoy",
@@ -2867,7 +3153,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-11-04",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "59129"
   },
   {
     "moviClienteNombre": "andres servin candia",
@@ -2877,7 +3164,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-10-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "61762"
   },
   {
     "moviClienteNombre": "cibelle aguirre",
@@ -2887,7 +3175,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-10-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "60133"
   },
   {
     "moviClienteNombre": "jessica castillo",
@@ -2897,7 +3186,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-09-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "58581"
   },
   {
     "moviClienteNombre": "jessica castillo",
@@ -2907,7 +3197,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-09-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "58581"
   },
   {
     "moviClienteNombre": "euclides maldonado",
@@ -2917,7 +3208,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-09-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "55230"
   },
   {
     "moviClienteNombre": "eduardo martinez",
@@ -2927,7 +3219,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-09-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "63109"
   },
   {
     "moviClienteNombre": "david gonzalez",
@@ -2937,7 +3230,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-09-02",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163069"
   },
   {
     "moviClienteNombre": "willian martinez",
@@ -2947,7 +3241,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-08-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "60159"
   },
   {
     "moviClienteNombre": "delma godoy",
@@ -2957,7 +3252,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-08-18",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "59129"
   },
   {
     "moviClienteNombre": "aurelio brizuela",
@@ -2967,7 +3263,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-07-30",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "33403"
   },
   {
     "moviClienteNombre": "aurelio brizuela",
@@ -2977,7 +3274,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-07-30",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "33403"
   },
   {
     "moviClienteNombre": "david villalba cardozo",
@@ -2987,7 +3285,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-07-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "168303"
   },
   {
     "moviClienteNombre": "alejandro tomas fernandez",
@@ -2997,7 +3296,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-07-15",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "174874"
   },
   {
     "moviClienteNombre": "cesar quiónez M.",
@@ -3007,7 +3307,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-06-10",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "185812"
   },
   {
     "moviClienteNombre": "cesar quiónez M.",
@@ -3017,7 +3318,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-06-10",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "185812"
   },
   {
     "moviClienteNombre": "araceli quiñonez M..",
@@ -3027,7 +3329,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-06-10",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "185846"
   },
   {
     "moviClienteNombre": "karen gimenez",
@@ -3037,7 +3340,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-04-27",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "173923"
   },
   {
     "moviClienteNombre": "richard cañete",
@@ -3047,7 +3351,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-04-27",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163916"
   },
   {
     "moviClienteNombre": "adrian nunez",
@@ -3057,7 +3362,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-04-15",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "56850"
   },
   {
     "moviClienteNombre": "monserrat britez",
@@ -3067,7 +3373,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-03-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "94212"
   },
   {
     "moviClienteNombre": "monserrat britez",
@@ -3077,7 +3384,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-03-13",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "94212"
   },
   {
     "moviClienteNombre": "soledad torres",
@@ -3087,7 +3395,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2015-03-10",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "58913"
   },
   {
     "moviClienteNombre": "soledad torres",
@@ -3097,7 +3406,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-03-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "58913"
   },
   {
     "moviClienteNombre": "dionisio benitez",
@@ -3107,7 +3417,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2015-01-27",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "54814"
   },
   {
     "moviClienteNombre": "valeria vera",
@@ -3117,7 +3428,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-12-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "162613"
   },
   {
     "moviClienteNombre": "valeria vera",
@@ -3127,7 +3439,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-12-16",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "162613"
   },
   {
     "moviClienteNombre": "albertito vera ",
@@ -3137,7 +3450,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-12-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "168438"
   },
   {
     "moviClienteNombre": "carmen britez",
@@ -3147,7 +3461,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-12-03",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "63215"
   },
   {
     "moviClienteNombre": "derlis britez",
@@ -3157,7 +3472,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-12-03",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "56465"
   },
   {
     "moviClienteNombre": "oscar martinez",
@@ -3167,7 +3483,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-11-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "59989"
   },
   {
     "moviClienteNombre": "pedro alvarenga",
@@ -3177,7 +3494,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-11-13",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "86278"
   },
   {
     "moviClienteNombre": "teresa de brizuela",
@@ -3187,7 +3505,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-10-11",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "14232"
   },
   {
     "moviClienteNombre": "teresa de brizuela",
@@ -3197,7 +3516,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-10-11",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "14232"
   },
   {
     "moviClienteNombre": "ledis brizuela",
@@ -3207,7 +3527,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-09-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "63200"
   },
   {
     "moviClienteNombre": "ledis brizuela",
@@ -3217,7 +3538,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-09-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "63200"
   },
   {
     "moviClienteNombre": "dionisio benitez",
@@ -3227,7 +3549,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-08-11",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "54814"
   },
   {
     "moviClienteNombre": "oscar martinez",
@@ -3237,7 +3560,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-08-08",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "59989"
   },
   {
     "moviClienteNombre": "rocio nunez",
@@ -3247,7 +3571,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-07-30",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "61781"
   },
   {
     "moviClienteNombre": "adrian nunez",
@@ -3257,7 +3582,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-07-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "56850"
   },
   {
     "moviClienteNombre": "carmen britez",
@@ -3267,7 +3593,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-05-27",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "63215"
   },
   {
     "moviClienteNombre": "derlis britez",
@@ -3277,7 +3604,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-05-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "56465"
   },
   {
     "moviClienteNombre": "olga bobadilla de duarte",
@@ -3287,7 +3615,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-03-31",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "186168"
   },
   {
     "moviClienteNombre": "pedro alvarenga",
@@ -3297,7 +3626,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-03-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "86278"
   },
   {
     "moviClienteNombre": " vanesa villalba cardozo",
@@ -3307,7 +3637,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-02-27",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "103547"
   },
   {
     "moviClienteNombre": "vanesa villalba cardozo",
@@ -3317,7 +3648,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2014-02-27",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "103547"
   },
   {
     "moviClienteNombre": "roque duarte franco",
@@ -3327,7 +3659,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-02-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "192995"
   },
   {
     "moviClienteNombre": "rocio nunez",
@@ -3337,7 +3670,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "61781"
   },
   {
     "moviClienteNombre": "jose sarubbi",
@@ -3347,7 +3681,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2014-01-06",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "55047"
   },
   {
     "moviClienteNombre": "daisy brizuela",
@@ -3357,7 +3692,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-12-31",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "55898"
   },
   {
     "moviClienteNombre": "pedro r. villanueva",
@@ -3367,7 +3703,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-12-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "159999"
   },
   {
     "moviClienteNombre": "pedro r. villanueva",
@@ -3377,7 +3714,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-12-13",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "159999"
   },
   {
     "moviClienteNombre": "sady britez",
@@ -3387,7 +3725,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-10-28",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "60798"
   },
   {
     "moviClienteNombre": "sady britez",
@@ -3397,7 +3736,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-10-28",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "60798"
   },
   {
     "moviClienteNombre": "jose marachi",
@@ -3407,7 +3747,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-10-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "54221"
   },
   {
     "moviClienteNombre": "olga bobadilla de duarte",
@@ -3417,7 +3758,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-10-09",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "186168"
   },
   {
     "moviClienteNombre": "roque duarte franco",
@@ -3427,7 +3769,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-10-09",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "192995"
   },
   {
     "moviClienteNombre": "bruno diaz",
@@ -3437,7 +3780,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-10-04",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "230820"
   },
   {
     "moviClienteNombre": "dante martinez",
@@ -3447,7 +3791,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-10-03",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "198139"
   },
   {
     "moviClienteNombre": "zenon vera pedrozo",
@@ -3457,7 +3802,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-09-11",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "182700"
   },
   {
     "moviClienteNombre": "roberto huber",
@@ -3467,7 +3813,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-08-30",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163085"
   },
   {
     "moviClienteNombre": "roberto huber",
@@ -3477,7 +3824,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-08-13",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163085"
   },
   {
     "moviClienteNombre": "merceder ibarra de nuñez",
@@ -3487,7 +3835,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-08-12",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "24928"
   },
   {
     "moviClienteNombre": "carlos davalos rotela",
@@ -3497,7 +3846,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-06-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "139571"
   },
   {
     "moviClienteNombre": "carlos davalos rotela",
@@ -3507,7 +3857,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-06-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "139571"
   },
   {
     "moviClienteNombre": "manuel alvarenga (tito)",
@@ -3517,7 +3868,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-05-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "86277"
   },
   {
     "moviClienteNombre": "manuel alvarenga (tito)",
@@ -3527,7 +3879,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-05-16",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "86277"
   },
   {
     "moviClienteNombre": "gladys benitez cuba",
@@ -3537,7 +3890,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-04-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "63694"
   },
   {
     "moviClienteNombre": "rossana aponte",
@@ -3547,7 +3901,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-04-20",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "71728"
   },
   {
     "moviClienteNombre": "rossana aponte",
@@ -3557,7 +3912,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-04-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "71728"
   },
   {
     "moviClienteNombre": "santiago samudio",
@@ -3567,7 +3923,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-03-06",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "136266"
   },
   {
     "moviClienteNombre": "clara aguilera",
@@ -3577,7 +3934,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-02-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "178334"
   },
   {
     "moviClienteNombre": "juana miranda",
@@ -3587,7 +3945,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2013-02-11",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "49937"
   },
   {
     "moviClienteNombre": "daisy brizuela",
@@ -3597,7 +3956,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-02-04",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "55898"
   },
   {
     "moviClienteNombre": "Reinaldo Ayala",
@@ -3607,7 +3967,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163099"
   },
   {
     "moviClienteNombre": "merceder ibarra de nuñez",
@@ -3617,7 +3978,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2013-01-09",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "24928"
   },
   {
     "moviClienteNombre": "juana miranda",
@@ -3627,7 +3989,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-12-28",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "49937"
   },
   {
     "moviClienteNombre": "Reinaldo Ayala",
@@ -3637,7 +4000,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-12-14",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "163099"
   },
   {
     "moviClienteNombre": "alcides ramirez",
@@ -3647,7 +4011,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-12-05",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "74360"
   },
   {
     "moviClienteNombre": "alcides ramirez",
@@ -3657,7 +4022,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-12-05",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "74360"
   },
   {
     "moviClienteNombre": "pablo viveros",
@@ -3667,7 +4033,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-11-06",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "64665"
   },
   {
     "moviClienteNombre": "lorenza otazu",
@@ -3677,7 +4044,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-10-01",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "165490"
   },
   {
     "moviClienteNombre": "gladys benitez cuba",
@@ -3687,7 +4055,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-09-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "63694"
   },
   {
     "moviClienteNombre": "jazmin riveros vazquez",
@@ -3697,7 +4066,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-09-24",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "194763"
   },
   {
     "moviClienteNombre": "jazmin riveros vazquez",
@@ -3707,7 +4077,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-09-24",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "194763"
   },
   {
     "moviClienteNombre": "job uriel cañete zena",
@@ -3717,7 +4088,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-09-14",
-    "moviProductoTotal": 225540
+    "moviProductoTotal": 225540,
+    "moviClienteCodigo": "167815"
   },
   {
     "moviClienteNombre": "job uriel cañete zena",
@@ -3727,7 +4099,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-09-14",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "167815"
   },
   {
     "moviClienteNombre": "ramon barreto",
@@ -3737,7 +4110,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-09-04",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "89540"
   },
   {
     "moviClienteNombre": "ramon barreto",
@@ -3747,7 +4121,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-09-04",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "89540"
   },
   {
     "moviClienteNombre": "diego ruiz",
@@ -3757,7 +4132,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-08-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "46674"
   },
   {
     "moviClienteNombre": "diego ruiz",
@@ -3767,7 +4143,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-08-13",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "46674"
   },
   {
     "moviClienteNombre": "santiago samudio",
@@ -3777,7 +4154,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-07-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "136266"
   },
   {
     "moviClienteNombre": "petrona baez ",
@@ -3787,7 +4165,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-07-25",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "29179"
   },
   {
     "moviClienteNombre": "lidia melgarejo garay",
@@ -3797,7 +4176,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-07-13",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "193516"
   },
   {
     "moviClienteNombre": "lidia melgarejo garay",
@@ -3807,7 +4187,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-07-13",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "193516"
   },
   {
     "moviClienteNombre": "marcelo rodriguez",
@@ -3817,7 +4198,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2012-05-21",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "50176"
   },
   {
     "moviClienteNombre": "camila cañete zena",
@@ -3827,7 +4209,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2012-02-07",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "155893"
   },
   {
     "moviClienteNombre": "lorenza otazu",
@@ -3837,7 +4220,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-12-12",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165490"
   },
   {
     "moviClienteNombre": "ricardo rodriguez",
@@ -3847,7 +4231,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-11-03",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "55975"
   },
   {
     "moviClienteNombre": "ricardo rodriguez",
@@ -3857,7 +4242,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-11-03",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "55975"
   },
   {
     "moviClienteNombre": "sergio villalba",
@@ -3867,7 +4253,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-10-27",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "106968"
   },
   {
     "moviClienteNombre": "elva rodriguez",
@@ -3877,7 +4264,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-10-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "52546"
   },
   {
     "moviClienteNombre": "elva rodriguez",
@@ -3887,7 +4275,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-10-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "52546"
   },
   {
     "moviClienteNombre": "andrea almada",
@@ -3897,7 +4286,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-10-12",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "54468"
   },
   {
     "moviClienteNombre": "leticia espinola",
@@ -3907,7 +4297,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-10-11",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "113183"
   },
   {
     "moviClienteNombre": "walter aguilera",
@@ -3917,7 +4308,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-10-11",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "178332"
   },
   {
     "moviClienteNombre": "debora fernandez",
@@ -3927,7 +4319,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-10-10",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "163103"
   },
   {
     "moviClienteNombre": "dora de riveros",
@@ -3937,7 +4330,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-09-30",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "59114"
   },
   {
     "moviClienteNombre": "romina riveros",
@@ -3947,7 +4341,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-09-30",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "112440"
   },
   {
     "moviClienteNombre": "zulma beatriz almada",
@@ -3957,7 +4352,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-09-30",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "111448"
   },
   {
     "moviClienteNombre": "rita martinez",
@@ -3967,7 +4363,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-09-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "53554"
   },
   {
     "moviClienteNombre": "rita martinez",
@@ -3977,7 +4374,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-09-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "53554"
   },
   {
     "moviClienteNombre": "victor manuel almada",
@@ -3987,7 +4385,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-09-15",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "98664"
   },
   {
     "moviClienteNombre": "candida almada",
@@ -3997,7 +4396,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-09-02",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "35551"
   },
   {
     "moviClienteNombre": "candida almada",
@@ -4007,7 +4407,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-09-02",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "35551"
   },
   {
     "moviClienteNombre": "petrona baez ",
@@ -4017,7 +4418,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-08-31",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "29179"
   },
   {
     "moviClienteNombre": "walter ever",
@@ -4027,7 +4429,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-07-12",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "141428"
   },
   {
     "moviClienteNombre": "walter ever",
@@ -4037,7 +4440,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2011-07-12",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "141428"
   },
   {
     "moviClienteNombre": "rocio pereira",
@@ -4047,7 +4451,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2011-03-17",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "59474"
   },
   {
     "moviClienteNombre": "walter aguilera",
@@ -4057,7 +4462,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-12-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "178332"
   },
   {
     "moviClienteNombre": "david riveros",
@@ -4067,7 +4473,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-12-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "123726"
   },
   {
     "moviClienteNombre": "dora lopez",
@@ -4077,7 +4484,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-12-16",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "59114"
   },
   {
     "moviClienteNombre": "perla rolon ",
@@ -4087,7 +4495,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-08-30",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "53784"
   },
   {
     "moviClienteNombre": "rocio pereira",
@@ -4097,7 +4506,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-08-27",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "59474"
   },
   {
     "moviClienteNombre": "alberto ariel gonzalez",
@@ -4107,7 +4517,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-07-29",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "152689"
   },
   {
     "moviClienteNombre": "rolando rodriguez",
@@ -4117,7 +4528,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-06-23",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "140225"
   },
   {
     "moviClienteNombre": "rolando rodriguez",
@@ -4127,7 +4539,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-06-23",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "140225"
   },
   {
     "moviClienteNombre": "yanin dominguez",
@@ -4137,7 +4550,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-06-10",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "61225"
   },
   {
     "moviClienteNombre": "yanin dominguez",
@@ -4147,7 +4561,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-06-10",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "61225"
   },
   {
     "moviClienteNombre": "rolando rodriguez",
@@ -4157,7 +4572,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-06-08",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "43057"
   },
   {
     "moviClienteNombre": "rolando rodriguez",
@@ -4167,7 +4583,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-06-08",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "43057"
   },
   {
     "moviClienteNombre": "julio riquelme",
@@ -4177,7 +4594,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-05-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "56110"
   },
   {
     "moviClienteNombre": "julio riquelme",
@@ -4187,7 +4605,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-05-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "56110"
   },
   {
     "moviClienteNombre": "teresa de brizuela",
@@ -4197,7 +4616,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-04-20",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "150293"
   },
   {
     "moviClienteNombre": "silvia gomez",
@@ -4207,7 +4627,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-04-20",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "150293"
   },
   {
     "moviClienteNombre": "alan benitez",
@@ -4217,7 +4638,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-01-26",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "62121"
   },
   {
     "moviClienteNombre": "alan benitez",
@@ -4227,7 +4649,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-01-26",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "62121"
   },
   {
     "moviClienteNombre": "elvira benitez",
@@ -4237,7 +4660,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2010-01-22",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "58943"
   },
   {
     "moviClienteNombre": "elvira benitez",
@@ -4247,7 +4671,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-01-22",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "58943"
   },
   {
     "moviClienteNombre": "juan benitez",
@@ -4257,7 +4682,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2010-01-21",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "114728"
   },
   {
     "moviClienteNombre": "juan britez",
@@ -4267,7 +4693,8 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 180,
     "moviFechaFundacion": "2009-11-12",
-    "moviProductoTotal": 255612
+    "moviProductoTotal": 255612,
+    "moviClienteCodigo": "165299"
   },
   {
     "moviClienteNombre": "juan britez",
@@ -4277,6 +4704,7 @@
     "moviProcedimientoDescripcion": "PRIMERA CARGA",
     "moviProductoGarantia": 540,
     "moviFechaFundacion": "2009-11-12",
-    "moviProductoTotal": 285684
+    "moviProductoTotal": 285684,
+    "moviClienteCodigo": "165299"
   }
  ]
