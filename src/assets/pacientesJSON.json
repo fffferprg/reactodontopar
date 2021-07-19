@@ -1,732 +1,1340 @@
 [
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "adrian nunez",
-    "clienteCodigo": "56850",
-    "clienteTelefono": "61575842"
+  {
+    "clienteNombre": "anselma gimenez",
+    "clienteCodigo": "190495",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "alan benitez",
-    "clienteCodigo": "62121",
-    "clienteTelefono": "61507761"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "alberto ariel gonzalez",
-    "clienteCodigo": "152689",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "eunice pujol ahrens",
-    "clienteCodigo": "188560",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "alice castillo",
     "clienteCodigo": "65947",
-    "clienteTelefono": "61510080"
+    "clienteTelefono": "61510080",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "angel alvarenga",
-    "clienteCodigo": "163066",
-    "clienteTelefono": "973403051"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "antonia castillo",
-    "clienteCodigo": "87906",
-    "clienteTelefono": "61510080"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "aurelio brizuela",
-    "clienteCodigo": "33403",
-    "clienteTelefono": "61503018"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "sara fleitas",
-    "clienteCodigo": "159422",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "bruno arguello",
-    "clienteCodigo": "103804",
-    "clienteTelefono": "61502592"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "carmen britez",
-    "clienteCodigo": "63215",
-    "clienteTelefono": "973556800(adela)"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "clara aguilera",
-    "clienteCodigo": "178334",
-    "clienteTelefono": "975323327"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "cristian aguilera",
-    "clienteCodigo": "178333",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "cristian martinez",
-    "clienteCodigo": "64755",
-    "clienteTelefono": "61507800"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "daisy brizuela",
-    "clienteCodigo": "55898",
-    "clienteTelefono": "61503018"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "david gonzalez",
-    "clienteCodigo": "163069",
-    "clienteTelefono": "982204825"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "david riveros",
-    "clienteCodigo": "123726",
-    "clienteTelefono": "983216814"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "debora castillo",
-    "clienteCodigo": "51542",
-    "clienteTelefono": "61510080"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "delma godoy",
-    "clienteCodigo": "59129",
-    "clienteTelefono": "61507294"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "derlis britez",
-    "clienteCodigo": "56465",
-    "clienteTelefono": "973556800"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "diego ruiz",
-    "clienteCodigo": "46674",
-    "clienteTelefono": "973865411"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "dionisio benitez",
-    "clienteCodigo": "54814",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "dionisio benitez",
-    "clienteCodigo": "54814",
-    "clienteTelefono": "983514343"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "don riveros",
-    "clienteCodigo": "",
-    "clienteTelefono": "982791504"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "dora de riveros",
-    "clienteCodigo": "059114",
-    "clienteTelefono": "983216814"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "dora lopez",
-    "clienteCodigo": "059114",
-    "clienteTelefono": "983216814"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "eder vasquez",
-    "clienteCodigo": "168960",
-    "clienteTelefono": "983638226"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "eduardo martinez",
-    "clienteCodigo": "063109",
-    "clienteTelefono": "61504997"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "eligio martinez",
-    "clienteCodigo": "071322",
-    "clienteTelefono": "61504997"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "elva rodriguez",
-    "clienteCodigo": "052546",
-    "clienteTelefono": "973561479"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "elvira benitez",
-    "clienteCodigo": "058943",
-    "clienteTelefono": "61507761"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "evelyn rojas",
-    "clienteCodigo": "098950",
-    "clienteTelefono": "992209315"
+    "clienteCodigo": "98950",
+    "clienteTelefono": "992209315",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "gabriela gonzalez",
-    "clienteCodigo": "063327",
-    "clienteTelefono": "973124917"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "evelyn rojas",
-    "clienteCodigo": "098950",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "mary estela nunez",
-    "clienteCodigo": "170639",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "mary estela nunez",
-    "clienteCodigo": "170639",
-    "clienteTelefono": "973632415"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "javier bobadilla",
-    "clienteCodigo": "173345",
-    "clienteTelefono": "203847"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "javier bobadilla",
-    "clienteCodigo": "173345",
-    "clienteTelefono": "985871318"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "jessica castillo",
-    "clienteCodigo": "058581",
-    "clienteTelefono": "61510080"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "joel pereira",
-    "clienteCodigo": "099499",
-    "clienteTelefono": "973439059"
+    "clienteCodigo": "99499",
+    "clienteTelefono": "973439059",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "jose miranda",
-    "clienteCodigo": "118219",
-    "clienteTelefono": "61506778"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "jose miranda",
-    "clienteCodigo": "118219",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "jose sarubbi",
-    "clienteCodigo": "055047",
-    "clienteTelefono": "973594682"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "juan benitez",
-    "clienteCodigo": "114728",
-    "clienteTelefono": "61507761"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "juan britez",
-    "clienteCodigo": "165299",
-    "clienteTelefono": "973158776"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "juan castillo",
-    "clienteCodigo": "051379",
-    "clienteTelefono": "61510080"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "juana miranda",
-    "clienteCodigo": "049937",
-    "clienteTelefono": "61506778"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "julio lobo",
-    "clienteCodigo": "152682",
-    "clienteTelefono": "973127295"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "julio riquelme",
-    "clienteCodigo": "056110",
-    "clienteTelefono": "973555595"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "karen gimenez",
-    "clienteCodigo": "173923",
-    "clienteTelefono": "975612047"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "ledis brizuela",
-    "clienteCodigo": "063200",
-    "clienteTelefono": "61503018"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "leticia espinola",
-    "clienteCodigo": "113183",
-    "clienteTelefono": "972800953"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "lucas oviedo",
-    "clienteCodigo": "266772",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "marcial aguilera",
-    "clienteCodigo": "159545",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "lourdes emilce paez",
-    "clienteCodigo": "119298",
-    "clienteTelefono": "983608118(dra paez)"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "lourdes emilce paez",
-    "clienteCodigo": "",
-    "clienteTelefono": "983608118(dra paez)"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "luis zorrilla",
-    "clienteCodigo": "132335",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "luis zorrilla",
-    "clienteCodigo": "132335",
-    "clienteTelefono": "973565556"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "luisa duarte",
     "clienteCodigo": "172569",
-    "clienteTelefono": "982702458"
+    "clienteTelefono": "982702458",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "nery ramirez de castillo",
+    "clienteCodigo": "55144",
+    "clienteTelefono": "61510080",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "carlos davalos",
+    "clienteCodigo": "165492",
+    "clienteTelefono": "61502592",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "jose elias pereira",
+    "clienteCodigo": "65706",
+    "clienteTelefono": "973439059",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "sady mendoza",
+    "clienteCodigo": "88726",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alberto otazu",
+    "clienteCodigo": "165493",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "maria de martinez",
+    "clienteCodigo": "8198",
+    "clienteTelefono": "61507718",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "mathias cristaldo",
+    "clienteCodigo": "85777",
+    "clienteTelefono": "993282303",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alexis martinez",
+    "clienteCodigo": "66860",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "susana  mendoza",
+    "clienteCodigo": "116599",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "ronal barreto",
+    "clienteCodigo": "184931",
+    "clienteTelefono": "61503708",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "benjamin martinez",
+    "clienteCodigo": "198182",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "francisco morinigo",
+    "clienteCodigo": "246038",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "luis zorrilla",
+    "clienteCodigo": "132335",
+    "clienteTelefono": "973565556",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "magno castillo",
     "clienteCodigo": "163068",
-    "clienteTelefono": "973608361"
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "mainumby sarubbi",
-    "clienteCodigo": "064391",
-    "clienteTelefono": "973594682"
+  {
+    "clienteNombre": "vanderlan mairoza dos santos",
+    "clienteCodigo": "140763",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "manuel alvarenga (tito)",
-    "clienteCodigo": "086277",
-    "clienteTelefono": "973996786"
+  {
+    "clienteNombre": "nestor balbuena",
+    "clienteCodigo": "123457",
+    "clienteTelefono": "61510080",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "carmen gomez",
-    "clienteCodigo": "127464",
-    "clienteTelefono": ""
+  {
+    "clienteNombre": "gianina diana gagliardi villagra",
+    "clienteCodigo": "85525",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "marcelo rodriguez",
-    "clienteCodigo": "050176",
-    "clienteTelefono": "973600297"
+  {
+    "clienteNombre": "diana medina alderete",
+    "clienteCodigo": "193515",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "marcos mendoza",
-    "clienteCodigo": "064821",
-    "clienteTelefono": "61507718"
+  {
+    "clienteNombre": "vilma aponte",
+    "clienteCodigo": "65952",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "adriana alfonzo gauto",
+    "clienteCodigo": "211230",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "juan carlos ruiz dias",
+    "clienteCodigo": "137717",
+    "clienteTelefono": "973158776",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "marcos elias mairosa gomez",
+    "clienteCodigo": "140763",
+    "clienteTelefono": "973600297",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cynthia biesanovich",
+    "clienteCodigo": "173023",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "luana martinez",
+    "clienteCodigo": "173337",
+    "clienteTelefono": "983608118(dra paez)",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "gabriela castillo",
+    "clienteCodigo": "195352",
+    "clienteTelefono": "992209315",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "dante martinez",
+    "clienteCodigo": "198139",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "eder vasquez",
+    "clienteCodigo": "168960",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "eligio martinez",
+    "clienteCodigo": "71322",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "javier bobadilla",
+    "clienteCodigo": "173345",
+    "clienteTelefono": "985871318",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "matias martinez",
-    "clienteCodigo": "097540",
-    "clienteTelefono": "61507800"
+    "clienteCodigo": "97540",
+    "clienteTelefono": "61507800",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "maria de martinez",
-    "clienteCodigo": "008198",
-    "clienteTelefono": "61504997"
+  {
+    "clienteNombre": "edith ocampos",
+    "clienteCodigo": "137831",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "mauricio sarubbi",
+    "clienteCodigo": "132529",
+    "clienteTelefono": "61507800",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "fiorela ozorio",
+    "clienteCodigo": "222249",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "mariela sosa",
+    "clienteCodigo": "229784",
+    "clienteTelefono": "61504997",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alberto adrian lopez duarte",
+    "clienteCodigo": "588897",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "mario lopez",
     "clienteCodigo": "172209",
-    "clienteTelefono": "982702458"
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "mario sosa",
-    "clienteCodigo": "163075",
-    "clienteTelefono": "993282303"
+  {
+    "clienteNombre": "vanesa lopez",
+    "clienteCodigo": "172570",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "matias godoy",
-    "clienteCodigo": "074091",
-    "clienteTelefono": "61507294"
+  {
+    "clienteNombre": "marley  acosta",
+    "clienteCodigo": "176279",
+    "clienteTelefono": "981738683",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "matias martinez",
-    "clienteCodigo": "097540",
-    "clienteTelefono": "61507800"
+  {
+    "clienteNombre": "ana maria lopez duarte",
+    "clienteCodigo": "174830",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "miguel liuzzi",
-    "clienteCodigo": "163070",
-    "clienteTelefono": "981127294"
+  {
+    "clienteNombre": "salvador rojas sanchez",
+    "clienteCodigo": "149317",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "matias godoy",
-    "clienteCodigo": "074091",
-    "clienteTelefono": ""
+  {
+    "clienteNombre": "donato medina avalos",
+    "clienteCodigo": "192997",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "monserrat britez",
-    "clienteCodigo": "094212",
-    "clienteTelefono": "973556800"
+  {
+    "clienteNombre": "aurora alderete de medina",
+    "clienteCodigo": "192996",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "natalia duarte",
-    "clienteCodigo": "063967",
-    "clienteTelefono": "973531347(tita)"
+  {
+    "clienteNombre": "jorge martinez",
+    "clienteCodigo": "136264",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nelson villalba",
-    "clienteCodigo": "064724",
-    "clienteTelefono": "973897085(lucy)"
+  {
+    "clienteNombre": "lucas martinez gomez",
+    "clienteCodigo": "140246",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nery gomez",
-    "clienteCodigo": "163081",
-    "clienteTelefono": "973872636"
+  {
+    "clienteNombre": "erma gomez ortiz",
+    "clienteCodigo": "138235",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nery ramirez de castillo",
-    "clienteCodigo": "055144",
-    "clienteTelefono": "61510080"
+  {
+    "clienteNombre": "maria liz barijho",
+    "clienteCodigo": "184648",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "amanda martinez",
+    "clienteCodigo": "173024",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cecilia bobadilla",
+    "clienteCodigo": "224226",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "antonia castillo",
+    "clienteCodigo": "87906",
+    "clienteTelefono": "993281905",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "julio lobo",
+    "clienteCodigo": "152682",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "nicole lobo",
     "clienteCodigo": "165574",
-    "clienteTelefono": "975797949"
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nicole lobo",
-    "clienteCodigo": "165574",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "oscar martinez",
-    "clienteCodigo": "059989",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "pedro alvarenga",
-    "clienteCodigo": "086278",
-    "clienteTelefono": "973224149"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "perla rolon",
-    "clienteCodigo": "053784",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "Reinaldo Ayala",
-    "clienteCodigo": "163099",
-    "clienteTelefono": "993279158"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "ricardo rodriguez",
-    "clienteCodigo": "055975",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "richard cañete",
-    "clienteCodigo": "163916",
-    "clienteTelefono": "975612047"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "roberto huber",
-    "clienteCodigo": "163085",
-    "clienteTelefono": "973401415"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "rocio pereira",
-    "clienteCodigo": "059474",
-    "clienteTelefono": "973439059"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "rocio nunez",
-    "clienteCodigo": "061781",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "rolando rodriguez",
-    "clienteCodigo": "043057",
-    "clienteTelefono": "973449542"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "rolando rodriguez",
-    "clienteCodigo": "140225",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "romina riveros",
-    "clienteCodigo": "112440",
-    "clienteTelefono": "61508270"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "ruth castillo",
-    "clienteCodigo": "064136",
-    "clienteTelefono": "61510080"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "sady britez",
-    "clienteCodigo": "060798",
-    "clienteTelefono": "973556800(adela)"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "santiago samudio",
-    "clienteCodigo": "136266",
-    "clienteTelefono": "972800953"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "sara miranda",
-    "clienteCodigo": "000217",
-    "clienteTelefono": "61506778"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "teresa de brizuela",
-    "clienteCodigo": "150293",
-    "clienteTelefono": "981701686"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "siria de martinez",
-    "clienteCodigo": "056332",
-    "clienteTelefono": "61507800"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "soledad torres",
-    "clienteCodigo": "058913",
-    "clienteTelefono": "973553190"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "teresa de brizuela",
-    "clienteCodigo": "014232",
-    "clienteTelefono": "61503018"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "valeria vera",
-    "clienteCodigo": "162613",
-    "clienteTelefono": "0981701686(silvia)"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "valeria vera",
-    "clienteCodigo": "162613",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "veronica alfonso",
-    "clienteCodigo": "170059",
-    "clienteTelefono": "975797949"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "vivian godoy",
-    "clienteCodigo": "107855",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "vivian godoy",
-    "clienteCodigo": "107855",
-    "clienteTelefono": "61507294"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "walter aguilera",
-    "clienteCodigo": "178332",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "walter ever",
-    "clienteCodigo": "141428",
-    "clienteTelefono": "973804568"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "willian lobo",
     "clienteCodigo": "165573",
-    "clienteTelefono": "973127295"
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "willian martinez",
-    "clienteCodigo": "060159",
-    "clienteTelefono": "61504997"
+  {
+    "clienteNombre": "elvis lobo",
+    "clienteCodigo": "165572",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "yanin dominguez",
-    "clienteCodigo": "061225",
-    "clienteTelefono": ""
+  {
+    "clienteNombre": "antonella martinez",
+    "clienteCodigo": "252908",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "vanesa lopez",
-    "clienteCodigo": "172570",
-    "clienteTelefono": "982702458"
+  {
+    "clienteNombre": "sofia lobo",
+    "clienteCodigo": "178356",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "vanesa lopez",
-    "clienteCodigo": "172570",
-    "clienteTelefono": ""
+  {
+    "clienteNombre": "hugo javier medina alderete",
+    "clienteCodigo": "1",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "eulogio gonzalez",
-    "clienteCodigo": "065150",
-    "clienteTelefono": "973616493"
+  {
+    "clienteNombre": "osmar sarubbi",
+    "clienteCodigo": "28490",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "mariam mora",
     "clienteCodigo": "144932",
-    "clienteTelefono": "981738683"
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "marian mora",
-    "clienteCodigo": "144932",
-    "clienteTelefono": "981738683"
+  {
+    "clienteNombre": "harissa balbuena",
+    "clienteCodigo": "190048",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "vanderlan mairoza dos santos",
-    "clienteCodigo": "",
-    "clienteTelefono": ""
+  {
+    "clienteNombre": "sara miranda",
+    "clienteCodigo": "217",
+    "clienteTelefono": "61506778",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "mathias cristaldo",
-    "clienteCodigo": "085777",
-    "clienteTelefono": "973589222"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "jose marachi",
-    "clienteCodigo": "054221",
-    "clienteTelefono": "973832712"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nestor balbuena",
-    "clienteCodigo": "123457",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nestor balbuena",
-    "clienteCodigo": "123457",
-    "clienteTelefono": "991821007"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "karen lescano",
-    "clienteCodigo": "065939",
-    "clienteTelefono": "973582617"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "maria lescano",
-    "clienteCodigo": "083683",
-    "clienteTelefono": "973437091"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "dario alvarez",
-    "clienteCodigo": "033052",
-    "clienteTelefono": "983619721"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nahiara balbuena",
-    "clienteCodigo": "169559",
-    "clienteTelefono": "61518229"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "nahiara balbuena",
-    "clienteCodigo": "169559",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "",
-    "clienteCodigo": "055098",
-    "clienteTelefono": "993281905"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "elvis lobo",
-    "clienteCodigo": "165572",
-    "clienteTelefono": "973427040"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "elvis lobo",
-    "clienteCodigo": "165572",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "pablo viveros",
-    "clienteCodigo": "064665",
-    "clienteTelefono": "973444414"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "gianina diana gagliardi villagra",
-    "clienteCodigo": "",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "alexis martinez",
-    "clienteCodigo": "066860",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "fiorela cardozo",
-    "clienteCodigo": "090643",
-    "clienteTelefono": "983527041"
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "rocio diaz",
     "clienteCodigo": "169432",
-    "clienteTelefono": "982436904"
+    "clienteTelefono": "973401415",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "susan amarilla",
-    "clienteCodigo": "064407",
-    "clienteTelefono": "983292894"
+  {
+    "clienteNombre": "matias godoy",
+    "clienteCodigo": "74091",
+    "clienteTelefono": "61507294",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "euclides maldonado",
-    "clienteCodigo": "055230",
-    "clienteTelefono": "983601117"
+  {
+    "clienteNombre": "pablo Monzon Ramirez",
+    "clienteCodigo": "162308",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "petrona baez",
-    "clienteCodigo": "029179",
-    "clienteTelefono": "61503708"
+  {
+    "clienteNombre": "nahiara balbuena",
+    "clienteCodigo": "169559",
+    "clienteTelefono": "973556800",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "zulma beatriz almada",
-    "clienteCodigo": "111448",
-    "clienteTelefono": "991706678"
+  {
+    "clienteNombre": "vanessa villalba",
+    "clienteCodigo": "65665",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "luciano miranda",
+    "clienteCodigo": "8099",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "norma estigarribia",
+    "clienteCodigo": "239090",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "tami machuca",
+    "clienteCodigo": "40041",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "carlos fleitas",
+    "clienteCodigo": "159423",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "sara fleitas",
+    "clienteCodigo": "159422",
+    "clienteTelefono": "972800953",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cristian aguilera",
+    "clienteCodigo": "178333",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "natalia otazu",
+    "clienteCodigo": "165491",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "bruno arguello",
+    "clienteCodigo": "103804",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "tania morinigo",
+    "clienteCodigo": "145274",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "mainumby sarubbi",
+    "clienteCodigo": "64391",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "siria de martinez",
+    "clienteCodigo": "56332",
+    "clienteTelefono": "61507800",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "juana m gonzalez",
+    "clienteCodigo": "35010",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cristian martinez ",
+    "clienteCodigo": "64755",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "stefany fabiola camacho paredes",
+    "clienteCodigo": "147251",
+    "clienteTelefono": "982436904",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "tania camacho paredes",
+    "clienteCodigo": "166741",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "luis fernando camacho ",
+    "clienteCodigo": "166740",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rumy monzon",
+    "clienteCodigo": "64121",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "carmen gomez",
+    "clienteCodigo": "127464",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "marcos mendoza",
+    "clienteCodigo": "64821",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "eulogio gonzalez",
+    "clienteCodigo": "65150",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "derlis medina alderete",
+    "clienteCodigo": "192998",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "ruth castillo",
+    "clienteCodigo": "64136",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "natalia duarte",
+    "clienteCodigo": "63967",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "marian mora",
+    "clienteCodigo": "144932",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "marcos nunez",
+    "clienteCodigo": "69037",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "guido valenzuela",
+    "clienteCodigo": "64783",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "mario sosa",
+    "clienteCodigo": "163075",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "edineia souza oliveira",
+    "clienteCodigo": "165447",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "julia duarte ayala",
+    "clienteCodigo": "161658",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "lucas oviedo",
+    "clienteCodigo": "266772",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "eunice pujol ahrens",
+    "clienteCodigo": "188560",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "bruno diaz",
+    "clienteCodigo": "230820",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "gabriela gonzalez",
+    "clienteCodigo": "63327",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "susan amarilla ",
+    "clienteCodigo": "64407",
+    "clienteTelefono": "983292894",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "jose miranda",
+    "clienteCodigo": "118219",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "marcial aguilera",
+    "clienteCodigo": "159545",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "ramon mercado",
+    "clienteCodigo": "56029",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "lourdes emilce paez",
+    "clienteCodigo": "119298",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "rolando rolon",
     "clienteCodigo": "174620",
-    "clienteTelefono": "971757451"
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "victor manuel almada",
-    "clienteCodigo": "098664",
-    "clienteTelefono": "991706678"
+  {
+    "clienteNombre": "vilda aponte",
+    "clienteCodigo": "236772",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "candida almada",
-    "clienteCodigo": "035551",
-    "clienteTelefono": "991706678"
+  {
+    "clienteNombre": "vivian godoy",
+    "clienteCodigo": "107855",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "rita martinez",
-    "clienteCodigo": "053554",
-    "clienteTelefono": "973545947"
+  {
+    "clienteNombre": "teodora ramirez",
+    "clienteCodigo": "56003",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "dora torres de nunes",
+    "clienteCodigo": "13705",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "mary estela nunez",
+    "clienteCodigo": "170639",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "veronica alfonso ",
+    "clienteCodigo": "170059",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "meliza duarte",
+    "clienteCodigo": "170729",
+    "clienteTelefono": "973832712",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "mia oviedo",
+    "clienteCodigo": "225905",
+    "clienteTelefono": "973832712",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "tatiana oviedo",
+    "clienteCodigo": "174862",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "fany elizabeth Arce",
+    "clienteCodigo": "149990",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "daysi aguayo",
+    "clienteCodigo": "227108",
+    "clienteTelefono": "983619721",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "karen lescano",
+    "clienteCodigo": "65939",
+    "clienteTelefono": "973582617",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "maria lescano",
+    "clienteCodigo": "83683",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "valeria aponte",
+    "clienteCodigo": "168488",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "thais anabell aponte",
+    "clienteCodigo": "178355",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "nelson villalba",
+    "clienteCodigo": "64724",
+    "clienteTelefono": "983527041",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "debora castillo",
+    "clienteCodigo": "51542",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "fiorela cardozo",
+    "clienteCodigo": "90643",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "juan castillo ",
+    "clienteCodigo": "51379",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "angel alvarenga",
+    "clienteCodigo": "163066",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "carlos R martinez",
+    "clienteCodigo": "137715",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "fatima gomez",
+    "clienteCodigo": "213955",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "david gonzalez",
+    "clienteCodigo": "163069",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cibelle aguirre",
+    "clienteCodigo": "60133",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "eduardo martinez",
+    "clienteCodigo": "63109",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "willian martinez",
+    "clienteCodigo": "60159",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cecilia cabrera ",
+    "clienteCodigo": "234813",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "dario alvarez",
+    "clienteCodigo": "33052",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "araceli quiñonez M..",
+    "clienteCodigo": "185846",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "luis camacho ",
+    "clienteCodigo": "136288",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "david villalba cardozo",
+    "clienteCodigo": "168303",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rufina de villalba",
+    "clienteCodigo": "135305",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "andres servin candia",
+    "clienteCodigo": "61762",
+    "clienteTelefono": "991706678",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "euclides maldonado",
+    "clienteCodigo": "55230",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "miguel liuzzi",
+    "clienteCodigo": "163070",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "karen gimenez",
+    "clienteCodigo": "173923",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "richard cañete",
+    "clienteCodigo": "163916",
+    "clienteTelefono": "973339933",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "nery gomez",
+    "clienteCodigo": "163081",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "delma godoy",
+    "clienteCodigo": "59129",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "jessica castillo",
+    "clienteCodigo": "58581",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "aurelio brizuela",
+    "clienteCodigo": "33403",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alejandro tomas fernandez",
+    "clienteCodigo": "174874",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "cesar quiónez M.",
+    "clienteCodigo": "185812",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "adrian nunez",
+    "clienteCodigo": "56850",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "monserrat britez",
+    "clienteCodigo": "94212",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "soledad torres",
+    "clienteCodigo": "58913",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "dionisio benitez",
+    "clienteCodigo": "54814",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "valeria vera",
+    "clienteCodigo": "162613",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "albertito vera ",
+    "clienteCodigo": "168438",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "carmen britez",
+    "clienteCodigo": "63215",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "derlis britez",
+    "clienteCodigo": "56465",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "oscar martinez",
+    "clienteCodigo": "59989",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "pedro alvarenga",
+    "clienteCodigo": "86278",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "teresa de brizuela",
+    "clienteCodigo": "14232",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "ledis brizuela",
+    "clienteCodigo": "63200",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rocio nunez",
+    "clienteCodigo": "61781",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "olga bobadilla de duarte",
+    "clienteCodigo": "186168",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": " vanesa villalba cardozo",
+    "clienteCodigo": "103547",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "vanesa villalba cardozo",
+    "clienteCodigo": "103547",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "roque duarte franco",
+    "clienteCodigo": "192995",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "jose sarubbi",
+    "clienteCodigo": "55047",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "daisy brizuela",
+    "clienteCodigo": "55898",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "pedro r. villanueva",
+    "clienteCodigo": "159999",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "sady britez",
+    "clienteCodigo": "60798",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "jose marachi",
+    "clienteCodigo": "54221",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "zenon vera pedrozo",
+    "clienteCodigo": "182700",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "roberto huber",
+    "clienteCodigo": "163085",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "merceder ibarra de nuñez",
+    "clienteCodigo": "24928",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "carlos davalos rotela",
+    "clienteCodigo": "139571",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "manuel alvarenga (tito)",
+    "clienteCodigo": "86277",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "gladys benitez cuba",
+    "clienteCodigo": "63694",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rossana aponte",
+    "clienteCodigo": "71728",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "santiago samudio",
+    "clienteCodigo": "136266",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "clara aguilera",
+    "clienteCodigo": "178334",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "juana miranda",
+    "clienteCodigo": "49937",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "Reinaldo Ayala",
+    "clienteCodigo": "163099",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alcides ramirez",
+    "clienteCodigo": "74360",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "pablo viveros",
+    "clienteCodigo": "64665",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "lorenza otazu",
+    "clienteCodigo": "165490",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "jazmin riveros vazquez",
+    "clienteCodigo": "194763",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "job uriel cañete zena",
+    "clienteCodigo": "167815",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "ramon barreto",
+    "clienteCodigo": "89540",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "diego ruiz",
+    "clienteCodigo": "46674",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "petrona baez ",
+    "clienteCodigo": "29179",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "lidia melgarejo garay",
+    "clienteCodigo": "193516",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "marcelo rodriguez",
+    "clienteCodigo": "50176",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "camila cañete zena",
+    "clienteCodigo": "155893",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "ricardo rodriguez",
+    "clienteCodigo": "55975",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "sergio villalba",
     "clienteCodigo": "106968",
-    "clienteTelefono": "973897085"
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "carlos davalos",
-    "clienteCodigo": "165492",
-    "clienteTelefono": "973107677"
+  {
+    "clienteNombre": "elva rodriguez",
+    "clienteCodigo": "52546",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
-    "clienteNombre": "carlos davalos",
-    "clienteCodigo": "165492",
-    "clienteTelefono": ""
-  },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
     "clienteNombre": "andrea almada",
-    "clienteCodigo": "054468",
-    "clienteTelefono": "991706678"
+    "clienteCodigo": "54468",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   },
-  { "clienteFechaNacimiento":"0000-00-00",
+  {
+    "clienteNombre": "leticia espinola",
+    "clienteCodigo": "113183",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "walter aguilera",
+    "clienteCodigo": "178332",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
     "clienteNombre": "debora fernandez",
     "clienteCodigo": "163103",
-    "clienteTelefono": "973339933"
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "dora de riveros",
+    "clienteCodigo": "59114",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "romina riveros",
+    "clienteCodigo": "112440",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "zulma beatriz almada",
+    "clienteCodigo": "111448",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rita martinez",
+    "clienteCodigo": "53554",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "victor manuel almada",
+    "clienteCodigo": "98664",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "candida almada",
+    "clienteCodigo": "35551",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "walter ever",
+    "clienteCodigo": "141428",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rocio pereira",
+    "clienteCodigo": "59474",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "david riveros",
+    "clienteCodigo": "123726",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "dora lopez",
+    "clienteCodigo": "59114",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "perla rolon ",
+    "clienteCodigo": "53784",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alberto ariel gonzalez",
+    "clienteCodigo": "152689",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "rolando rodriguez",
+    "clienteCodigo": "140225",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "yanin dominguez",
+    "clienteCodigo": "61225",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "julio riquelme",
+    "clienteCodigo": "56110",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "silvia gomez",
+    "clienteCodigo": "150293",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "alan benitez",
+    "clienteCodigo": "62121",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "elvira benitez",
+    "clienteCodigo": "58943",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "juan benitez",
+    "clienteCodigo": "114728",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
+  },
+  {
+    "clienteNombre": "juan britez",
+    "clienteCodigo": "165299",
+    "clienteTelefono": "0",
+    "clienteFechaNacimiento": ""
   }
-]
+ ]

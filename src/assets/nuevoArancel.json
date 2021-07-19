@@ -885,7 +885,7 @@
       "codigo": "70090010",
       "productoNombre": "Aparato extra bucal ( incluye mentonera )",
       "precioVenta": 688047,
-      "productoGarantia": 9.999,
+      "productoGarantia": 9999,
       "productoTipo": "diente"
     },
     {
@@ -1564,14 +1564,14 @@
       "codigo": "70130201",
       "productoNombre": "Temporario movil",
       "precioVenta": 105252,
-      "productoGarantia": 9.999,
+      "productoGarantia": 9999,
       "productoTipo": "diente"
     },
     {
       "codigo": "70130202",
       "productoNombre": "Temporario s/ reabsorcion",
       "precioVenta": 120288,
-      "productoGarantia": 9.999,
+      "productoGarantia": 9999,
       "productoTipo": "diente"
     },
     {
@@ -1620,7 +1620,7 @@
       "codigo": "70140100",
       "productoNombre": "Disfuncion de ATM entrega inicial",
       "precioVenta": 2706480,
-      "productoGarantia": 9.999,
+      "productoGarantia": 9999,
       "productoTipo": "diente"
     },
     {
