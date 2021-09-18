@@ -19,6 +19,7 @@ const traduccion = {
         produccion:"PRODUCCION",
         confirmacion:"CONFIRMACION",
         historico:"HISTORICO",
+        subirimagen:"Subir imagen",
         },
         en: {
             inicio: "Home",
@@ -32,6 +33,7 @@ const traduccion = {
             movimientos:"Movements",
             confirmation: "CONFIRMATION",
             historico:"HISTORICO",
+            
 
         },
       
@@ -84,6 +86,7 @@ class Menu extends Component {
                                          {this.props.rolesUsuarios.includes('Movimientos')?<LinkContainer exact to="/productos/movimientos"><Nav.Link>{strings.movimientos}</Nav.Link></LinkContainer>:null}
                                          {this.props.rolesUsuarios.includes('Clientes')?<LinkContainer exact to="/clientes"><Nav.Link>Pacientes</Nav.Link></LinkContainer>:null}
                                          {this.props.rolesUsuarios.includes('Productos')? <LinkContainer exact to="/productos"><Nav.Link  >{strings.productos}</Nav.Link></LinkContainer>:null}
+                                         {this.props.rolesUsuarios.includes('Subir imagen')? <LinkContainer exact to="/subirimagen"><Nav.Link  >{strings.subirimagen}</Nav.Link></LinkContainer>:null}
                                                 <NavDropdown.Divider />
                                                 {this.props.rolesUsuarios.includes('Usuarios')?<LinkContainer exact to="/usuarios"><Nav.Link onClick={()=>{this.definirTitulo('USUARIOS')}} >{strings.usuarios}</Nav.Link></LinkContainer>:null}
                                                 {this.props.rolesUsuarios.includes('Roles')?<LinkContainer exact to="/roles"><Nav.Link onClick={()=>{this.definirTitulo('ROLES')}} >{strings.roles}</Nav.Link></LinkContainer>:null}

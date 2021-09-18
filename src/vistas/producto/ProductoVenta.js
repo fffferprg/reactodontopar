@@ -1257,7 +1257,7 @@ manejarHistorial=()=>{
                     </Row>
 
                     <Row >
-                    <Col md={2} sm = {12} xs = {12}>
+                        <Col md={2} sm = {12} xs = {12}>
                             <Form.Group>
                                 <Form.Label style={{fontSize:"14px"}}>Periodo *</Form.Label>
                                 <Form.Control type="text" size="sm"  name="moviPeriodo" value = {this.state.moviPeriodo} onChange={this.capturarTecla} onClick={this.openPeriodoModal} />

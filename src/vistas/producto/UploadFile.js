@@ -1,7 +1,10 @@
 // componente formulario para subir imagenes
 
 import React, { Component } from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {uploadFile} from '../../MyLib/uploadFile';
+import { Row, Col, Form, Button, Table, OverlayTrigger, Tooltip, InputGroup, FormControl} from 'react-bootstrap';
+
 
 
 export default class UploadFile extends Component {
@@ -19,7 +22,7 @@ export default class UploadFile extends Component {
     handleUpload = () => {
         // const  { image } = this.state;
         const image = this.state.image
-        uploadFile('Productos', image, this.handleProgress, this.handleComplete);
+        uploadFile('FAOS', image, this.handleProgress, this.handleComplete);
     }
     handleProgress = (progress) => {
         this.setState({progress: progress});
@@ -30,12 +33,23 @@ export default class UploadFile extends Component {
     render() {
         return (
             <div>
-                <progress style={{marginBottom: 10}} value={this.state.progress} max="100"/><br/>
-                <input type="file" onChange={this.handleChange}/><br/>
-                <button onClick={this.handleUpload}>Upload</button><br/>
-                <img src={this.state.url} alt="Uploaded images" height="600" width="800"/>
-            </div>
+                <Form>
+                    <Row>
+                        {/* <progress style={{marginBottom: 10}} value={this.state.progress} max="100"/><br/> */}
+                        <input type="file" onChange={this.handleChange}/><br/>
+                        
+                        {/* <button onClick={this.handleUpload}>Upload</button><br/> */}
+                        <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Upload</Button>{' '}<br/>
+                    </Row>
+                    <Row>
+                        <progress value={this.state.progress} max="100"/><br/>
+                    </Row>
+                    <Row>
+                        <img src={this.state.url} alt="Uploaded images" height="600" width="800"/>
+                    </Row>
 
+                </Form>
+            </div>
         )
     }
 }

@@ -111,6 +111,7 @@ componentDidMount(){
               {this.state.rolesUsuarios.includes('Roles')?<PrivateRoute exact path="/roles" component={Roles} usuarioLogeado={this.state.usuarioLogeado} />:null}
               <PrivateRoute exact path="/usuario/roles/:usuarioId" component={UsuarioRoles} usuarioLogeado={this.state.usuarioLogeado} />
               {this.state.rolesUsuarios.includes('Clientes')?<PrivateRoute exact path="/clientes" component={ClienteAbm} usuarioLogeado={this.state.usuarioLogeado}/>:null}
+              {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/>:null}
               {/* <PrivateRoute exact path="/uploadfile" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/> */}
               <PublicRoute  exact path="/" component={Login} usuarioLogeado={this.state.usuarioLogeado} logear= {this.logear}/>
               <PublicRoute  exact path="/registro" component={Registro} usuarioLogeado={this.state.usuarioLogeado}/>
