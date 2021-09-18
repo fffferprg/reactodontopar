@@ -43,3 +43,4 @@ var firebaseConfigPrd = {
   export const db = proyectoSecundario.firestore();
   // export const auth = firebase.auth();
   export const storage = proyectoSecundario.storage();
+  

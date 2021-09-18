@@ -1,4 +1,5 @@
-import { storage } from '../config/firebase';
+// import { storage } from '../config/firebase';
+import {storage} from '../config/firebase';
 //pathToUpload: directorio donde se quiere almacenar el archivo
 /*
 Parametros
