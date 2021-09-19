@@ -35,19 +35,28 @@ export default class UploadFile extends Component {
             <div>
                 <Form>
                     <Row>
-                        {/* <progress style={{marginBottom: 10}} value={this.state.progress} max="100"/><br/> */}
-                        <input type="file" onChange={this.handleChange}/><br/>
-                        
-                        {/* <button onClick={this.handleUpload}>Upload</button><br/> */}
-                        <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Upload</Button>{' '}<br/>
+                        <Col md={5} sm = {12} xs = {12}>
+                            {/* <Form.Group>
+                                <Form.Label>Imagen</Form.Label>
+                                <Form.Control type="file"  size="sm" name="codigo" value = {this.state.codigo} onChange={this.handleChange} />
+                                <Form.Control type="file"  size="sm" onChange={this.handleChange} />
+                            </Form.Group> */}
+                            <input type="file" onChange={this.handleChange}/><br/><br/>
+                            {/* <input type="file" style={{color: 'transparent'}} onChange={this.handleChange}/> */}
+                        </Col>
                     </Row>
                     <Row>
-                        <progress value={this.state.progress} max="100"/><br/>
+                        <Col md={2} sm = {12} xs = {12}>
+                            <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Subir archivo</Button>{' '}
+                        </Col>
+                        <Col md={2} sm = {12} xs = {12}>
+                            <progress value={this.state.progress} max="100"/><br/>
+                        </Col>
                     </Row>
                     <Row>
-                        <img src={this.state.url} alt="Uploaded images" height="600" width="800"/>
+                    {/* <img src={this.state.url} alt="Uploaded images" height="600" width="800"/> */}
+                    <img src={this.state.url} alt="Uploaded images" class="img-fluid" />
                     </Row>
-
                 </Form>
             </div>
         )
