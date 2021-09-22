@@ -11,12 +11,18 @@ export default class UploadFile extends Component {
     state ={
         image: null,
         url: 'http://via.placeholder.com/800x600',
-        progress: 0
+        progress: 0,
+        imagenSubida:''
     }
     handleChange = (event) =>{
+        this.setState({url: 'http://via.placeholder.com/800x600'})
+        this.setState({progress: 0})
+        this.setState({imagenSubida: ''})
         if(event.target.files[0]) {
-            const image = event.target.files[0];
-            this.setState({image: image});
+            const imagen = event.target.files[0];
+            this.setState({image: imagen});
+            console.log('IMAGE',this.state.image)
+            // this.handleUpload()
         }
     }
     handleUpload = () => {
@@ -29,6 +35,7 @@ export default class UploadFile extends Component {
     }
     handleComplete = (url) => {
         this.setState({url: url});
+        this.setState({imagenSubida: 'Imagen subida'});
     }
     render() {
         return (
@@ -47,15 +54,17 @@ export default class UploadFile extends Component {
                     </Row>
                     <Row>
                         <Col md={2} sm = {12} xs = {12}>
-                            <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Subir archivo</Button>{' '}
-                        </Col>
-                        <Col md={2} sm = {12} xs = {12}>
-                            <progress value={this.state.progress} max="100"/><br/>
+                            <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Subir archivo</Button>{' '}<br/>
                         </Col>
                     </Row>
                     <Row>
                     {/* <img src={this.state.url} alt="Uploaded images" height="600" width="800"/> */}
+                        <Col md={12} sm = {12} xs = {12}>
+                            <progress value={this.state.progress} max="100"/>
+                            <h4>{this.state.imagenSubida}</h4><br/>
+                        </Col>
                     <img src={this.state.url} alt="Uploaded images" class="img-fluid" />
+                    
                     </Row>
                 </Form>
             </div>
