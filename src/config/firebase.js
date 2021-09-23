@@ -1,4 +1,5 @@
-import firebase from 'firebase'
+// import firebase from 'firebase'
+import * as firebase from 'firebase/app';
 import 'firebase/firestore'
 import 'firebase/auth'
 import 'firebase/storage'
@@ -44,3 +45,5 @@ var firebaseConfigPrd = {
   // export const auth = firebase.auth();
   export const storage = proyectoSecundario.storage();
   
+  const timestamp = firebase.firestore.FieldValue.serverTimestamp;
+  export {timestamp };

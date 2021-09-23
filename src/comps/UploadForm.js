@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import ProgressBar from '../comps/ProgressBar';
+import { Row, Col, Form, Button, Table, OverlayTrigger, Tooltip, InputGroup, FormControl} from 'react-bootstrap';
+import { MdAddCircle, MdDeleteForever, MdCreate, MdFindInPage, MdSkipPrevious, MdSkipNext, MdNavigateBefore, MdNavigateNext, MdFindReplace } from "react-icons/md";
+
 
 const UploadForm = () => {
   const [file, setFile] = useState(null);
@@ -15,7 +18,7 @@ const UploadForm = () => {
       setError('');
     } else {
       setFile(null);
-      setError('Please select an image file (png or jpg)');
+      setError('Seleccione una imagen (png o jpg)');
     }
   };
 
@@ -23,7 +26,8 @@ const UploadForm = () => {
     <form>
       <label>
         <input type="file" onChange={handleChange} />
-        <span>+</span>
+          <h4>Imágenes</h4>
+          <MdAddCircle color="#3b5998" size="44" />
       </label>
       <div className="output">
         { error && <div className="error">{ error }</div>}
