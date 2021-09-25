@@ -112,6 +112,8 @@ class ProductoVenta extends Component {
         this.obtenerDientesTemporarios()
         // this.calcularEdad()
     }
+
+ 
     manejarModal=()=>{
         // console.log('PRODUCTOTIPO:',this.state.moviProductoTipo)
         switch(this.state.moviProductoTipo){
@@ -1349,7 +1351,7 @@ manejarHistorial=()=>{
                                 <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}
                                 <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarCampos}>Limpiar Campos</Button>{' '}
                                 <Button variant = "info" size="sm" onClick={() => {this.props.history.goBack()}}>Volver</Button>
-                                {/* <div align = "center">
+                                    {/* <div align = "center">
                                     <ReactHTMLTableToExcel 
                                     id="botonExportarExcel"
                                     className = "btn btn-primary"
