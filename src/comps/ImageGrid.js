@@ -2,10 +2,15 @@ import React from 'react';
 import useFirestore from '../hooks/useFirestore';
 import { motion } from 'framer-motion';
 
-const ImageGrid = ({ setSelectedImg }) => {
-  const { docs } = useFirestore('images');
-
-  return (
+const ImageGrid = ( { setSelectedImg, propsDocs} ) => {
+  // const ImageGrid = (setSelectedImg), (parametroCodigoCliente) => {
+    // const imagenClienteCodigo = propsCodigoCliente
+    //   console.log('CODCLIENTE:',propsCodigoCliente)
+      const { docs } = useFirestore('images');
+      // const docs = propsDocs;
+      // console.log('DOCS',docs)
+      return (
+    // console.log('CODIGO:',parametroCodigoCliente),
     <div className="img-grid">
       {docs && docs.map(doc => (
         <motion.div className="img-wrap" key={doc.id} 

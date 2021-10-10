@@ -1,7 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-const Modal = ({ setSelectedImg, selectedImg }) => {
+const Modal = ({ setSelectedImg, selectedImg}) => {
+  // console.log('CODIGO',parametroCodigoCliente)
 
   const handleClick = (e) => {
     if (e.target.classList.contains('backdrop')) {
@@ -10,6 +11,7 @@ const Modal = ({ setSelectedImg, selectedImg }) => {
   }
 
   return (
+  
     <motion.div className="backdrop" onClick={handleClick}
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}

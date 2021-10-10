@@ -22,6 +22,7 @@ import ClienteAbm from './vistas/clientes/ClienteAbm';
 import ProcedimientosLiberados from './vistas/producto/ProcedimientosLiberados';
 import ProductoConfirmaFecha from './vistas/producto/ProductoConfirmaFecha';
 import ProductoHistorico from './vistas/producto/ProductoHistorico';
+import ProductoVentaCopy from './vistas/producto/ProductoVentaCopy';
 
 
 
@@ -103,7 +104,8 @@ componentDidMount(){
               {this.state.rolesUsuarios.includes('Productos')?<PrivateRoute exact path="/productos" component={ProductoAbm} usuarioLogeado={this.state.usuarioLogeado}/>:null}
               {this.state.rolesUsuarios.includes('Stock')?<PrivateRoute exact path="/productos/stock" component={ProductoConsulta} usuarioLogeado={this.state.usuarioLogeado}/>:null}
               {this.state.rolesUsuarios.includes('Compras')?<PrivateRoute exact path="/productos/compras" component={ProductoCompra} usuarioLogeado={this.state.usuarioLogeado} />:null}
-              {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVenta} usuarioLogeado={this.state.usuarioLogeado} />:null}
+              {/* {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVenta} usuarioLogeado={this.state.usuarioLogeado} />:null} */}
+              {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVentaCopy} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Produccion')?<PrivateRoute exact path="/productos/produccion" component={ProductoProduccion} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Confirmacion')?<PrivateRoute exact path="/productos/confirmacion" component={ProductoConfirmaFecha} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Historico')?<PrivateRoute exact path="/productos/historico" component={ProductoHistorico} usuarioLogeado={this.state.usuarioLogeado} />:null}
@@ -112,8 +114,8 @@ componentDidMount(){
               {this.state.rolesUsuarios.includes('Roles')?<PrivateRoute exact path="/roles" component={Roles} usuarioLogeado={this.state.usuarioLogeado} />:null}
               <PrivateRoute exact path="/usuario/roles/:usuarioId" component={UsuarioRoles} usuarioLogeado={this.state.usuarioLogeado} />
               {this.state.rolesUsuarios.includes('Clientes')?<PrivateRoute exact path="/clientes" component={ClienteAbm} usuarioLogeado={this.state.usuarioLogeado}/>:null}
-              {/* {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/>:null} */}
-              {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={FiregramApp} usuarioLogeado={this.state.usuarioLogeado}/>:null}
+              {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/>:null}
+              {/* {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={FiregramApp} usuarioLogeado={this.state.usuarioLogeado}/>:null} */}
               {/* <PrivateRoute exact path="/uploadfile" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/> */}
               <PublicRoute  exact path="/" component={Login} usuarioLogeado={this.state.usuarioLogeado} logear= {this.logear}/>
               <PublicRoute  exact path="/registro" component={Registro} usuarioLogeado={this.state.usuarioLogeado}/>

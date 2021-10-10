@@ -3,8 +3,8 @@ import { useState, useEffect } from 'react';
 import {db} from '../config/firebase'
 
 const useFirestore = (collection) => {
+  // console.log('CODCLIENTE:',prosImagenClienteCodigo)
   const [docs, setDocs] = useState([]);
-
   useEffect(() => {
     // const unsub = projectFirestore.collection(collection)
     const unsub = db.collection(collection)
@@ -12,6 +12,8 @@ const useFirestore = (collection) => {
       .onSnapshot(snap => {
         let documents = [];
         snap.forEach(doc => {
+          // console.log('COD CLIENTE:',doc.data().imagenClienteCodigo)
+          // if(doc.data().imagenClienteCodigo == prosImagenClienteCodigo){
           documents.push({...doc.data(), id: doc.id});
         });
         setDocs(documents);
@@ -21,7 +23,7 @@ const useFirestore = (collection) => {
     // this is a cleanup function that react will run when
     // a component using the hook unmounts
   }, [collection]);
-
+  // console.log('DOCUMENTOS:',docs)
   return { docs };
 }
 

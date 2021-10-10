@@ -16,7 +16,7 @@ import NumberFormat from 'react-number-format';
 
 class PopupProductos extends Component {
    componentDidMount (){
-       console.log(this.props.listaProductos)
+    //    console.log(this.props.listaProductos)
    }
 
     capturarPrecio=(evento, name)=>{

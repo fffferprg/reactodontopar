@@ -7,7 +7,7 @@ const useStorage = (file) => {
   const [error, setError] = useState(null);
   const [url, setUrl] = useState(null);
 
-  useEffect(() => {
+  useEffect(() => { // cada vez que file cambia en la linea 26 se ejecuta esta funcion 
     // references
     const storageRef = storage.ref(file.name);
     const collectionRef = db.collection('images');
@@ -23,7 +23,7 @@ const useStorage = (file) => {
       await collectionRef.add({ url, createdAt });
       setUrl(url);
     });
-  }, [file]);
+  }, [file]);  // file cambia y useeffect se ejecuta
 
   return { progress, url, error };
 }

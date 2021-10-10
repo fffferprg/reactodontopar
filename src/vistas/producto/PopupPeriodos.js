@@ -16,7 +16,7 @@ import NumberFormat from 'react-number-format';
 
 class PopupPeriodos extends Component {
    componentDidMount (){
-       console.log(this.props.listaPeriodos)
+    //    console.log(this.props.listaPeriodos)
    }
 
                      // RENDERIZADO **************************************************************************
@@ -29,14 +29,14 @@ class PopupPeriodos extends Component {
                         <Modal.Body>
                             <Form>
                                 <Row>
-                                    <Col md={8}>  
+                                    <Col  md={12} sm = {12} xs = {12} >  
                                         <Form.Group>
                                                 <Form.Label>AÑO</Form.Label>
                                                 <Form.Control type="text"  size="sm"  name="filtroPeriodoAnho" value = {this.props.atributos.filtroPeriodoAnho} onChange={this.props.funcionCapturarTecla} />
                                         </Form.Group>
               
                                     </Col>
-                                    <Col md={4}>
+                                    <Col  md={12} sm = {12} xs = {12} >
                                         <Form.Group>
                                                 <Form.Label>MES</Form.Label>
                                                 <Form.Control type="text"  size="sm"  name="filtroPeriodoMes" value = {this.props.atributos.filtroPeriodoMes} onChange={this.props.funcionCapturarTecla}  />

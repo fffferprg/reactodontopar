@@ -13,9 +13,9 @@ export const uploadFile = (pathToUpload, fileToUpload, progressFunction, complet
     uploadTask.on('state_changed', (snap) => {
     //Progress function
         const progress = Math.round((snap.bytesTransferred / snap.totalBytes) * 100);
-        console.log('snap.bytesTransferred: ', snap.bytesTransferred );
-        console.log('snap.totalBytes: ', snap.totalBytes)
-        console.log(`${progress}%`)
+        // console.log('snap.bytesTransferred: ', snap.bytesTransferred );
+        // console.log('snap.totalBytes: ', snap.totalBytes)
+        // console.log(`${progress}%`)
         progressFunction(progress);
         }, (error) => {
         //Error function

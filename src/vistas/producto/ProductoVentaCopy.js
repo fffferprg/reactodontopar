@@ -1,22 +1,25 @@
-import React, { Component } from 'react';
+import React, { Component, useState} from 'react';
 import { Row, Col, Form, Button, Table, OverlayTrigger, Tooltip, InputGroup, FormControl} from 'react-bootstrap';
 import { Link, NavLink, withRouter } from 'react-router-dom';
 import firebase, {db} from '../../config/firebase';
 import moment from 'moment';
-import { MdDeleteForever, MdCreate, MdFindInPage, MdSkipPrevious, MdSkipNext, MdNavigateBefore, MdNavigateNext, MdFindReplace } from "react-icons/md";
+import { MdDeleteForever, MdAddCircle, MdCreate, MdFindInPage, MdSkipPrevious, MdSkipNext, MdNavigateBefore, MdNavigateNext, MdFindReplace } from "react-icons/md";
 import { confirmAlert } from 'react-confirm-alert';
 import { ToastContainer, toast } from 'react-toastify';
 import PopupClientes from '../clientes/PopupClientes';
 import PopupProductos from './PopupProductos';
+import PopupImagenes from './PopupImagenes';
 import PopupZonas from './PopupZonas';
 import PopupDientes from './PopupDientes';
 import PopupPeriodos from './PopupPeriodos';
-import PopupTercerosMolares from '../producto/PopupTercerosMolares';
-import PopupDientesTemporarios from '../producto/PopupDientesTemporarios'
-import Zonas from '../producto/Zonas';
+import PopupTercerosMolares from './PopupTercerosMolares';
+import PopupDientesTemporarios from './PopupDientesTemporarios'
+import Zonas from './Zonas';
 import NumberFormat from 'react-number-format';
 import ReactHTMLTableToExcel from 'react-html-table-to-excel';
 import { LinkContainer } from 'react-router-bootstrap';
+// import FiregramApp from '../../comps/FiregramApp';
+import {uploadFile} from '../../MyLib/uploadFile';
 
 
 class ProductoVenta extends Component {
@@ -64,6 +67,7 @@ class ProductoVenta extends Component {
         moviProductoTotal:0,
         showProductoModal: false,
         showClienteModal: false,
+        showImagenesModal: false,
         showZonaModal: false,
         showDienteModal: false,
         showPeriodoModal: false,
@@ -97,19 +101,26 @@ class ProductoVenta extends Component {
         filtroMoviPeriodoAnho:'',
         filtroMoviPeriodoMes:'',
         listaPeriodos:[],
+        moviFaoTotal:'',
+        //////////////////////
+        image: null,
+        url: 'http://via.placeholder.com/800x600',
+        progress: 0,
+        imagenSubida:'',
+        imagenUrl:'',
         }
 
     
     componentDidMount(){
-        this.obtenerMovimientos()
-        this.obtenerProductos()
+        // this.obtenerMovimientos()
+        // this.obtenerProductos()
         this.obtenerClientes()
-        this.obtenerZonas()
+        // this.obtenerZonas()
         this.obtenerPeriodos()
-        this.obtenerDientes()
-        this.obtenerTercerosMolares()
+        // this.obtenerDientes()
+        // this.obtenerTercerosMolares()
         this.cargarStateSumatoriaFinal()
-        this.obtenerDientesTemporarios()
+        // this.obtenerDientesTemporarios()
         // this.calcularEdad()
     }
 
@@ -493,6 +504,19 @@ closeTercerosModal=()=>{
             // console.log('NACIMIENTO:',this.moviClienteFechaNacimiento)
         }
 
+              ////////////////////////////////////////////// MODAL  IMAGENES  /////////////////////////////////////////
+    openImagenesModal=()=>{
+        this.setState({
+            showImagenesModal: true,
+        })
+        }
+    
+    closeImagenesModal=()=>{
+            this.setState({
+                showImagenesModal: false,
+            }) 
+            // console.log('NACIMIENTO:',this.moviClienteFechaNacimiento)
+        }
     cargarStateSumatoriaFinal=()=>{
         this.setState({sumatoriaFinal:this.sumatoria})
     }
@@ -1004,6 +1028,7 @@ renderListaMovimientos = () => {
         moviProductoTotal:0,
         showProductoModal: false,
         showClienteModal: false,
+        showImagenesModal: false,
         showZonaModal: false,
         showDienteModal: false,
         sumaTotal:0,
@@ -1027,6 +1052,7 @@ renderListaMovimientos = () => {
         // emailUsuario : '',
         menor: false,
         imputDisabled:true,
+        imagenUrl:'',
         })
         this.obtenerMovimientos()
     }
@@ -1062,6 +1088,7 @@ renderListaMovimientos = () => {
             textoG$:'',
             zonasSeleccionadas:[],
             seleccionados : [],
+            imagenUrl:'',
         })
         this.obtenerMovimientos()
     }
@@ -1091,6 +1118,7 @@ renderListaMovimientos = () => {
             moviPeriodoAnho : this.state.periodoAnho,
             moviPeriodoMes : this.state.periodoMes,
             moviFechaFundacion : '',
+            imagenUrl:this.state.url,
         }
         if(this.state.moviClienteEditarId) {
             db.collection('movimientos').doc(`${this.state.moviClienteEditarId}`).update(datosMovimmientos)
@@ -1129,9 +1157,9 @@ renderListaMovimientos = () => {
             if(this.state.moviPeriodo!='' 
             && this.state.moviClienteCodigo!=0 
             && this.state.moviNumeroFao!=0 
-            && this.state.moviProductoCodigo!=0
+            // && this.state.moviProductoCodigo!=0
             // && this.state.seleccionados[0]
-            && this.state.moviProcedimientoDescripcion!=''
+            // && this.state.moviProcedimientoDescripcion!=''
             ){ 
                 console.log('this.state.moviProductoCantidad:',this.state.moviProductoCantidad)
                 console.log('this.state.moviPrecioVenta:',this.state.moviPrecioVenta)
@@ -1240,6 +1268,30 @@ manejarHistorial=()=>{
     //     />
     //     </div>
     // }
+    handleChange = (event) =>{
+        this.setState({url: 'http://via.placeholder.com/800x600'})
+        this.setState({progress: 0})
+        this.setState({imagenSubida: ''})
+        if(event.target.files[0]) {
+            const imagen = event.target.files[0];
+            this.setState({image: imagen});
+            console.log('IMAGE',this.state.image);
+           
+        }
+    }
+    handleUpload = () => {
+        // const  { image } = this.state;
+        const image = this.state.image
+        uploadFile('FAOS', image, this.handleProgress, this.handleComplete);
+    }
+    handleProgress = (progress) => {
+        this.setState({progress: progress});
+    }
+    handleComplete = (url) => {
+        this.setState({url: url});
+        this.setState({imagenSubida: 'Imagen subida'});
+        console.log('URL=',url)
+    }
 
     render() {
         // console.log('VENTAS ZONAS SELECCIONADAS:',this.state.dientesZonas)
@@ -1248,6 +1300,7 @@ manejarHistorial=()=>{
         // console.log('DIFMES:',this.difMes)
         // console.log('DIFDIA:',this.difDia)
         const formatoFinal = new Intl.NumberFormat('de-DE')
+        console.log('CLIENTE:',this.state.moviClienteCodigo)
         return (
             <div>
                  <Form>
@@ -1256,13 +1309,31 @@ manejarHistorial=()=>{
                          <Col md={12} sm = {12} xs = {12} ><h4>PROCEDIMIENTOS APROBADOS</h4></Col>
                    
                     </Row>
-
+                    <br></br>
                     <Row >
                         <Col md={2} sm = {12} xs = {12}>
                             <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Periodo *</Form.Label>
-                                <Form.Control type="text" size="sm"  name="moviPeriodo" value = {this.state.moviPeriodo} onChange={this.capturarTecla} onClick={this.openPeriodoModal} />
+                                {/* <Form.Label style={{fontSize:"14px"}}>Periodo *</Form.Label> */}
+                                <Form.Control type="text" size="sm"  name="moviPeriodo" placeholder="Periodo *" value = {this.state.moviPeriodo} onChange={this.capturarTecla} onClick={this.openPeriodoModal} />
                             </Form.Group>                        
+                        </Col>
+                        <Col md={3} sm = {12} xs = {12}>
+                            <Form.Group>
+                                {/* <Form.Label style={{fontSize:"14px"}}>Expediente *</Form.Label> */}
+                                <Form.Control type="number" size="sm"  name="moviClienteCodigo" placeholder="Expediente *" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
+                            </Form.Group>                        
+                        </Col>
+                        <Col md={3} sm = {12} xs = {12}>{this.state.moviClienteNombre} {this.state.textoFechaNacimiento}{this.state.moviClienteFechaNacimiento}
+                            {/* <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Paciente</Form.Label>
+                                <Form.Control type="text" size="sm"  name="moviClienteNombre" value = {this.state.moviClienteNombre} onChange={this.capturarTecla} disabled />
+                            </Form.Group>                         */}
+                        </Col> 
+                        <Col md={3} sm = {12} xs = {12}>{this.state.textoCarnet}{this.state.moviClienteCarnetEmpleado}{this.state.moviClienteEmpleadoNombre}
+                            {/* <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Fec.Nacimiento</Form.Label>
+                                <Form.Control type="text" size="sm"  name="moviClienteFechaNacimiento" value = {this.state.moviClienteFechaNacimiento} onChange={this.capturarTecla} disabled/>
+                            </Form.Group>                         */}
                         </Col>
 
                         {/* <Col md={2} sm = {12} xs = {12}>
@@ -1271,85 +1342,35 @@ manejarHistorial=()=>{
                                 <Form.Control type="date" size="sm"  name="moviFecha" value = {this.state.moviFecha} onChange={this.capturarTecla} />
                             </Form.Group>                        
                         </Col> */}
-                        <Col md={2} sm = {12} xs = {12}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
-                                <Form.Control type="number" size="sm" name="moviNumeroFao" value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
-                            </Form.Group>
-                        </Col>
-                        <Col md={2} sm = {12} xs = {12}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Expediente *</Form.Label>
-                                <Form.Control type="number" size="sm"  name="moviClienteCodigo" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
-                            </Form.Group>                        
-                        </Col>
+                        
+                       
 
-                        <Col md={3} sm = {12} xs = {12}>{this.state.moviClienteNombre} {this.state.textoFechaNacimiento}{this.state.moviClienteFechaNacimiento}
-                            {/* <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Paciente</Form.Label>
-                                <Form.Control type="text" size="sm"  name="moviClienteNombre" value = {this.state.moviClienteNombre} onChange={this.capturarTecla} disabled />
-                            </Form.Group>                         */}
-                        </Col> 
-                        <Col md={2} sm = {12} xs = {12}>{this.state.textoCarnet}{this.state.moviClienteCarnetEmpleado}{this.state.moviClienteEmpleadoNombre}
-                            {/* <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Fec.Nacimiento</Form.Label>
-                                <Form.Control type="text" size="sm"  name="moviClienteFechaNacimiento" value = {this.state.moviClienteFechaNacimiento} onChange={this.capturarTecla} disabled/>
-                            </Form.Group>                         */}
-                        </Col>
-                        {/* <Col md={1} sm = {12} xs = {12}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Carnet</Form.Label>
-                                <Form.Control type="number" size="sm"  name="moviClienteCarnetEmpleado" value = {this.state.moviClienteCarnetEmpleado} onChange={this.capturarTecla} disabled/>
-                            </Form.Group>                        
-                        </Col> */}
                         {/* <Col md={2} sm = {12} xs = {12}>
                             <Form.Group>
                                 <Form.Label style={{fontSize:"14px"}}>Empleado</Form.Label>
                                 <Form.Control type="text" size="sm"  name="moviClienteEmpleadoNombre" value = {this.state.moviClienteEmpleadoNombre} onChange={this.capturarTecla} disabled/>
                             </Form.Group>                        
                         </Col>  */}
-                    </Row>    
+                    </Row>  
                     <Row>
                         <Col md={2} sm = {12} xs = {12}>
                             <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Cod.Procedimiento *</Form.Label>
-                                <Form.Control type="number" size="sm"  name="moviProductoCodigo" value = {this.state.moviProductoCodigo} onChange={this.capturarTecla}  onClick={this.openProductoModal} />
+                                {/* <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label> */}
+                                <Form.Control type="number" size="sm" name="moviNumeroFao" placeholder="Nro.FAO. *"  value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
+                            </Form.Group>
+                        </Col>
+                        <Col md={4} sm = {12} xs = {12}>
+                            <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>TOTAL FAO</Form.Label>{'    '}
+                                <NumberFormat  name="moviFaoTotal" value = {this.state.moviFaoTotal} onChange={this.capturarTecla} thousandSeparator ={true}/>
                             </Form.Group>                        
                         </Col>
-                        {/* <Col md={1} sm = {12} xs = {12}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Cant. *</Form.Label>
-                                <Form.Control type="number" size="sm" name="moviProductoCantidad" value={this.state.moviProductoCantidad} onChange={this.capturarTecla} onClick={this.openZonaModal} />
-                            </Form.Group>
-                        </Col> */}
-                        <Col md={4}>
-                            <Form.Group>
-                                    <Form.Label style={{fontSize:"14px"}}>Dientes/Zonas *</Form.Label>
-                                    <Form.Control type="text"  size="sm" name="moviProcedimientoDescripcion" value = {this.state.moviProcedimientoDescripcion} onChange={this.manejarModal} onClick={this.manejarModal} disabled ={this.state.imputDisabled}/>
-                            </Form.Group>
-                        </Col>
 
-                        <Col md={3} sm = {12} xs = {12}>{this.state.moviProductoNombre}
-                            {/* <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Procedimiento</Form.Label>
-                                <Form.Control type="text" size="sm"  name="moviProductoNombre" value = {this.state.moviProductoNombre} onChange={this.capturarTecla} disabled/>
-                            </Form.Group>                         */}
-                        </Col> 
-                        <Col md={2} sm = {12} xs = {12}>{this.state.textoG$}{formatoFinal.format(this.state.moviPrecioVenta)}
-                        {/* <Col md={2} sm = {12} xs = {12}>{this.state.moviPrecioVenta} */}
-                            {/* <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Arancel</Form.Label>
-                                <Form.Control type="number" size="sm"  name="moviPrecioVenta" value = {formatoFinal.format(this.state.moviPrecioVenta)} onChange={this.capturarPrecio} disabled />
-                            </Form.Group>                         */}
-                        </Col>
-                    </Row>
+                    </Row>      
                     <Row>
-
                        
                         <Col md={4} sm = {12} xs = {12}>
-                                <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}
-                                <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarCampos}>Limpiar Campos</Button>{' '}
-                                <Button variant = "info" size="sm" onClick={() => {this.props.history.goBack()}}>Volver</Button>
+                                {/* <Button variant = "info" size="sm" onClick={this.openImagenesModal}>Cargar Imágenes</Button> */}
                                     {/* <div align = "center">
                                     <ReactHTMLTableToExcel 
                                     id="botonExportarExcel"
@@ -1381,6 +1402,17 @@ manejarHistorial=()=>{
                                     funcionRenderListaClientes={this.renderListaClientes}
                                     funcionLimpiarCampos={this.limpiarCampos}
                                     atributos = {this.state}/>
+                                <PopupImagenes
+                                    propsShowImagenesModal={this.state.showImagenesModal} 
+                                    funcionCloseImagenesModal={this.closeImagenesModal} 
+                                    // funcionCapturarTecla={this.capturarTecla} 
+                                    // funcionGuardar={this.guardar}
+                                    // funcionCapturarPrecio={this.capturarPrecio}
+                                    // listaProductos={this.state.listaProductos}
+                                    // funcionRenderListaClientes={this.renderListaClientes}
+                                    // funcionLimpiarCampos={this.limpiarCampos}
+                                    atributos = {this.state}/>
+
                                 <PopupZonas
                                     propsShowZonaModal={this.state.showZonaModal} 
                                     // propsZonasSeleccionadas ={this.state.zonasSeleccionadas} 
@@ -1427,53 +1459,43 @@ manejarHistorial=()=>{
                                     funcionCapturarTecla={this.capturarTecla}
                                     funcionRenderDientesTemporarios = {this.renderDientesTemporarios} 
                                     atributos = {this.state}/>
-
+                                
                         </Col>
                     </Row>
-
                     <Row>
-                        <Col>
-                                <Table id = "tablaVentas" striped bordered hover size="sm"  >
-                                            <thead>
-                                                <tr >
-                                                <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" textAlign="center" placeholder="Año" name="filtroMoviPeriodoAnho" value = {this.state.filtroMoviPeriodoAnho} onChange={this.capturarTecla} />:null}</th>
-                                                <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" textAlign="center" placeholder="Mes" name="filtroMoviPeriodoMes" value = {this.state.filtroMoviPeriodoMes} onChange={this.capturarTecla} />:null}</th>
-                                                    <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" textAlign="center" placeholder="Nro.Fao" name="filtroMoviNumeroFao" value = {this.state.filtroMoviNumeroFao} onChange={this.capturarTecla} />:null}</th>
-                                                    <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" textAlign="center" placeholder="Codigo" name="filtroMoviProductoCodigo" value = {this.state.filtroMoviProductoCodigo} onChange={this.capturarTecla} />:null}</th>
-                                                    <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="Procedimiento" name="filtroMoviProductoNombre" value = {this.state.filtroMoviProductoNombre} onChange={this.capturarTecla} />:null}</th>
-                                                    <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="Paciente" name="filtroMoviClienteNombre" value = {this.state.filtroMoviClienteNombre} onChange={this.capturarTecla} />:null}</th>
-                                                    {/* <th>Cant.</th> */}
-                                                    <th>Descripcion</th>
-                                                    <th>Arancel</th>
-                                                    {/* <th style={{textAlign:"center"}}>Total</th> */}
-                                                    <th style={{textAlign:"center"}}>Garantia</th>
-                                                    <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="Status" name="filtroMoviStatus" value = {this.state.filtroMoviStatus} onChange={this.capturarTecla} />:null}</th>
-                                                    {/* <th style={{textAlign:"center"}}>Status</th> */}
-                                                    <th style={{textAlign:"center"}}>Borrar</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                {this.renderListaMovimientos()}
-                                                <tr>
-                                                    {/* <td></td> */}
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td style={{textAlign:"right"}}>TOTALES</td>
-                                                    <td style={{textAlign:"right"}}>Bruto:</td>
-                                                    <td>{formatoFinal.format(this.state.sumatoriaBrutoFinal)}</td>
-                                                    {/* <td>{this.sumatoria}</td> */}
-                                                    <td style={{textAlign:"right", fontWeight: "bold"}}>Neto:</td>
-                                                    <td style={{fontWeight: "bold"}}>{formatoFinal.format(this.state.sumatoriaNetoFinal)}</td>
-                                                    <td></td>
+                        <Col md={12} sm = {12} xs = {12}>
 
-                                                </tr>       
-                                            </tbody>
-                                </Table>
+                            <label>
+                                <input type="file" onChange={this.handleChange} />
+                                <h4>Seleccionar imagen de FAO</h4>
+                                {/* <MdAddCircle color="#3b5998" size="44" /> */}
+                            </label>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col md={12} sm = {12} xs = {12}>
+                            <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Vista previa Imagen</Button>{' '}<br/>
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col md={12} sm = {12} xs = {12}>
+                            <progress value={this.state.progress} max="100" />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col md={12} sm = {12} xs = {12}>
+                            <img src={this.state.url} alt="Uploaded images" class="img-fluid" />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col md={12} sm = {12} xs = {12}>
+                            <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}
+                            <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarCampos}>Limpiar Campos</Button>{' '}
+
+                        </Col>
+                    </Row>
+
+                    
                     <ToastContainer />            
                 </Form>
             </div>
