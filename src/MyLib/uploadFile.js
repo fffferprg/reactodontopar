@@ -17,10 +17,12 @@ export const uploadFile = (pathToUpload, fileToUpload, progressFunction, complet
         // console.log('snap.totalBytes: ', snap.totalBytes)
         // console.log(`${progress}%`)
         progressFunction(progress);
-        }, (error) => {
+        }, 
+        (error) => {
         //Error function
         console.log('Error: ', error);
-        }, () => {
+        }, 
+        () => {
         //Complete function
         storage.ref(`${pathToUpload}`).child(`${fileToUpload.name}`).getDownloadURL()
         .then((url) => {

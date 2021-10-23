@@ -1,14 +1,16 @@
 import React from 'react';
+import {db} from '../config/firebase';
 import useFirestore from '../hooks/useFirestore';
 import { motion } from 'framer-motion';
 
-const ImageGrid = ( { setSelectedImg, propsDocs} ) => {
-  // const ImageGrid = (setSelectedImg), (parametroCodigoCliente) => {
+const ImageGrid = (propsDocs) => {
+  // const ImageGrid = ( { setSelectedImg, propsDocs} ) => {
+    // const ImageGrid = (setSelectedImg), (parametroCodigoCliente) => {
     // const imagenClienteCodigo = propsCodigoCliente
     //   console.log('CODCLIENTE:',propsCodigoCliente)
-      const { docs } = useFirestore('images');
-      // const docs = propsDocs;
-      // console.log('DOCS',docs)
+      const { docs } = useFirestore('images')
+      // const docs = propsDocs
+      console.log('DOCS',docs)
       return (
     // console.log('CODIGO:',parametroCodigoCliente),
     <div className="img-grid">
@@ -16,7 +18,7 @@ const ImageGrid = ( { setSelectedImg, propsDocs} ) => {
         <motion.div className="img-wrap" key={doc.id} 
           layout
           whileHover={{ opacity: 1 }}s
-          onClick={() => setSelectedImg(doc.url)}
+          // onClick={() => setSelectedImg(doc.url)}
         >
           <motion.img src={doc.url} alt="uploaded pic" class="img-fluid"
             initial={{ opacity: 0 }}

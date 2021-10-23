@@ -18,11 +18,18 @@ import Zonas from './Zonas';
 import NumberFormat from 'react-number-format';
 import ReactHTMLTableToExcel from 'react-html-table-to-excel';
 import { LinkContainer } from 'react-router-bootstrap';
-// import FiregramApp from '../../comps/FiregramApp';
+import FiregramApp from '../../comps/FiregramApp';
 import {uploadFile} from '../../MyLib/uploadFile';
+import ImageGrid from '../../comps/ImageGrid'
+import UploadForm from '../../comps/UploadForm'
+import Modal from '../../comps/Modal';
+import { motion } from 'framer-motion';
+
 
 
 class ProductoVenta extends Component {
+    // const [selectedImg, setSelectedImg] = useState(null);
+
     state={
         // fechaNumero:'',
         clienteNombre:'',
@@ -108,6 +115,8 @@ class ProductoVenta extends Component {
         progress: 0,
         imagenSubida:'',
         imagenUrl:'',
+        // selectedImg:null,
+        listaImagenes:null,
         }
 
     
@@ -122,7 +131,9 @@ class ProductoVenta extends Component {
         this.cargarStateSumatoriaFinal()
         // this.obtenerDientesTemporarios()
         // this.calcularEdad()
+        this.obtenerImagenes()
     }
+    
 
  
     manejarModal=()=>{
@@ -138,6 +149,24 @@ class ProductoVenta extends Component {
             break;
             default:
         }
+    }
+    obtenerImagenes=()=>{   // es para crear los checkbox
+        let listaImagenesTemporal = []
+       db.collection('images').orderBy('createdAt', 'desc').get()
+       .then ((snap)=>{
+        snap.forEach(documento =>{
+            if(documento.data().codigoCliente=='12345'){
+            listaImagenesTemporal.push({
+                id : documento.id,
+                ...documento.data()
+            })
+        }
+        })
+        this.setState({
+            listaImagenes : listaImagenesTemporal,
+        })
+        console.log('LISTAIMAGENES:',this.state.listaImagenes)
+       })  
     }
  /////// MODAL DIENTES TEMPORARIOS //////////////////////////////////////////////////////////////////
  obtenerDientesTemporarios=()=>{   // es para crear los checkbox
@@ -1288,9 +1317,11 @@ manejarHistorial=()=>{
         this.setState({progress: progress});
     }
     handleComplete = (url) => {
+        if(url){
         this.setState({url: url});
         this.setState({imagenSubida: 'Imagen subida'});
         console.log('URL=',url)
+        }
     }
 
     render() {
@@ -1300,7 +1331,8 @@ manejarHistorial=()=>{
         // console.log('DIFMES:',this.difMes)
         // console.log('DIFDIA:',this.difDia)
         const formatoFinal = new Intl.NumberFormat('de-DE')
-        console.log('CLIENTE:',this.state.moviClienteCodigo)
+        const docs = this.state.listaImagenes
+        // console.log('CLIENTE:',this.state.moviClienteCodigo)
         return (
             <div>
                  <Form>
@@ -1464,41 +1496,39 @@ manejarHistorial=()=>{
                     </Row>
                     <Row>
                         <Col md={12} sm = {12} xs = {12}>
-
-                            <label>
-                                <input type="file" onChange={this.handleChange} />
-                                <h4>Seleccionar imagen de FAO</h4>
-                                {/* <MdAddCircle color="#3b5998" size="44" /> */}
-                            </label>
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col md={12} sm = {12} xs = {12}>
-                            <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={this.handleUpload}>Vista previa Imagen</Button>{' '}<br/>
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col md={12} sm = {12} xs = {12}>
-                            <progress value={this.state.progress} max="100" />
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col md={12} sm = {12} xs = {12}>
-                            <img src={this.state.url} alt="Uploaded images" class="img-fluid" />
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col md={12} sm = {12} xs = {12}>
                             <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}
                             <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarCampos}>Limpiar Campos</Button>{' '}
+                            {/* <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarImagenes}>Limpiar Imagenes</Button>{' '} */}
 
                         </Col>
                     </Row>
+      <UploadForm/>
+      <div className="img-grid">
+        {docs && docs.map(doc => (
+            <motion.div className="img-wrap" key={doc.id} 
+            layout
+            whileHover={{ opacity: 1 }}s
+            // onClick={() => setSelectedImg(doc.url)}
+            >
+            <motion.img src={doc.url} alt="uploaded pic" class="img-fluid"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ delay: 1 }}
+            />
+            </motion.div>
+        ))}
+        </div>
 
-                    
+      {/* <ImageGrid 
+      propsListaImagenes={this.state.listaImagenes} /> */}
+      {/* <Modal/> */}
+      {/* { selectedImg && (<Modal selectedImg={selectedImg} setSelectedImg={setSelectedImg} /> )} */}
+
+                    {/* <FiregramApp/> */}
                     <ToastContainer />            
                 </Form>
             </div>
+            
         )
     }
 }
