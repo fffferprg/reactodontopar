@@ -58,7 +58,7 @@ class ProductoVenta extends Component {
         clienteEmail:'',
         moviClienteFechaNacimiento:'', 
         moviFecha:'13-04-2021',
-        moviClienteCodigo:'',
+        moviClienteCodigo:'12345',
         moviClienteNombre:'',
         moviClienteCarnetEmpleado:'',
         moviClienteEmpleadoNombre:'',
@@ -150,13 +150,14 @@ class ProductoVenta extends Component {
             default:
         }
     }
-    obtenerImagenes=()=>{   // es para crear los checkbox
+    obtenerImagenes=()=>{   
         let listaImagenesTemporal = []
        db.collection('images').orderBy('createdAt', 'desc').get()
        .then ((snap)=>{
         snap.forEach(documento =>{
-            if(documento.data().codigoCliente=='12345'){
-            listaImagenesTemporal.push({
+            if(documento.data().codigoCliente==this.state.moviClienteCodigo){
+            // if(documento.data().codigoCliente=='12345'){
+                    listaImagenesTemporal.push({
                 id : documento.id,
                 ...documento.data()
             })
@@ -524,6 +525,7 @@ closeTercerosModal=()=>{
             filtroClienteNombre:'',
             filtroClienteCodigo:'',
         })
+
         }
     
     closeClienteModal=()=>{
@@ -826,6 +828,7 @@ renderListaClientes = () => {
         )
        
     })
+
 }
 
 calcularEdad=()=>{

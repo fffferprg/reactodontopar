@@ -981,6 +981,7 @@ renderListaMovimientos = () => {
         filtroMoviStatus:'',
         filtroMoviPeriodoAnho:'',
         filtroMoviPeriodoMes:'',
+        moviPeriodo:'',
         // listaMovimientos: [],
         // listaProductos: [],
         // listaClientes: [],
@@ -1203,7 +1204,7 @@ manejarHistorial=()=>{
                     db.collection('movimientos').doc(`${movimiento.id}`).update({moviStatus:'historico'})
                 .then(()=>{
                     // se ejecuta cuando se inserto con exito
-                    alert('HISTORICO PROCESADO')
+                    // alert('HISTORICO PROCESADO')
                 })
                 .catch((error)=>{
                     // se ejecuta cuando sucede un error 
@@ -1258,12 +1259,6 @@ manejarHistorial=()=>{
                     </Row>
 
                     <Row >
-                        <Col md={2} sm = {12} xs = {12}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Periodo *</Form.Label>
-                                <Form.Control type="text" size="sm"  name="moviPeriodo" value = {this.state.moviPeriodo} onChange={this.capturarTecla} onClick={this.openPeriodoModal} />
-                            </Form.Group>                        
-                        </Col>
 
                         {/* <Col md={2} sm = {12} xs = {12}>
                             <Form.Group>
@@ -1273,15 +1268,22 @@ manejarHistorial=()=>{
                         </Col> */}
                         <Col md={2} sm = {12} xs = {12}>
                             <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
-                                <Form.Control type="number" size="sm" name="moviNumeroFao" value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
-                            </Form.Group>
-                        </Col>
-                        <Col md={2} sm = {12} xs = {12}>
-                            <Form.Group>
                                 <Form.Label style={{fontSize:"14px"}}>Expediente *</Form.Label>
                                 <Form.Control type="number" size="sm"  name="moviClienteCodigo" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
                             </Form.Group>                        
+                        </Col>
+                        <Col md={2} sm = {12} xs = {12}>
+                            <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Periodo *</Form.Label>
+                                <Form.Control type="text" size="sm"  name="moviPeriodo" value = {this.state.moviPeriodo} onChange={this.capturarTecla} onClick={this.openPeriodoModal} />
+                            </Form.Group>                        
+                        </Col>
+
+                        <Col md={2} sm = {12} xs = {12}>
+                            <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
+                                <Form.Control type="number" size="sm" name="moviNumeroFao" value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
+                            </Form.Group>
                         </Col>
 
                         <Col md={3} sm = {12} xs = {12}>{this.state.moviClienteNombre} {this.state.textoFechaNacimiento}{this.state.moviClienteFechaNacimiento}
@@ -1346,10 +1348,11 @@ manejarHistorial=()=>{
                     <Row>
 
                        
-                        <Col md={4} sm = {12} xs = {12}>
-                                <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}
+                        <Col md={12} sm = {12} xs = {12}>
+                                <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}{' '}{' '}
+                                <Button variant = "info" size="sm"  onClick={this.limpiarCampos}>Cambiar Paciente</Button>{' '}
+                                {/* <Button variant = "info" size="sm" onClick={() => {this.props.history.goBack()}}>Volver</Button>{' '} */}
                                 <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarCampos}>Limpiar Campos</Button>{' '}
-                                <Button variant = "info" size="sm" onClick={() => {this.props.history.goBack()}}>Volver</Button>
                                     {/* <div align = "center">
                                     <ReactHTMLTableToExcel 
                                     id="botonExportarExcel"

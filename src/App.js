@@ -104,8 +104,8 @@ componentDidMount(){
               {this.state.rolesUsuarios.includes('Productos')?<PrivateRoute exact path="/productos" component={ProductoAbm} usuarioLogeado={this.state.usuarioLogeado}/>:null}
               {this.state.rolesUsuarios.includes('Stock')?<PrivateRoute exact path="/productos/stock" component={ProductoConsulta} usuarioLogeado={this.state.usuarioLogeado}/>:null}
               {this.state.rolesUsuarios.includes('Compras')?<PrivateRoute exact path="/productos/compras" component={ProductoCompra} usuarioLogeado={this.state.usuarioLogeado} />:null}
-              {/* {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVenta} usuarioLogeado={this.state.usuarioLogeado} />:null} */}
-              {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVentaCopy} usuarioLogeado={this.state.usuarioLogeado} />:null}
+              {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVenta} usuarioLogeado={this.state.usuarioLogeado} />:null}
+              {/* {this.state.rolesUsuarios.includes('Ventas')?<PrivateRoute exact path="/productos/ventas" component={ProductoVentaCopy} usuarioLogeado={this.state.usuarioLogeado} />:null} */}
               {this.state.rolesUsuarios.includes('Produccion')?<PrivateRoute exact path="/productos/produccion" component={ProductoProduccion} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Confirmacion')?<PrivateRoute exact path="/productos/confirmacion" component={ProductoConfirmaFecha} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Historico')?<PrivateRoute exact path="/productos/historico" component={ProductoHistorico} usuarioLogeado={this.state.usuarioLogeado} />:null}
