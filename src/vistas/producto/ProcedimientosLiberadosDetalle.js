@@ -36,6 +36,7 @@ class ProcedimientosLiberados extends Component {
         let listaTemporal = []
         let listaTemporal2 = []
         let faoActual=''
+        
         db.collection('movimientos').orderBy('moviNumeroFao')
         .onSnapshot((snap)=>{
             listaTemporal = []
@@ -45,6 +46,18 @@ class ProcedimientosLiberados extends Component {
                 let diferenciaDias = Math.round(milisegundosTranscurridos/milisegundosDia)-1
                 let garantia = documento.data().moviProductoGarantia
                 let mayor = diferenciaDias>Math.abs(garantia)? true : false;
+                let fechaFundacionMilisegundos=Math.abs(new Date(documento.data().moviFechaFundacion).getTime())/1000
+                let garantiaMilisegundos = garantia*86400+86400+86400
+                let fechaLiberacionEfectivaMilisegundos = fechaFundacionMilisegundos+garantiaMilisegundos
+                let fechaLiberacionEfectiva= new Date(fechaLiberacionEfectivaMilisegundos*1000)
+                fechaLiberacionEfectiva= fechaLiberacionEfectiva.getFullYear()+'-'+(fechaLiberacionEfectiva.getMonth()+1)+'-'+fechaLiberacionEfectiva.getDate()
+                console.log ('Cliente:',documento.data().moviClienteNombre)
+                console.log('garantia:',garantia)
+                console.log('garantiaMilisegundos:',garantiaMilisegundos)
+                console.log('moviFechaFundacion:',documento.data().moviFechaFundacion)
+                console.log('fechaFundacionMilisegundos:',fechaFundacionMilisegundos)
+                console.log('fechaLiberacionEfectivaMilisegundos:',fechaLiberacionEfectivaMilisegundos)
+                console.log('fechaLiberacionEfectiva:',fechaLiberacionEfectiva)
                 if(mayor==true 
                     && documento.data().moviStatus!='historico'
                     && documento.data().moviProductoCodigo!='70010001'
@@ -60,7 +73,8 @@ class ProcedimientosLiberados extends Component {
                         moviProductoCodigo : documento.data().moviProductoCodigo,
                         moviProductoNombre : documento.data().moviProductoNombre,
                         moviProcedimientoDescripcion : documento.data().moviProcedimientoDescripcion,
-                        moviFechaFundacion : documento.data().moviFechaFundacion,
+                        // moviFechaFundacion : documento.data().moviFechaFundacion,
+                        moviFechaFundacion : fechaLiberacionEfectiva,
                         moviProductoGarantia : documento.data().moviProductoGarantia,
                     }
                     listaTemporal.push(movimientos) 
@@ -139,7 +153,7 @@ renderListaMovimientos = () => {
                     <td style={{fontSize:"12px"}}>{documento.moviProductoCodigo}</td>
                     <td style={{fontSize:"12px"}}>{documento.moviProductoNombre}</td>
                     <td style={{fontSize:"12px"}}>{documento.moviProcedimientoDescripcion}</td>
-                    <td style={{fontSize:"12px"}}>{documento.moviProductoGarantia}</td>
+                    {/* <td style={{fontSize:"12px"}}>{documento.moviProductoGarantia}</td> */}
                     <td style={{fontSize:"12px", textAlign:"center"}}>{documento.moviFechaFundacion}</td>
                     <td style={{fontSize:"12px", textAlign:"right"}}>{formatoTabla.format(documento.moviProductoTotal)}</td>
                     {/* <td style={{fontSize:"12px", textAlign:"right"}}>{formatoTabla.format(documento.moviSumaTotal)}</td> */}
@@ -265,7 +279,7 @@ render () {
                                         <th style={{textAlign:"center"}}>Codigo</th>
                                         <th style={{textAlign:"center"}}>Procedimiento</th>
                                         <th style={{textAlign:"center"}}>Descripcion</th>
-                                        <th style={{textAlign:"center"}}>Garantia</th>
+                                        {/* <th style={{textAlign:"center"}}>Garantia</th> */}
                                         <th style={{textAlign:"center"}}>Fecha</th>
                                         <th style={{textAlign:"right"}}>Valor</th>
                                         <th style={{textAlign:"center"}}>Ver</th>
