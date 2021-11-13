@@ -20,6 +20,7 @@ import UploadFile from './vistas/producto/UploadFile';
 import FiregramApp from './comps/FiregramApp'
 import ClienteAbm from './vistas/clientes/ClienteAbm';
 import ProcedimientosLiberados from './vistas/producto/ProcedimientosLiberados';
+import ProcedimientosLiberadosDetalle from './vistas/producto/ProcedimientosLiberadosDetalle';
 import ProductoConfirmaFecha from './vistas/producto/ProductoConfirmaFecha';
 import ProductoHistorico from './vistas/producto/ProductoHistorico';
 import ProductoVentaCopy from './vistas/producto/ProductoVentaCopy';
@@ -109,7 +110,7 @@ componentDidMount(){
               {this.state.rolesUsuarios.includes('Produccion')?<PrivateRoute exact path="/productos/produccion" component={ProductoProduccion} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Confirmacion')?<PrivateRoute exact path="/productos/confirmacion" component={ProductoConfirmaFecha} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Historico')?<PrivateRoute exact path="/productos/historico" component={ProductoHistorico} usuarioLogeado={this.state.usuarioLogeado} />:null}
-              {this.state.rolesUsuarios.includes('Movimientos')?<PrivateRoute exact path="/productos/movimientos" component={ProcedimientosLiberados} usuarioLogeado={this.state.usuarioLogeado} />:null}
+              {this.state.rolesUsuarios.includes('Movimientos')?<PrivateRoute exact path="/productos/movimientos" component={ProcedimientosLiberadosDetalle} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Usuarios')?<PrivateRoute exact path="/usuarios" component={UsuarioList} usuarioLogeado={this.state.usuarioLogeado} />:null}
               {this.state.rolesUsuarios.includes('Roles')?<PrivateRoute exact path="/roles" component={Roles} usuarioLogeado={this.state.usuarioLogeado} />:null}
               <PrivateRoute exact path="/usuario/roles/:usuarioId" component={UsuarioRoles} usuarioLogeado={this.state.usuarioLogeado} />
