@@ -14,7 +14,10 @@ import { ThemeConsumer } from 'react-bootstrap/esm/ThemeProvider';
 class ProcedimientosLiberados extends Component {
     state={
         moviFechaProyectada :'',
+        filtroMoviNumeroFao : '',
         filtroMoviClienteNombre : '',
+        filtroMoviProductoCodigo : '',
+        filtroMoviProductoNombre : '',
         mostrarFiltro : true,
         listaMovimientosModal: [],
         sumaTotal : 0,
@@ -129,7 +132,9 @@ renderListaMovimientos = () => {
     .filter((documento)=>{
         return (
         documento.moviClienteNombre.toLowerCase().indexOf(this.state.filtroMoviClienteNombre.toLowerCase())>=0)
-        // && (documento.moviNumeroFao.toString().indexOf(this.state.filtroMoviNumeroFao)>=0)
+        && (documento.moviProductoCodigo.toString().indexOf(this.state.filtroMoviProductoCodigo)>=0)
+        && (documento.moviNumeroFao.toString().indexOf(this.state.filtroMoviNumeroFao)>=0)
+        && (documento.moviProductoNombre.toString().indexOf(this.state.filtroMoviProductoNombre.toLowerCase())>=0)
         // && (documento.moviPeriodoAnho.toString().indexOf(this.state.filtroMoviPeriodoAnho)>=0)
         // && (documento.moviPeriodoMes.toString().indexOf(this.state.filtroMoviPeriodoMes)>=0)
     })
@@ -274,28 +279,25 @@ render () {
                         <Table id = "tablaLiberados" striped bordered hover size="sm"  >
                                 <thead>
                                     <tr >                                    
-                                        <th style={{textAlign:"left"}}>FAO</th>
+                                        <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="FAO" name="filtroMoviNumeroFao" value = {this.state.filtroMoviNumeroFao} onChange={this.capturarTecla} />:null}</th>
                                         <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="Paciente" name="filtroMoviClienteNombre" value = {this.state.filtroMoviClienteNombre} onChange={this.capturarTecla} />:null}</th>
-                                        <th style={{textAlign:"center"}}>Codigo</th>
-                                        <th style={{textAlign:"center"}}>Procedimiento</th>
+                                        <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="Codigo" name="filtroMoviProductoCodigo" value = {this.state.filtroMoviProductoCodigo} onChange={this.capturarTecla} />:null}</th>
+                                        <th>{this.state.mostrarFiltro==true?<Form.Control size="sm" type="text" placeholder="Procedimiento" name="filtroMoviProductoNombre" value = {this.state.filtroMoviProductoNombre} onChange={this.capturarTecla} />:null}</th>
                                         <th style={{textAlign:"center"}}>Descripcion</th>
-                                        {/* <th style={{textAlign:"center"}}>Garantia</th> */}
                                         <th style={{textAlign:"center"}}>Fecha</th>
                                         <th style={{textAlign:"right"}}>Valor</th>
                                         <th style={{textAlign:"center"}}>Ver</th>
                                     </tr>
                                 </thead>
-                                                <tbody>
-                                                    {this.renderListaMovimientos()}
-                                                    <tr>
-                                                        <td></td>
-                                                        <td></td>
-                                                        <td style={{textAlign:"right"}}>TOTAL:{this.state.total} {formatoFinal.format(this.state.sumatoriaBrutoFinal)}</td>
-                                                        <td style={{fontWeight: "bold",textAlign:"center"}}>NETO:{this.state.neto}{formatoFinal.format(this.state.sumatoriaNetoFinal)}</td>
-                                                        {/* <td style={{textAlign:"right", fontWeight: "bold"}}>Neto:</td> */}
-
-                                                    </tr>       
-                                                </tbody>
+                                        <tbody>
+                                            {this.renderListaMovimientos()}
+                                            {/* <tr>
+                                                <td></td>
+                                                <td></td>
+                                                <td style={{textAlign:"right"}}>TOTAL:{this.state.total} {formatoFinal.format(this.state.sumatoriaBrutoFinal)}</td>
+                                                <td style={{fontWeight: "bold",textAlign:"center"}}>NETO:{this.state.neto}{formatoFinal.format(this.state.sumatoriaNetoFinal)}</td>
+                                            </tr>        */}
+                                        </tbody>
                                     </Table>
                     </Col>
                 </Row>
