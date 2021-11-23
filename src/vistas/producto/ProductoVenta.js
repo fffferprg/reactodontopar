@@ -17,6 +17,7 @@ import Zonas from '../producto/Zonas';
 import NumberFormat from 'react-number-format';
 import ReactHTMLTableToExcel from 'react-html-table-to-excel';
 import { LinkContainer } from 'react-router-bootstrap';
+import FiregramApp from '../../comps/FiregramApp';
 
 
 class ProductoVenta extends Component {
@@ -675,6 +676,7 @@ obtenerProductos =()=>{
     })
 }
 
+
 renderListaProductos = () => {
     return this.state.listaProductos
     .filter((documento)=>{
@@ -710,6 +712,26 @@ renderListaProductos = () => {
                     </a></td>
             </tr>
         )
+    })
+}
+
+///////////////////////// OBTENER IMAGENES TEMPORALES ///////////////////////////
+obtenerImagenesTemporales =()=>{
+    let listaProductosTemporal = []
+    db.collection('productos').get()
+    .then((productos)=>{productos.forEach((producto)=>{listaProductosTemporal.push({
+                id : producto.id,
+                ...producto.data()      
+                // producto : producto.producto  // ES LO MISMO QUE LA LINEA ANTERIOR
+            })
+        })
+        this.setState({
+            listaProductos : listaProductosTemporal
+        })
+        // console.log('LISTAPRODUCTOTEMPORAL:',this.state.listaProductos)
+    })
+    .catch((error)=>{
+        alert(error)
     })
 }
 
@@ -1433,7 +1455,11 @@ manejarHistorial=()=>{
 
                         </Col>
                     </Row>
-
+                    <Row>
+                        <Col>
+                             <FiregramApp/>
+                        </Col>
+                    </Row>
                     <Row>
                         <Col>
                                 <Table id = "tablaVentas" striped bordered hover size="sm"  >

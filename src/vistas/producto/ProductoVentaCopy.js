@@ -58,7 +58,7 @@ class ProductoVenta extends Component {
         clienteEmail:'',
         moviClienteFechaNacimiento:'', 
         moviFecha:'13-04-2021',
-        moviClienteCodigo:'12345',
+        moviClienteCodigo:'',
         moviClienteNombre:'',
         moviClienteCarnetEmpleado:'',
         moviClienteEmpleadoNombre:'',
@@ -155,13 +155,13 @@ class ProductoVenta extends Component {
        db.collection('images').orderBy('createdAt', 'desc').get()
        .then ((snap)=>{
         snap.forEach(documento =>{
-            if(documento.data().codigoCliente==this.state.moviClienteCodigo){
+            // if(documento.data().codigoCliente==this.state.moviClienteCodigo){
             // if(documento.data().codigoCliente=='12345'){
                     listaImagenesTemporal.push({
                 id : documento.id,
                 ...documento.data()
             })
-        }
+        // }
         })
         this.setState({
             listaImagenes : listaImagenesTemporal,
@@ -1505,7 +1505,7 @@ manejarHistorial=()=>{
 
                         </Col>
                     </Row>
-      <UploadForm/>
+      {/* <UploadForm/> */}
       <div className="img-grid">
         {docs && docs.map(doc => (
             <motion.div className="img-wrap" key={doc.id} 
@@ -1527,7 +1527,7 @@ manejarHistorial=()=>{
       {/* <Modal/> */}
       {/* { selectedImg && (<Modal selectedImg={selectedImg} setSelectedImg={setSelectedImg} /> )} */}
 
-                    {/* <FiregramApp/> */}
+                    <FiregramApp/>
                     <ToastContainer />            
                 </Form>
             </div>

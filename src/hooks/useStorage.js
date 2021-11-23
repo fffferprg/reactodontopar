@@ -10,7 +10,7 @@ const useStorage = (file) => {
   useEffect(() => { // cada vez que file cambia en la linea 26 se ejecuta esta funcion 
     // references
     const storageRef = storage.ref(file.name);
-    const collectionRef = db.collection('images');
+    const collectionRef = db.collection('imagenestemporales');
     
     storageRef.put(file).on('state_changed', (snap) => {
       let percentage = (snap.bytesTransferred / snap.totalBytes) * 100;

@@ -56,8 +56,8 @@ class UploadFile extends Component {
                             {/* <input type="file" style={{color: 'transparent'}} onChange={this.handleChange}/> */}
                             <label>
                                 <input type="file" onChange={this.handleChange} />
-                                <h4>Cargar Imágenes</h4>
-                                <MdAddCircle color="#3b5998" size="44" />
+                                <h4>Seleccionar Imágen</h4>
+                                {/* <MdAddCircle color="#3b5998" size="44" /> */}
                             </label>
                         </Col>
                     </Row>
