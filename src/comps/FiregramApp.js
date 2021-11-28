@@ -8,7 +8,7 @@ import useFirestore from '../hooks/useFirestore';
 
 function FiregramApp(parametroCodigoCliente) {
   const [selectedImg, setSelectedImg] = useState(null);
-  console.log('CLIENTE:',parametroCodigoCliente)
+  // console.log('CLIENTE:',parametroCodigoCliente)
   // const { docs } = useFirestore('images', parametroCodigoCliente)
   // console.log('DOCS',docs)
   // if(parametroCodigoCliente!=''){
