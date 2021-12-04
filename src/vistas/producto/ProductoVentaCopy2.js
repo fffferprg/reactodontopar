@@ -18,6 +18,9 @@ import NumberFormat from 'react-number-format';
 import ReactHTMLTableToExcel from 'react-html-table-to-excel';
 import { LinkContainer } from 'react-router-bootstrap';
 import FiregramApp from '../../comps/FiregramApp';
+import VincularImagenes from './VincularImagenes';
+import { BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-dom';
+
 
 
 class ProductoVenta extends Component {
@@ -737,13 +740,14 @@ manejarImagenes =()=>{
     })
     db.collection('imagenestemporales').get()
     .then((datos)=>{datos.forEach((dato)=>{
-            db.collection('imagenesfinales').add({
-                id : dato.id,
-                ...dato.data(), 
-                imagenNumeroFao : this.state.moviNumeroFao,
-                imagenClienteCodigo : this.state.moviClienteCodigo,
-     
-            })
+            // if(this.state.moviNumeroFao!=''){
+                db.collection('imagenesfinales').add({
+                    id : dato.id,
+                    ...dato.data(), 
+                    imagenNumeroFao : this.state.moviNumeroFao,
+                    imagenClienteCodigo : this.state.moviClienteCodigo,
+                })
+            // }
         })
     })
     .catch((error)=>{
@@ -1015,11 +1019,9 @@ renderListaMovimientos = () => {
     }
 
     limpiarCampos = () => {
+        console.log('moviNumeroFao=',this.state.moviNumeroFao)
+        this.manejarImagenes()
         this.setState({
-        // clienteNombre:'',
-        // clienteCodigo:0,
-        // clienteDocumento:0,
-        // clienteTelefono:0,
         mostrarFiltro:true,
         filtroMoviClienteNombre:'',
         filtroMoviProductoCodigo:'',
@@ -1032,11 +1034,6 @@ renderListaMovimientos = () => {
         filtroMoviPeriodoAnho:'',
         filtroMoviPeriodoMes:'',
         moviPeriodo:'',
-        // listaMovimientos: [],
-        // listaProductos: [],
-        // listaClientes: [],
-        // moviClienteEditarId:null,
-        // clienteEmail:'',
         moviClienteFechaNacimiento:'', 
         moviFecha:'',
         moviClienteCodigo:'',
@@ -1064,18 +1061,6 @@ renderListaMovimientos = () => {
         textoFechaNacimiento:'',
         textoCarnet:'',
         textoG$:'',
-        // zonasSeleccionadas:[],
-        // listaZonas : [],  // ESTO ES PARA CREAR LOS CHECKBOXS
-        // dientesZonas : [], //LISTA QUE SE VA A ENVIAR A DB 
-        // listaSeleccionados : [],
-        // dientesSeleccionados:[],
-        // seleccionados:[],
-        // listaDientes : [],  // ESTO ES PARA CREAR LOS CHECKBOXS
-        // dientesDientes : [], //LISTA QUE SE VA A ENVIAR A DB 
-        // listaTerceros : [],  // ESTO ES PARA CREAR LOS CHECKBOXS
-        // dientesTerceros : [], //LISTA QUE SE VA A ENVIAR A DB 
-        // tercerosSeleccionados :[],
-        // emailUsuario : '',
         menor: false,
         imputDisabled:true,
         })
@@ -1197,7 +1182,7 @@ renderListaMovimientos = () => {
                 .then(docRef =>{
                     this.state.idAgregado=docRef.id
                     this.manejarHistorial()
-                    this.manejarImagenes()
+                    // this.manejarImagenes()
                     this.limpiarCamposAbajo()  
                     toast.success('Insertado correctamente', {
                         position: "bottom-right",
@@ -1381,7 +1366,7 @@ manejarHistorial=()=>{
                         <Col md={12} sm = {12} xs = {12}>
                                 <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}{' '}{' '}
                                 <Button variant = "info" size="sm"  onClick={this.limpiarCampos}>Cambiar Paciente</Button>{' '}
-                                {/* <Button variant = "info" size="sm" onClick={() => {this.props.history.goBack()}}>Volver</Button>{' '} */}
+                                {/* <Button variant = "info" size="sm" onClick={<PrivateRoute exact path="/subirimagen" component={VincularImagenes}/>}>Vincular imagenes</Button>{' '} */}
                                 <Button style={{ backgroundColor:'#dedede', borderColor:'#dedede', color:'#000'}} size="sm"  onClick={this.limpiarCampos}>Limpiar Campos</Button>{' '}
                                     {/* <div align = "center">
                                     <ReactHTMLTableToExcel 
@@ -1463,11 +1448,11 @@ manejarHistorial=()=>{
 
                         </Col>
                     </Row>
-                    <Row>
+                    {/* <Row>
                         <Col>
                              <FiregramApp/>
                         </Col>
-                    </Row>
+                    </Row> */}
                     <Row>
                         <Col>
                                 <Table id = "tablaVentas" striped bordered hover size="sm"  >

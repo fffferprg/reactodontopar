@@ -24,6 +24,7 @@ import ProcedimientosLiberadosDetalle from './vistas/producto/ProcedimientosLibe
 import ProductoConfirmaFecha from './vistas/producto/ProductoConfirmaFecha';
 import ProductoHistorico from './vistas/producto/ProductoHistorico';
 import ProductoVentaCopy2 from './vistas/producto/ProductoVentaCopy2';
+import VincularImagenes from './vistas/producto/VincularImagenes';
 
 
 
@@ -115,7 +116,8 @@ componentDidMount(){
               {this.state.rolesUsuarios.includes('Roles')?<PrivateRoute exact path="/roles" component={Roles} usuarioLogeado={this.state.usuarioLogeado} />:null}
               <PrivateRoute exact path="/usuario/roles/:usuarioId" component={UsuarioRoles} usuarioLogeado={this.state.usuarioLogeado} />
               {this.state.rolesUsuarios.includes('Clientes')?<PrivateRoute exact path="/clientes" component={ClienteAbm} usuarioLogeado={this.state.usuarioLogeado}/>:null}
-              {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/>:null}
+              {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={VincularImagenes} usuarioLogeado={this.state.usuarioLogeado}/>:null}
+              {/* {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/>:null} */}
               {/* {this.state.rolesUsuarios.includes('Subir imagen')?<PrivateRoute exact path="/subirimagen" component={FiregramApp} usuarioLogeado={this.state.usuarioLogeado}/>:null} */}
               {/* <PrivateRoute exact path="/uploadfile" component={UploadFile} usuarioLogeado={this.state.usuarioLogeado}/> */}
               <PublicRoute  exact path="/" component={Login} usuarioLogeado={this.state.usuarioLogeado} logear= {this.logear}/>
