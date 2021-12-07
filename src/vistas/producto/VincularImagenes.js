@@ -8,6 +8,28 @@ class VincularImagenes extends Component {
     state={
         moviNumeroFao:'',
     }
+///////////////////////// MANEJAR IMAGENES TEMPORALES ///////////////////////////
+manejarImagenes =()=>{
+    db.collection('imagenestemporales').get()
+    .then((datos)=>{datos.forEach((dato)=>{
+            // if(this.state.moviNumeroFao!=''){
+                db.collection('imagenesfinales').add({
+                    id : dato.id,
+                    ...dato.data(), 
+                    imagenNumeroFao : this.state.moviNumeroFao,
+                })
+            // }
+        })
+    })
+    .catch((error)=>{
+        alert(error)
+    })
+}
+////////////////////////CAPTURAR TECLA ///////////////////////
+capturarTecla=(evento)=>{
+    this.setState({[evento.target.name]:evento.target.value})
+}
+
 
     render() {
         return (
@@ -29,43 +51,11 @@ class VincularImagenes extends Component {
                     </Row>
                 </Form>
                 {/* <FiregramApp/> */}
-                <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.guardar()}}>Guardar</Button>{' '}{' '}{' '}
+                <Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Guardar</Button>{' '}{' '}{' '}
             </div>
         )
     }
 }
 
-///////////////////////// MANEJAR IMAGENES TEMPORALES ///////////////////////////
-// manejarImagenes =()=>{
-//     let listaImagenesTemporal = []
-//     db.collection('imagenestemporales').get()
-//     .then((imagenes)=>{imagenes.forEach((imagen)=>{
-//             listaImagenesTemporal.push({
-//                 id : imagen.id,
-//                 ...imagen.data()      
-//             })
-//         })
-//         this.setState({
-//             listaImagenesProvisorias : listaImagenesTemporal
-//         })
-//     })
-//     .catch((error)=>{
-//         alert(error)
-//     })
-//     db.collection('imagenestemporales').get()
-//     .then((datos)=>{datos.forEach((dato)=>{
-//             // if(this.state.moviNumeroFao!=''){
-//                 db.collection('imagenesfinales').add({
-//                     id : dato.id,
-//                     ...dato.data(), 
-//                     imagenNumeroFao : this.state.moviNumeroFao,
-//                     imagenClienteCodigo : this.state.moviClienteCodigo,
-//                 })
-//             // }
-//         })
-//     })
-//     .catch((error)=>{
-//         alert(error)
-//     })
-// }
+
 export default  withRouter(VincularImagenes)
