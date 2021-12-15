@@ -23,14 +23,13 @@ manejarImagenes =()=>{
                 .then(()=>{
                     toast.success('Imagenes vinculadas correctamente', {
                         position: "bottom-right",
-                        autoClose: 1000,
+                        autoClose: 1500,
                         hideProgressBar: false,
                         closeOnClick: true,
                         pauseOnHover: true,
                         draggable: true,
                         progress: undefined,
                         });
-
                 })
             // }
         })
@@ -74,6 +73,7 @@ capturarTecla=(evento)=>{
                             <FiregramApp/>
                         </Col>
                     </Row>
+                    <ToastContainer />  
                 </Form>
             </div>
         )
