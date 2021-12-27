@@ -16,11 +16,23 @@ class VincularImagenes extends Component {
         filtroClienteCodigo:'',
         moviTotalFaoBruto:'',
         textoG$:'G$: ',
+        vencimienti1: '',
+        vencimienti2: '',
+        vencimienti3: '',
+        comentario1:'',
+        comentario2:'',
+        comentario3:'',
     }
 //////////////////////////////////componentDidMount /////////////////
 componentDidMount(){
     this.obtenerClientes()
 }
+//////////////////////////////////componentDidMount /////////////////
+componentWillUnmount(){
+    this.borrarImagenesTemporales()
+}
+
+
 ///////////////////////// MODAL CLIENTES ///////////////////////////
         openClienteModal=()=>{
             this.setState({
@@ -140,6 +152,14 @@ limpiarCampos=()=>{
         listaClientes: [],
         filtroClienteNombre:'',
         filtroClienteCodigo:'',
+        moviTotalFaoBruto:'',
+        vencimienti1: '',
+        vencimienti2: '',
+        vencimienti3: '',
+        comentario1:'',
+        comentario2:'',
+        comentario3:'',
+
     })
 }
 
@@ -149,7 +169,8 @@ limpiarCampos=()=>{
             <div>
                 <Form>
                     <Row style = {{textAlign : "center", backgroundColor:"#dbdbdb", paddingTop:5}}>
-                         <Col md={8} sm = {12} xs = {12} ><h4>VINCULAR IMAGENES A PACIENTE</h4></Col>
+                         <Col md={4} sm = {12} xs = {12} ><h4>VINCULAR IMAGENES</h4></Col>
+                         <Col md={2} sm = {6} xs = {6} style={{paddingTop:5}}><h5>{this.state.textoG$}{formatoFinal.format(this.state.moviTotalFaoBruto)}</h5></Col>
                         <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Vincular</Button></Col>{' '}{' '}{' '}
                         {/* <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.borrarImagenesTemporales()}}>Borrar</Button></Col>{' '}{' '}{' '} */}
                     </Row>
@@ -160,21 +181,18 @@ limpiarCampos=()=>{
                                 <Form.Control type="number" size="sm"  name="moviClienteCodigo" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
                             </Form.Group>                        
                         </Col>
-                         <Col md={2} sm = {6} xs = {6}>
+                         {/* <Col md={2} sm = {6} xs = {6}>
                             <Form.Group>
                                 <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
                                 <Form.Control type="number" size="sm" name="moviNumeroFao"  value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
                             </Form.Group>
-                        </Col>
+                        </Col> */}
                         <Col md={2} sm = {6} xs = {6}>
                             <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Total FAO</Form.Label>
+                                <Form.Label style={{fontSize:"14px"}}>Valor FAO</Form.Label>
                                 <Form.Control type="number" size="sm" name="moviTotalFaoBruto"  value={this.state.moviTotalFaoBruto} onChange={this.capturarTecla} />
-                                {/* <Form.Control type="number" size="sm"  name="moviTotalFaoBruto" value = {formatoFinal.format(this.state.moviTotalFaoBruto)} onChange={this.capturarTecla}  /> */}
                             </Form.Group>
                         </Col>
-                        {/* <Form.Label style={{fontSize:"14px"}, {paddingTop:20}}>x </Form.Label> */}
-                        <Col md={2} sm = {6} xs = {6} style={{paddingTop:35}}>{this.state.textoG$}{formatoFinal.format(this.state.moviTotalFaoBruto)}</Col>
 
                         {/* <Col md={2} sm = {6} xs = {6}>
                             <div>
@@ -184,6 +202,52 @@ limpiarCampos=()=>{
                             </div>
                         </Col> */}
                     </Row>
+                    <Row style = {{textAlign : "left"}}>
+                        <Col md={12} sm = {12} xs = {12}>{this.state.moviClienteNombre} </Col>                
+                    </Row>
+                    <Row>
+                        <Col md={2} sm = {6} xs = {6}>
+                        <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>1er Vencimmiento</Form.Label>
+                                <Form.Control type="number" size="sm"  name="vencimiento1" placeholder="En meses" value = {this.state.vencimiento1} onChange={this.capturarTecla} />
+                            </Form.Group>                        
+                        </Col>
+                        <Col md={6} sm = {6} xs = {6}>
+                        <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Comentario</Form.Label>
+                                <Form.Control type="text" size="sm"  name="comentario1" value = {this.state.comentario1} onChange={this.capturarTecla} />
+                            </Form.Group>                        
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col md={2} sm = {6} xs = {6}>
+                        <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>2do Vencimiento</Form.Label>
+                                <Form.Control type="number" size="sm"  name="vencimiento2" placeholder="En meses" value = {this.state.vencimiento2} onChange={this.capturarTecla} />
+                            </Form.Group>                        
+                        </Col>
+                        <Col md={6} sm = {6} xs = {6}>
+                        <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Comentario</Form.Label>
+                                <Form.Control type="text" size="sm"  name="comentario2" value = {this.state.comentario2} onChange={this.capturarTecla} />
+                            </Form.Group>                        
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col md={2} sm = {6} xs = {6}>
+                        <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>3er Vencimiento</Form.Label>
+                                <Form.Control type="number" size="sm"  name="vencimiento3" placeholder="En meses" value = {this.state.vencimiento3} onChange={this.capturarTecla} />
+                            </Form.Group>                        
+                        </Col>
+                        <Col md={6} sm = {6} xs = {6}>
+                        <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Comentario</Form.Label>
+                                <Form.Control type="text" size="sm"  name="comentario3" value = {this.state.comentario3} onChange={this.capturarTecla} />
+                            </Form.Group>                        
+                        </Col>
+                    </Row>
+
                     <Row>
                         <Col md={12} sm = {12} xs = {12}>
                             <FiregramApp/>
