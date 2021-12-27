@@ -14,6 +14,8 @@ class VincularImagenes extends Component {
         listaClientes: [],
         filtroClienteNombre:'',
         filtroClienteCodigo:'',
+        moviTotalFaoBruto:'',
+        textoG$:'G$: ',
     }
 //////////////////////////////////componentDidMount /////////////////
 componentDidMount(){
@@ -93,6 +95,9 @@ manejarImagenes =()=>{
                     id : dato.id,
                     ...dato.data(), 
                     imagenNumeroFao : this.state.moviNumeroFao,
+                    imagenClienteCodigo : this.state.moviClienteCodigo,
+                    imagenClienteNombre : this.state.moviClienteNombre,
+                    imagenTotalFaoBruto : this.state.moviTotalFaoBruto,
                 })
                 .then(()=>{
                     toast.success('Imagenes vinculadas correctamente', {
@@ -104,6 +109,7 @@ manejarImagenes =()=>{
                         draggable: true,
                         progress: undefined,
                         });
+                        this.limpiarCampos()
                 })
             // }
         })
@@ -126,42 +132,67 @@ capturarTecla=(evento)=>{
     this.setState({[evento.target.name]:evento.target.value})
 }
 
+///////////////////////LIMPIAR CAMPOS
+limpiarCampos=()=>{
+    this.setState ({
+        moviClienteCodigo:'',
+        moviNumeroFao:'',
+        listaClientes: [],
+        filtroClienteNombre:'',
+        filtroClienteCodigo:'',
+    })
+}
 
     render() {
+        const formatoFinal = new Intl.NumberFormat('de-DE')
         return (
             <div>
                 <Form>
                     <Row style = {{textAlign : "center", backgroundColor:"#dbdbdb", paddingTop:5}}>
                          <Col md={8} sm = {12} xs = {12} ><h4>VINCULAR IMAGENES A PACIENTE</h4></Col>
-                         <Col md={2} sm = {6} xs = {6}>
+                        <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Vincular</Button></Col>{' '}{' '}{' '}
+                        {/* <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.borrarImagenesTemporales()}}>Borrar</Button></Col>{' '}{' '}{' '} */}
+                    </Row>
+                    <Row >
+                        <Col md={2} sm = {6} xs = {6}>
                             <Form.Group>
-                                {/* <Form.Label style={{fontSize:"14px"}}>Expediente *</Form.Label> */}
-                                <Form.Control type="number" size="sm"  name="moviClienteCodigo" placeholder="Expediente" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
+                                <Form.Label style={{fontSize:"14px"}}>Expediente *</Form.Label>
+                                <Form.Control type="number" size="sm"  name="moviClienteCodigo" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
                             </Form.Group>                        
                         </Col>
                          <Col md={2} sm = {6} xs = {6}>
                             <Form.Group>
-                                {/* <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label> */}
-                                <Form.Control type="number" size="sm" name="moviNumeroFao" placeholder="Nro.Fao" value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
+                                <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
+                                <Form.Control type="number" size="sm" name="moviNumeroFao"  value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
                             </Form.Group>
                         </Col>
-                        <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Vincular</Button></Col>{' '}{' '}{' '}
-                        <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.borrarImagenesTemporales()}}>Borrar</Button></Col>{' '}{' '}{' '}
+                        <Col md={2} sm = {6} xs = {6}>
+                            <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Total FAO</Form.Label>
+                                <Form.Control type="number" size="sm" name="moviTotalFaoBruto"  value={this.state.moviTotalFaoBruto} onChange={this.capturarTecla} />
+                                {/* <Form.Control type="number" size="sm"  name="moviTotalFaoBruto" value = {formatoFinal.format(this.state.moviTotalFaoBruto)} onChange={this.capturarTecla}  /> */}
+                            </Form.Group>
+                        </Col>
+                        {/* <Form.Label style={{fontSize:"14px"}, {paddingTop:20}}>x </Form.Label> */}
+                        <Col md={2} sm = {6} xs = {6} style={{paddingTop:35}}>{this.state.textoG$}{formatoFinal.format(this.state.moviTotalFaoBruto)}</Col>
+
+                        {/* <Col md={2} sm = {6} xs = {6}>
+                            <div>
+                                <img style={{width:"20", heigh:"20"}}
+                                    src={`https://firebasestorage.googleapis.com/v0/b/devodontopar.appspot.com/o/WhatsApp%20Image%202020-12-28%20at%2010.12.40.jpeg?alt=media&token=fcbf4a53-c6d9-41e8-b73a-986013a05f20`}
+                                />
+                            </div>
+                        </Col> */}
                     </Row>
-                    <Row >
+                    <Row>
                         <Col md={12} sm = {12} xs = {12}>
                             <FiregramApp/>
                             <PopupClientes
                                     propsShowClienteModal={this.state.showClienteModal} 
                                     funcionCloseClienteModal={this.closeClienteModal} 
                                     funcionCapturarTecla={this.capturarTecla} 
-                                    // funcionGuardar={this.guardar}
-                                    // funcionCapturarPrecio={this.capturarPrecio}
-                                    // listaProductos={this.state.listaProductos}
                                     funcionRenderListaClientes={this.renderListaClientes}
-                                    // funcionLimpiarCampos={this.limpiarCampos}
                                     atributos = {this.state}/>
-
                         </Col>
                     </Row>
                     <ToastContainer />  
