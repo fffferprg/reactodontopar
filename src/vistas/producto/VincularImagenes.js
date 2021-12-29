@@ -5,6 +5,8 @@ import { Row, Col, Form, Button, Table, OverlayTrigger, Tooltip, InputGroup, For
 import firebase, {db} from '../../config/firebase';
 import { ToastContainer, toast } from 'react-toastify';
 import PopupClientes from '../clientes/PopupClientes';
+import NumberFormat from 'react-number-format';
+
 
 
 class VincularImagenes extends Component {
@@ -143,6 +145,9 @@ borrarImagenesTemporales=()=>{
 capturarTecla=(evento)=>{
     this.setState({[evento.target.name]:evento.target.value})
 }
+capturarValorFormato=(evento, name)=>{
+    this.setState({[name]:evento.floatValue})
+}
 
 ///////////////////////LIMPIAR CAMPOS
 limpiarCampos=()=>{
@@ -170,29 +175,17 @@ limpiarCampos=()=>{
                 <Form>
                     <Row style = {{textAlign : "center", backgroundColor:"#dbdbdb", paddingTop:5}}>
                          <Col md={4} sm = {12} xs = {12} ><h4>VINCULAR IMAGENES</h4></Col>
-                         <Col md={2} sm = {6} xs = {6} style={{paddingTop:5}}><h5>{this.state.textoG$}{formatoFinal.format(this.state.moviTotalFaoBruto)}</h5></Col>
-                        <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Vincular</Button></Col>{' '}{' '}{' '}
+                         {/* <Col md={2} sm = {6} xs = {6} style={{paddingTop:5}}><h5>{this.state.textoG$}{formatoFinal.format(this.state.moviTotalFaoBruto)}</h5></Col> */}
                         {/* <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.borrarImagenesTemporales()}}>Borrar</Button></Col>{' '}{' '}{' '} */}
                     </Row>
                     <Row >
                         <Col md={2} sm = {6} xs = {6}>
                             <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Expediente *</Form.Label>
+                                <Form.Label style={{fontSize:"14px"}}>Paciente *</Form.Label>
                                 <Form.Control type="number" size="sm"  name="moviClienteCodigo" value = {this.state.moviClienteCodigo} onChange={this.capturarTecla} onClick={this.openClienteModal} />
                             </Form.Group>                        
                         </Col>
-                         {/* <Col md={2} sm = {6} xs = {6}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
-                                <Form.Control type="number" size="sm" name="moviNumeroFao"  value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
-                            </Form.Group>
-                        </Col> */}
-                        <Col md={2} sm = {6} xs = {6}>
-                            <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Valor FAO</Form.Label>
-                                <Form.Control type="number" size="sm" name="moviTotalFaoBruto"  value={this.state.moviTotalFaoBruto} onChange={this.capturarTecla} />
-                            </Form.Group>
-                        </Col>
+                        <Col md={4} sm = {6} xs = {6} style = {{paddingTop:25}} >{this.state.moviClienteNombre} </Col>   
 
                         {/* <Col md={2} sm = {6} xs = {6}>
                             <div>
@@ -202,8 +195,25 @@ limpiarCampos=()=>{
                             </div>
                         </Col> */}
                     </Row>
-                    <Row style = {{textAlign : "left"}}>
-                        <Col md={12} sm = {12} xs = {12}>{this.state.moviClienteNombre} </Col>                
+                    <Row >
+                        <Col md={2} sm = {6} xs = {6}>
+                            <Form.Group>
+                                <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
+                                <Form.Control type="number" size="sm" name="moviNumeroFao"  value={this.state.moviNumeroFao} onChange={this.capturarTecla} />
+                            </Form.Group>
+                        </Col>
+                        <Col md={2} sm = {6} xs = {6} >
+                            <Form.Group>
+                                        <Form.Label>Total FAO G$</Form.Label>
+                                        <NumberFormat style = {{borderColor:'#f3f3f3', backgroundColor:'#fff', width:'150px', borderRadius:"4px"}} 
+                                        value={this.state.moviTotalFaoBruto} onValueChange ={(evento)=>{this.capturarValorFormato(evento, "moviTotalFaoBruto" )}} thousandSeparator ={true} />
+                            </Form.Group>
+                        </Col>             
+                    </Row>
+                    <Row>
+                        <Col>
+                            <FiregramApp/>
+                        </Col>
                     </Row>
                     <Row>
                         <Col md={2} sm = {6} xs = {6}>
@@ -250,7 +260,8 @@ limpiarCampos=()=>{
 
                     <Row>
                         <Col md={12} sm = {12} xs = {12}>
-                            <FiregramApp/>
+                            {/* <FiregramApp/> */}
+                            <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Grabar</Button></Col>{' '}{' '}{' '}
                             <PopupClientes
                                     propsShowClienteModal={this.state.showClienteModal} 
                                     funcionCloseClienteModal={this.closeClienteModal} 
