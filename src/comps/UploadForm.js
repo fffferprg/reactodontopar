@@ -30,7 +30,7 @@ const UploadForm = () => {
     <form>
       <label>
         <input type="file" onChange={handleChange} />
-          <h6>Cargar Imagen</h6>
+          <h6>Cargar Imagenes</h6>
           <MdAddCircle color="#3b5998" size="44" />
       </label>
       <div className="output">

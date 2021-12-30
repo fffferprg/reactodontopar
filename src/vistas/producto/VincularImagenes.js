@@ -17,10 +17,11 @@ class VincularImagenes extends Component {
         filtroClienteNombre:'',
         filtroClienteCodigo:'',
         moviTotalFaoBruto:'',
+        moviClienteNombre:'',
         textoG$:'G$: ',
-        vencimienti1: '',
-        vencimienti2: '',
-        vencimienti3: '',
+        notificacion1: '',
+        notificacion2: '',
+        notificacion3: '',
         comentario1:'',
         comentario2:'',
         comentario3:'',
@@ -100,38 +101,52 @@ renderListaClientes = () => {
         )
     })
 }
-///////////////////////// MANEJAR IMAGENES TEMPORALES ///////////////////////////
+///////////////////////// MANEJAR IMAGENES  ///////////////////////////
 manejarImagenes =()=>{
-    db.collection('imagenestemporales').get()
-    .then((datos)=>{datos.forEach((dato)=>{
-            // if(this.state.moviNumeroFao!=''){
-                db.collection('imagenesfinales').add({
-                    id : dato.id,
-                    ...dato.data(), 
-                    imagenNumeroFao : this.state.moviNumeroFao,
-                    imagenClienteCodigo : this.state.moviClienteCodigo,
-                    imagenClienteNombre : this.state.moviClienteNombre,
-                    imagenTotalFaoBruto : this.state.moviTotalFaoBruto,
-                })
-                .then(()=>{
-                    toast.success('Imagenes vinculadas correctamente', {
-                        position: "bottom-right",
-                        autoClose: 1500,
-                        hideProgressBar: false,
-                        closeOnClick: true,
-                        pauseOnHover: true,
-                        draggable: true,
-                        progress: undefined,
-                        });
-                        this.limpiarCampos()
-                })
-            // }
-        })
-    })
-    .catch((error)=>{
-        alert(error)
-    })
-    this.borrarImagenesTemporales()
+    if(this.state.moviNumeroFao
+        && this.state.moviClienteCodigo
+        && this.state.moviTotalFaoBruto
+        && this.state.notificacion1
+        && this.state.comentario1){
+            db.collection('imagenestemporales').get().then((datos)=>{datos.forEach((dato)=>{
+                if(dato[0]){
+                        db.collection('imagenesfinales').add({
+                            id : dato.id,
+                            ...dato.data(), 
+                            imagenNumeroFao : this.state.moviNumeroFao,
+                            imagenClienteCodigo : this.state.moviClienteCodigo,
+                            imagenClienteNombre : this.state.moviClienteNombre,
+                            imagenTotalFaoBruto : this.state.moviTotalFaoBruto,
+                            imagenNotificacion1: this.state.notificacion1,
+                            imagenComentario1: this.state.comentario1,
+                            imagenNotificacion2: this.state.notificacion2,
+                            imagenComentario2: this.state.comentario2,
+                            imagenNotificacion3: this.state.notificacion3,
+                            imagenComentario3: this.state.comentario3,
+                        })
+                        .then(()=>{
+                            toast.success('Imagenes vinculadas correctamente', {
+                                position: "bottom-right",
+                                autoClose: 1500,
+                                hideProgressBar: false,
+                                closeOnClick: true,
+                                pauseOnHover: true,
+                                draggable: true,
+                                progress: undefined,
+                                });
+                                this.limpiarCampos()
+                        })
+                }else{alert('Debe cargar al menos una imagen')}
+            })
+            })
+            .catch((error)=>{
+                alert(error)
+            })
+            this.borrarImagenesTemporales()
+    }else{
+        alert('Los campos con * son obligatorios')  
+
+    }
 }
 /////////////////////// BORRAR IMAGENESTEMPORALES ////////////////
 borrarImagenesTemporales=()=>{
@@ -145,29 +160,31 @@ borrarImagenesTemporales=()=>{
 capturarTecla=(evento)=>{
     this.setState({[evento.target.name]:evento.target.value})
 }
+////////////////////////CAPTURAR VALOR ///////////////////////
+
 capturarValorFormato=(evento, name)=>{
     this.setState({[name]:evento.floatValue})
 }
 
-///////////////////////LIMPIAR CAMPOS
+/////////////////////////////////LIMPIAR CAMPOS
 limpiarCampos=()=>{
     this.setState ({
         moviClienteCodigo:'',
         moviNumeroFao:'',
-        listaClientes: [],
         filtroClienteNombre:'',
         filtroClienteCodigo:'',
         moviTotalFaoBruto:'',
-        vencimienti1: '',
-        vencimienti2: '',
-        vencimienti3: '',
+        moviClienteNombre:'',
+        vencimiento1: '',
+        vencimiento2: '',
+        vencimiento3: '',
         comentario1:'',
         comentario2:'',
         comentario3:'',
 
     })
 }
-
+/////////////////////////////////////////    RENDER
     render() {
         const formatoFinal = new Intl.NumberFormat('de-DE')
         return (
@@ -195,7 +212,7 @@ limpiarCampos=()=>{
                             </div>
                         </Col> */}
                     </Row>
-                    <Row >
+                    <Row style = {{textAlign : "right"}}>
                         <Col md={2} sm = {6} xs = {6}>
                             <Form.Group>
                                 <Form.Label style={{fontSize:"14px"}}>Nro.FAO. *</Form.Label>
@@ -204,7 +221,7 @@ limpiarCampos=()=>{
                         </Col>
                         <Col md={2} sm = {6} xs = {6} >
                             <Form.Group>
-                                        <Form.Label>Total FAO G$</Form.Label>
+                                        <Form.Label>Total FAO G$ *</Form.Label>
                                         <NumberFormat style = {{borderColor:'#f3f3f3', backgroundColor:'#fff', width:'150px', borderRadius:"4px"}} 
                                         value={this.state.moviTotalFaoBruto} onValueChange ={(evento)=>{this.capturarValorFormato(evento, "moviTotalFaoBruto" )}} thousandSeparator ={true} />
                             </Form.Group>
@@ -218,13 +235,13 @@ limpiarCampos=()=>{
                     <Row>
                         <Col md={2} sm = {6} xs = {6}>
                         <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>1er Vencimmiento</Form.Label>
-                                <Form.Control type="number" size="sm"  name="vencimiento1" placeholder="En meses" value = {this.state.vencimiento1} onChange={this.capturarTecla} />
+                                <Form.Label style={{fontSize:"14px"}}>1ra Notificacion *</Form.Label>
+                                <Form.Control type="number" size="sm"  name="notificacion1" placeholder="En meses" value = {this.state.notificacion1} onChange={this.capturarTecla} />
                             </Form.Group>                        
                         </Col>
                         <Col md={6} sm = {6} xs = {6}>
                         <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>Comentario</Form.Label>
+                                <Form.Label style={{fontSize:"14px"}}>Comentario *</Form.Label>
                                 <Form.Control type="text" size="sm"  name="comentario1" value = {this.state.comentario1} onChange={this.capturarTecla} />
                             </Form.Group>                        
                         </Col>
@@ -232,8 +249,8 @@ limpiarCampos=()=>{
                     <Row>
                         <Col md={2} sm = {6} xs = {6}>
                         <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>2do Vencimiento</Form.Label>
-                                <Form.Control type="number" size="sm"  name="vencimiento2" placeholder="En meses" value = {this.state.vencimiento2} onChange={this.capturarTecla} />
+                                <Form.Label style={{fontSize:"14px"}}>2da Notificacion</Form.Label>
+                                <Form.Control type="number" size="sm"  name="notificacion2" placeholder="En meses" value = {this.state.notificacion2} onChange={this.capturarTecla} />
                             </Form.Group>                        
                         </Col>
                         <Col md={6} sm = {6} xs = {6}>
@@ -246,8 +263,8 @@ limpiarCampos=()=>{
                     <Row>
                         <Col md={2} sm = {6} xs = {6}>
                         <Form.Group>
-                                <Form.Label style={{fontSize:"14px"}}>3er Vencimiento</Form.Label>
-                                <Form.Control type="number" size="sm"  name="vencimiento3" placeholder="En meses" value = {this.state.vencimiento3} onChange={this.capturarTecla} />
+                                <Form.Label style={{fontSize:"14px"}}>3ra Notificacion</Form.Label>
+                                <Form.Control type="number" size="sm"  name="notificacion3" placeholder="En meses" value = {this.state.notificacion3} onChange={this.capturarTecla} />
                             </Form.Group>                        
                         </Col>
                         <Col md={6} sm = {6} xs = {6}>
@@ -260,7 +277,6 @@ limpiarCampos=()=>{
 
                     <Row>
                         <Col md={12} sm = {12} xs = {12}>
-                            {/* <FiregramApp/> */}
                             <Col><Button style={{ backgroundColor:'#3b5998', borderColor:'#3b5998', color:'#fff'}} size="sm" onClick={() => {this.manejarImagenes()}}>Grabar</Button></Col>{' '}{' '}{' '}
                             <PopupClientes
                                     propsShowClienteModal={this.state.showClienteModal} 
